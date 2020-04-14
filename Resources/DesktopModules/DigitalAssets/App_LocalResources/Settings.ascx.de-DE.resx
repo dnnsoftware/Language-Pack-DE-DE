@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BasicSettings.Text">
+    <value xml:space="preserve">Grundeinstellungen</value>
+  </data>
+  <data name="DefaultFolderType.Help">
+    <value xml:space="preserve">Legen Sie hier den Standardtyp fest, der bei der Erstellung von Ordnern im Basisverzeichnis verwendet werden soll.</value>
+  </data>
+  <data name="DefaultFolderType.Text">
+    <value xml:space="preserve">Standard-Ordnertyp</value>
+  </data>
+  <data name="ExcludeSubfolders.Text">
+    <value xml:space="preserve">Unterordner ausschließen</value>
+  </data>
+  <data name="ExcludeSubfoldersLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, wenn das Modul nur Dateien und Dateien in Unterordnern anzeigen soll, aber nicht die Unterordner selbst.</value>
+  </data>
+  <data name="FilterByFolder.Text">
+    <value xml:space="preserve">Nach Ordner filtern</value>
+  </data>
+  <data name="FolderMustBeSelected.ErrorMessage">
+    <value xml:space="preserve">Sie müssen einen Ordner auswählen, um danach filtern zu können.</value>
+  </data>
+  <data name="Group.Text">
+    <value xml:space="preserve">Gruppe</value>
+  </data>
+  <data name="IncludeSubfoldersFilesOnly.Text">
+    <value xml:space="preserve">Unterordner einschließen (nur  Dateien)</value>
+  </data>
+  <data name="IncludeSubfoldersFolderStructure.Text">
+    <value xml:space="preserve">Unterordner einschließen (Verzeichnisstruktur)</value>
+  </data>
+  <data name="Mode.Help">
+    <value xml:space="preserve">Legen Sie hier den Modus des Moduls fest</value>
+  </data>
+  <data name="Mode.Text">
+    <value xml:space="preserve">Modus</value>
+  </data>
+  <data name="Normal.Text">
+    <value xml:space="preserve">normal</value>
+  </data>
+  <data name="NoSet.Text">
+    <value xml:space="preserve">nicht festgelegt</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Benutzer</value>
+  </data>
+  <data name="ViewCondition.Help">
+    <value xml:space="preserve">Wählen Sie die Filterung für die Einträge im Raster.</value>
+  </data>
+  <data name="ViewCondition.Text">
+    <value xml:space="preserve">Anzeige-Einstellungen</value>
+  </data>
+  <data name="ExcludeSubfoldersLabel.Text">
+    <value />
+  </data>
+</root>

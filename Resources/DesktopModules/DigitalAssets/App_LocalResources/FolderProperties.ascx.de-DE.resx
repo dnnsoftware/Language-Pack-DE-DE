@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CancelButton.Text">
+    <value xml:space="preserve">abbrechen</value>
+  </data>
+  <data name="cmdCopyPerm.Text">
+    <value xml:space="preserve">Berechtigungen kopieren</value>
+  </data>
+  <data name="DialogTitle.Text">
+    <value xml:space="preserve">Ordnerinformationen zu {0}</value>
+  </data>
+  <data name="FolderNameLabel.Help">
+    <value xml:space="preserve">Aktuellen Ordnernamen ändern</value>
+  </data>
+  <data name="FolderNameLabel.Text">
+    <value xml:space="preserve">Ordnername</value>
+  </data>
+  <data name="FolderTypeLabel.Help">
+    <value xml:space="preserve">Dieser Wert gibt den Ordnertyp des aktuellen Ordners an.</value>
+  </data>
+  <data name="FolderTypeLabel.Text">
+    <value xml:space="preserve">Ordnertyp</value>
+  </data>
+  <data name="GeneralTab.Text">
+    <value xml:space="preserve">allgemein</value>
+  </data>
+  <data name="lblCopyPerm.Help">
+    <value xml:space="preserve">Wählen Sie diese Aktion, um die Berechtigungen des aktuellen Ordners auf alle Unterordner zu übertragen.</value>
+  </data>
+  <data name="lblCopyPerm.Text">
+    <value xml:space="preserve">Berechtigungen auf Unterordner übertragen:</value>
+  </data>
+  <data name="PermissionCopyError.Text">
+    <value xml:space="preserve">Beim Kopieren der Berechtigungen ist ein Fehler aufgetreten.</value>
+  </data>
+  <data name="PermissionsCopied.Text">
+    <value xml:space="preserve">Die Berechtigungen wurden kopiert.</value>
+  </data>
+  <data name="PermissionsTab.Text">
+    <value xml:space="preserve">Berechtigungen</value>
+  </data>
+  <data name="SaveButton.Text">
+    <value xml:space="preserve">speichern</value>
+  </data>
+  <data name="UserCannotChangePermissionsError.Text">
+    <value xml:space="preserve">Sie verfügen nicht über die Berechtigung, die Berechtigungen dieses Ordners zu ändern.</value>
+  </data>
+  <data name="UserCannotEditFolderError.Text">
+    <value xml:space="preserve">Sie verfügen nicht über die Berechtigung, diesen Ordner zu bearbeiten.</value>
+  </data>
+  <data name="UserCannotReadFolderError.Text">
+    <value xml:space="preserve">Sie verfügen nicht über die Berechtigung, diesen Ordner zu lesen.</value>
+  </data>
+</root>

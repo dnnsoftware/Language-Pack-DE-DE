@@ -1,0 +1,986 @@
+<dotnetnuke type="Package" version="5.0">
+  <packages>
+    <package name="Core_de-DE" type="CoreLanguagePack" version="09.02.00">
+      <friendlyName>DNN Core Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for DNN Core.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="CoreLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <fallback />
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>Export.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>Import.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModuleLocalization.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModulePermissions.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModuleSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ViewSource.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Portal\App_LocalResources</path>
+              <name>Privacy.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Portal\App_LocalResources</path>
+              <name>Terms.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>AccessDenied.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>PasswordReset.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>SendPassword.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Copyright.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Language.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToFullSite.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToMobileSite.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToTabletSite.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Login.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Privacy.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Search.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Tags.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Terms.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Toast.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>TreeViewMenu.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>User.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>UserAndLogin.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Tabs\App_LocalResources</path>
+              <name>Export.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Tabs\App_LocalResources</path>
+              <name>Import.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Users\App_LocalResources</path>
+              <name>ViewProfile.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>Exceptions.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>FileUpload.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>GlobalResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>List_Country.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>WebControls.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>Address.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>DualListControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>filepickeruploader.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>Help.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>LocaleSelectorControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>ModuleAuditControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>SkinControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>TextEditor.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>URLControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>UrlTrackingControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>User.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Authentication.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Login.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Logoff.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Console\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Console\App_LocalResources</path>
+              <name>ViewConsole.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\HtmlEditorManager\App_LocalResources</path>
+              <name>ProviderConfiguration.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\HtmlEditorManager\Controls\App_LocalResources</path>
+              <name>InvalidConfiguration.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
+              <name>CreateModule.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
+              <name>ViewSource.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>ResultsSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>SearchableModules.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>SearchResults.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditGroups.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditProfileDefinition.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditRoles.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditUser.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>ManageUsers.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>MemberServices.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Membership.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Password.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Profile.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>ProfileDefinitions.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Register.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Roles.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>SecurityRoles.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>User.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Users.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>UserSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>ViewProfile.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Install\App_LocalResources</path>
+              <name>Installwizard.aspx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Install\App_LocalResources</path>
+              <name>UpgradeWizard.aspx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Portals\_default</path>
+              <name>Blank Website.template.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Portals\_default</path>
+              <name>Default Website.template.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+              <name>AuthenticationEditor.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+              <name>EditExtension.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DDRMenu_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DDR Menu Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for DDR Menu.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>DDRMenu</package>
+            <languageFile>
+              <path>DesktopModules\DDRMenu\App_LocalResources</path>
+              <name>MenuSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DDRMenu\App_LocalResources</path>
+              <name>MenuView.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DigitalAssetsManagement_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Digital Asset Management Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Digital Asset Management.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>DigitalAssetsManagement</package>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>EditFolderMapping.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FileFieldsControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FileProperties.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FolderMappings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FolderProperties.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>SearchBoxControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNN_HTML_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>HTML Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for HTML.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>DNN_HTML</package>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>EditHtml.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>HtmlModule.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>MyWork.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>Workflow.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Journal_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Journal Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Journal.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>Journal</package>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>Edit.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Modules.MemberDirectory_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Member Directory Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Member Directory.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>DotNetNuke.Modules.MemberDirectory</package>
+            <languageFile>
+              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Modules.CoreMessaging_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Message Center Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Message Center.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>DotNetNuke.Modules.CoreMessaging</package>
+            <languageFile>
+              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNNCorp.RazorHost_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Razor Host Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Razor Host.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>DNNCorp.RazorHost</package>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>AddScript.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>CreateModule.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>EditScript.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>RazorHost.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Social Groups_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Social Groups Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Social Groups.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>Social Groups</package>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>CreateSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>Edit.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>ListSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DefaultAuthentication_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Default Authentication Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Default Authentication.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>DefaultAuthentication</package>
+            <languageFile>
+              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+              <name>Login.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.EditBar.UI_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Dnn.EditBar.UI Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Dnn.EditBar.UI.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>Dnn.EditBar.UI</package>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddExistingModule.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddModule.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>Common.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>EditBar.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\Resources\ContentEditorManager\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.PersonaBar.UI_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Dnn.PersonaBar.UI Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Dnn.PersonaBar.UI.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>Dnn.PersonaBar.UI</package>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>PersonaBar.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>Tabs.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.AdminLogs\App_LocalResources</path>
+              <name>AdminLogs.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.ConfigConsole\App_LocalResources</path>
+              <name>ConfigConsole.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.CssEditor\App_LocalResources</path>
+              <name>CssEditor.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Extensions\App_LocalResources</path>
+              <name>Extensions.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Licensing\App_LocalResources</path>
+              <name>Licensing.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Pages\App_LocalResources</path>
+              <name>Pages.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Recyclebin\App_LocalResources</path>
+              <name>Recyclebin.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Roles\App_LocalResources</path>
+              <name>Roles.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Security\App_LocalResources</path>
+              <name>Security.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Seo\App_LocalResources</path>
+              <name>Seo.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Servers\App_LocalResources</path>
+              <name>Servers.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteImportExport\App_LocalResources</path>
+              <name>SiteImportExport.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Sites\App_LocalResources</path>
+              <name>Sites.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteSettings\App_LocalResources</path>
+              <name>SiteSettings.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SqlConsole\App_LocalResources</path>
+              <name>SqlConsole.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.TaskScheduler\App_LocalResources</path>
+              <name>TaskScheduler.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Themes\App_LocalResources</path>
+              <name>Themes.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Users\App_LocalResources</path>
+              <name>Users.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Vocabularies\App_LocalResources</path>
+              <name>Vocabularies.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Connectors\App_LocalResources</path>
+              <name>Connectors.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Prompt\App_LocalResources</path>
+              <name>Prompt.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="SiteExportImport_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Site Export Import Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Site Export Import.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>SiteExportImport</package>
+            <languageFile>
+              <path>DesktopModules\SiteExportImport\App_LocalResources</path>
+              <name>ExportImport.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.AzureConnector_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Dnn Azure Connector Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for Dnn Azure Connector.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>Dnn.AzureConnector</package>
+            <languageFile>
+              <path>DesktopModules\Connectors\Azure\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="AspNetClientCapabilityProvider_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DotNetNuke ASP.NET Client Capability Provider Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>AspNetClientCapabilityProvider</package>
+            <languageFile>
+              <path>Providers\ClientCapabilityProviders\AspNetClientCapabilityProvider\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Providers.FolderProviders_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DotNetNuke Folder Providers Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>DotNetNuke.Providers.FolderProviders</package>
+            <languageFile>
+              <path>Providers\FolderProviders\AzureFolderProvider\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNNConnect.CKEditorProvider_de-DE" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DNN Connect CKEditor Provider Deutsch (Deutschland)</friendlyName>
+      <description><![CDATA[German (Germany) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <package>DNNConnect.CKEditorProvider</package>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>Browser.aspx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>EditorConfigManager.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>Options.aspx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+  </packages>
+</dotnetnuke>

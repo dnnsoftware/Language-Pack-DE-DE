@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="FileAttrbutesLabel.Help">
+    <value xml:space="preserve">Dateiattribute bearbeiten</value>
+  </data>
+  <data name="FileAttributeArchive.Text">
+    <value xml:space="preserve">archivieren</value>
+  </data>
+  <data name="FileAttributeHidden.Text">
+    <value xml:space="preserve">versteckt</value>
+  </data>
+  <data name="FileAttributeReadonly.Text">
+    <value xml:space="preserve">schreibgeschützt</value>
+  </data>
+  <data name="FileAttributesLabel.Text">
+    <value xml:space="preserve">Attribute</value>
+  </data>
+  <data name="FileAttributeSystem.Text">
+    <value xml:space="preserve">System</value>
+  </data>
+  <data name="FileNameLabel.Help">
+    <value xml:space="preserve">Aktuellen Dateinamen editieren</value>
+  </data>
+  <data name="FileNameLabel.Text">
+    <value xml:space="preserve">Name</value>
+  </data>
+  <data name="FileNameRequired.ErrorMessage">
+    <value xml:space="preserve">Sie müssen einen Dateinamen angeben.</value>
+  </data>
+</root>
