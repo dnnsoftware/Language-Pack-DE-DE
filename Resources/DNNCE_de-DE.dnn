@@ -2,15 +2,14 @@
   <packages>
     <package name="Core_de-DE" type="CoreLanguagePack" version="09.02.00">
       <friendlyName>DNN Core Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for DNN Core.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for DNN Core.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="CoreLanguage">
@@ -356,15 +355,14 @@
     </package>
     <package name="DDRMenu_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>DDR Menu Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for DDR Menu.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for DDR Menu.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -385,15 +383,14 @@
     </package>
     <package name="DigitalAssetsManagement_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Digital Asset Management Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Digital Asset Management.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Digital Asset Management.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -442,15 +439,14 @@
     </package>
     <package name="DNN_HTML_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>HTML Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for HTML.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for HTML.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -487,15 +483,14 @@
     </package>
     <package name="Journal_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Journal Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Journal.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Journal.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -524,15 +519,14 @@
     </package>
     <package name="DotNetNuke.Modules.MemberDirectory_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Member Directory Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Member Directory.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Member Directory.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -553,15 +547,14 @@
     </package>
     <package name="DotNetNuke.Modules.CoreMessaging_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Message Center Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Message Center.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Message Center.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -582,15 +575,14 @@
     </package>
     <package name="DNNCorp.RazorHost_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Razor Host Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Razor Host.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Razor Host.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -623,15 +615,14 @@
     </package>
     <package name="Social Groups_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Social Groups Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Social Groups.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Social Groups.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -664,15 +655,14 @@
     </package>
     <package name="DefaultAuthentication_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Default Authentication Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Default Authentication.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Default Authentication.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -693,15 +683,14 @@
     </package>
     <package name="Dnn.EditBar.UI_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Dnn.EditBar.UI Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Dnn.EditBar.UI.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Dnn.EditBar.UI.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -734,15 +723,14 @@
     </package>
     <package name="Dnn.PersonaBar.UI_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Dnn.PersonaBar.UI Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Dnn.PersonaBar.UI.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Dnn.PersonaBar.UI.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -851,15 +839,14 @@
     </package>
     <package name="SiteExportImport_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Site Export Import Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Site Export Import.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Site Export Import.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -876,15 +863,14 @@
     </package>
     <package name="Dnn.AzureConnector_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Dnn Azure Connector Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for Dnn Azure Connector.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for Dnn Azure Connector.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -901,15 +887,14 @@
     </package>
     <package name="AspNetClientCapabilityProvider_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>DotNetNuke ASP.NET Client Capability Provider Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -926,15 +911,14 @@
     </package>
     <package name="DotNetNuke.Providers.FolderProviders_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>DotNetNuke Folder Providers Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -951,15 +935,14 @@
     </package>
     <package name="DNNConnect.CKEditorProvider_de-DE" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>DNN Connect CKEditor Provider Deutsch (Deutschland)</friendlyName>
-      <description><![CDATA[German (Germany) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[German (Germany) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into German (Germany) was done by <a href="http://www.dnnwerk.de">dnnWerk Verbund</a>.]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
