@@ -12,13 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Einstellungen des RazorHost-Moduls</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Einstellungen des RazorHost-Moduls</value>
   </data>
-  <data name="scriptListLabel.Help">
-    <value xml:space="preserve">Wählen Sie hier das in diesem Modul zu verwendende Skript.</value>
+  <data name="scriptListLabel.Help" xml:space="preserve">
+    <value>Wählen Sie hier das in diesem Modul zu verwendende Skript.</value>
   </data>
-  <data name="scriptListLabel.Text">
-    <value xml:space="preserve">Skript:</value>
+  <data name="scriptListLabel.Text" xml:space="preserve">
+    <value>Skript:</value>
   </data>
 </root>

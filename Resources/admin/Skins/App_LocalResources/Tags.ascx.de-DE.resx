@@ -12,28 +12,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Text">
-    <value xml:space="preserve">Schlagworte zuordnen</value>
+  <data name="Add.Text" xml:space="preserve">
+    <value>Schlagworte zuordnen</value>
   </data>
-  <data name="Add.ToolTip">
-    <value xml:space="preserve">Klicken Sie auf den Link, um Schlagworte hinzuzufügen</value>
+  <data name="Add.ToolTip" xml:space="preserve">
+    <value>Klicken Sie auf den Link, um Schlagworte hinzuzufügen</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">abbrechen</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Abbrechen</value>
   </data>
-  <data name="Cancel.ToolTip">
-    <value xml:space="preserve">Klicken Sie hier, um das Bearbeiten ohne speichern abzubrechen</value>
+  <data name="Cancel.ToolTip" xml:space="preserve">
+    <value>Klicken Sie hier, um das Bearbeiten ohne speichern abzubrechen</value>
   </data>
-  <data name="Category.ToolTip">
-    <value xml:space="preserve">Kategorien</value>
+  <data name="Category.ToolTip" xml:space="preserve">
+    <value>Kategorien</value>
   </data>
-  <data name="Save.Text">
-    <value xml:space="preserve">speichern</value>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Speichern</value>
   </data>
-  <data name="Save.ToolTip">
-    <value xml:space="preserve">Klicken Sie hier, um die Schlagworte zu speichern</value>
+  <data name="Save.ToolTip" xml:space="preserve">
+    <value>Klicken Sie hier, um die Schlagworte zu speichern</value>
   </data>
-  <data name="Tag.ToolTip">
-    <value xml:space="preserve">Schlagworte</value>
+  <data name="Tag.ToolTip" xml:space="preserve">
+    <value>Schlagworte</value>
   </data>
 </root>

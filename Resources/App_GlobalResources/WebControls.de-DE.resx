@@ -12,154 +12,154 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllItemsCheckedString.Text">
-    <value xml:space="preserve">Alle Einträge gewählt</value>
+  <data name="AllItemsCheckedString.Text" xml:space="preserve">
+    <value>Alle Einträge gewählt</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">abbrechen</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Abbrechen</value>
   </data>
-  <data name="CheckAllString.Text">
-    <value xml:space="preserve">Alle auswählen</value>
+  <data name="CheckAllString.Text" xml:space="preserve">
+    <value>Alle auswählen</value>
   </data>
-  <data name="ComboBox.EmptyMessage">
-    <value xml:space="preserve">Es gibt keine Einträge in der Liste.</value>
+  <data name="ComboBox.EmptyMessage" xml:space="preserve">
+    <value>Es gibt keine Einträge in der Liste.</value>
   </data>
-  <data name="ConfirmPasswordMatched.Text">
-    <value xml:space="preserve">Kennworte stimmen überein</value>
+  <data name="ConfirmPasswordMatched.Text" xml:space="preserve">
+    <value>Kennworte stimmen überein</value>
   </data>
-  <data name="ConfirmPasswordUnmatched.Text">
-    <value xml:space="preserve">Kennwort und Besätigung stimmen nicht überein</value>
+  <data name="ConfirmPasswordUnmatched.Text" xml:space="preserve">
+    <value>Kennwort und Besätigung stimmen nicht überein</value>
   </data>
-  <data name="CriteriaAtLeastNChars.Text">
-    <value xml:space="preserve">Mindestens {0} Zeichen</value>
+  <data name="CriteriaAtLeastNChars.Text" xml:space="preserve">
+    <value>Mindestens {0} Zeichen</value>
   </data>
-  <data name="CriteriaAtLeastNSpecialChars.Text">
-    <value xml:space="preserve">Mindestens {0} Sonderzeichen (!,@,#,%)</value>
+  <data name="CriteriaAtLeastNSpecialChars.Text" xml:space="preserve">
+    <value>Mindestens {0} Sonderzeichen (!,@,#,%)</value>
   </data>
-  <data name="FieldSuffix.Text">
-    <value xml:space="preserve">:</value>
+  <data name="CriteriaValidationExpression.Text" xml:space="preserve">
+    <value>Validierungsausdruck: {0}</value>
   </data>
-  <data name="File.Text">
-    <value xml:space="preserve">Datei</value>
+  <data name="FieldSuffix.Text" xml:space="preserve">
+    <value>:</value>
   </data>
-  <data name="FileUpload.CloseButton.Text">
-    <value xml:space="preserve">schließen</value>
+  <data name="File.Text" xml:space="preserve">
+    <value>Datei</value>
   </data>
-  <data name="FileUpload.DecompressingFile.Text">
-    <value xml:space="preserve">Datei entpacken</value>
+  <data name="FileUpload.CloseButton.Text" xml:space="preserve">
+    <value>Schließen</value>
   </data>
-  <data name="FileUpload.DecompressLabel.Text">
-    <value xml:space="preserve">Zip-Archiv entpacken</value>
+  <data name="FileUpload.DecompressingFile.Text" xml:space="preserve">
+    <value>Datei entpacken</value>
   </data>
-  <data name="FileUpload.DragAndDropAreaTitle.Text">
-    <value xml:space="preserve">Dateien hier ablegen oder zum Durchsuchen klicken</value>
+  <data name="FileUpload.DecompressLabel.Text" xml:space="preserve">
+    <value>Zip-Archiv entpacken</value>
   </data>
-  <data name="FileUpload.EmptyFileUpload.Error">
-    <value xml:space="preserve">Ihr Browser unterstützt das Hochladen leerer Dateien nicht.</value>
+  <data name="FileUpload.DragAndDropAreaTitle.Text" xml:space="preserve">
+    <value>Dateien hier ablegen oder zum Durchsuchen klicken</value>
   </data>
-  <data name="FileUpload.ErrorDialogTitle.Text">
-    <value xml:space="preserve">Fehler</value>
+  <data name="FileUpload.EmptyFileUpload.Error" xml:space="preserve">
+    <value>Ihr Browser unterstützt das Hochladen leerer Dateien nicht.</value>
   </data>
-  <data name="FileUpload.FileAlreadyExists.Error">
-    <value xml:space="preserve">Es existiert bereits eine Datei dieses Namens im Zielverzeichnis</value>
+  <data name="FileUpload.ErrorDialogTitle.Text" xml:space="preserve">
+    <value>Fehler</value>
   </data>
-  <data name="FileUpload.FileIsTooLarge.Error">
-    <value xml:space="preserve">Die Datei ist größer als {0}.</value>
+  <data name="FileUpload.FileAlreadyExists.Error" xml:space="preserve">
+    <value>Es existiert bereits eine Datei dieses Namens im Zielverzeichnis</value>
   </data>
-  <data name="FileUpload.FileUploadCancelled.Error">
-    <value xml:space="preserve">Hochladen abgebrochen</value>
+  <data name="FileUpload.FileIsTooLarge.Error" xml:space="preserve">
+    <value>Die Datei ist größer als {0}.</value>
   </data>
-  <data name="FileUpload.FileUploaded.Text">
-    <value xml:space="preserve">Die Datei wurde hochgeladen</value>
+  <data name="FileUpload.FileUploadCancelled.Error" xml:space="preserve">
+    <value>Hochladen abgebrochen</value>
   </data>
-  <data name="FileUpload.FileUploadFailed.Error">
-    <value xml:space="preserve">Hochladen ist fehlgeschlagen</value>
+  <data name="FileUpload.FileUploaded.Text" xml:space="preserve">
+    <value>Die Datei wurde hochgeladen</value>
   </data>
-  <data name="FileUpload.InvalidFileExtensions.Error">
-    <value xml:space="preserve">Einige der Dateien haben nicht zugelassene Erweiterungen (Dateityp), und wurden daher ignoriert. Sie dürfen nur Dateien mit folgenden Erweiterungen hochladen: {0}</value>
+  <data name="FileUpload.FileUploadFailed.Error" xml:space="preserve">
+    <value>Hochladen ist fehlgeschlagen</value>
   </data>
-  <data name="FileUpload.KeepButton.Text">
-    <value xml:space="preserve">behalten</value>
+  <data name="FileUpload.InvalidFileExtensions.Error" xml:space="preserve">
+    <value>Einige der Dateien haben nicht zugelassene Erweiterungen (Dateityp), und wurden daher ignoriert. Sie dürfen nur Dateien mit folgenden Erweiterungen hochladen: {0}</value>
   </data>
-  <data name="FileUpload.ReplaceButton.Text">
-    <value xml:space="preserve">ersetzen</value>
+  <data name="FileUpload.KeepButton.Text" xml:space="preserve">
+    <value>Behalten</value>
   </data>
-  <data name="FileUpload.Title.Text">
-    <value xml:space="preserve">Dateien hochladen</value>
+  <data name="FileUpload.ReplaceButton.Text" xml:space="preserve">
+    <value>Ersetzen</value>
   </data>
-  <data name="FileUpload.TooManyFiles.Error">
-    <value xml:space="preserve">Sie dürfen nicht mehr als {0} Dateien gleichzeitig auswählen.</value>
+  <data name="FileUpload.Title.Text" xml:space="preserve">
+    <value>Dateien hochladen</value>
   </data>
-  <data name="FileUpload.UploadFileMethod.Text">
-    <value xml:space="preserve">Datei hochladen</value>
+  <data name="FileUpload.TooManyFiles.Error" xml:space="preserve">
+    <value>Sie dürfen nicht mehr als {0} Dateien gleichzeitig auswählen.</value>
   </data>
-  <data name="FileUpload.UploadFromWebButton.Text">
-    <value xml:space="preserve">hochladen</value>
+  <data name="FileUpload.UploadFileMethod.Text" xml:space="preserve">
+    <value>Datei hochladen</value>
   </data>
-  <data name="FileUpload.UploadFromWebMethod.Text">
-    <value xml:space="preserve">von einer Web-Adresse</value>
+  <data name="FileUpload.UploadFromWebButton.Text" xml:space="preserve">
+    <value>Hochladen</value>
   </data>
-  <data name="FileUpload.UploadStopped.Text">
-    <value xml:space="preserve">Das Hochladen der Datei wurde angehalten</value>
+  <data name="FileUpload.UploadFromWebMethod.Text" xml:space="preserve">
+    <value>Von einer Web-Adresse</value>
   </data>
-  <data name="FileUpload.UploadToFolderLabel.Text">
-    <value xml:space="preserve">Hochladen nach:</value>
+  <data name="FileUpload.UploadStopped.Text" xml:space="preserve">
+    <value>Das Hochladen der Datei wurde angehalten</value>
   </data>
-  <data name="FileUpload.UrlTooltip.Text">
-    <value xml:space="preserve">Geben Sie die URL der Ressource an, z.B: http://website.com/Images/About.png</value>
+  <data name="FileUpload.UploadToFolderLabel.Text" xml:space="preserve">
+    <value>Hochladen nach:</value>
   </data>
-  <data name="Folder.Text">
-    <value xml:space="preserve">Ordner</value>
+  <data name="FileUpload.UrlTooltip.Text" xml:space="preserve">
+    <value>Geben Sie die URL der Ressource an, z.B: http://website.com/Images/About.png</value>
   </data>
-  <data name="ItemsCheckedString.Text">
-    <value xml:space="preserve">Einträge ausgewählt</value>
+  <data name="Folder.Text" xml:space="preserve">
+    <value>Ordner</value>
   </data>
-  <data name="MyFolder.Text">
-    <value xml:space="preserve">Eigener Ordner</value>
+  <data name="ItemsCheckedString.Text" xml:space="preserve">
+    <value>Einträge ausgewählt</value>
   </data>
-  <data name="NoMatches.Text">
-    <value xml:space="preserve">keine Treffer</value>
+  <data name="MyFolder.Text" xml:space="preserve">
+    <value>Eigener Ordner</value>
   </data>
-  <data name="NoPermission.Text">
-    <value xml:space="preserve">Sie haben keine Berechtigung, um Dateien im Dateisystem anzuzeigen.</value>
+  <data name="NoMatches.Text" xml:space="preserve">
+    <value>Keine Treffer</value>
   </data>
-  <data name="Ok.Text">
-    <value xml:space="preserve">ok</value>
+  <data name="NoPermission.Text" xml:space="preserve">
+    <value>Sie haben keine Berechtigung, um Dateien im Dateisystem anzuzeigen.</value>
   </data>
-  <data name="PasswordStrengthFair.Text">
-    <value xml:space="preserve">befriedigend</value>
+  <data name="Ok.Text" xml:space="preserve">
+    <value>Ok</value>
   </data>
-  <data name="PasswordStrengthMinLength.Text">
-    <value xml:space="preserve">-Zeichen mindestens</value>
-  </data>
-  <data name="PasswordStrengthStrong.Text">
-    <value xml:space="preserve">gut</value>
-  </data>
-  <data name="PasswordStrengthWeak.Text">
-    <value xml:space="preserve">schlecht</value>
-  </data>
-  <data name="PortalRoot.Text">
-    <value xml:space="preserve">Website-Basisverzeichnis</value>
-  </data>
-  <data name="Save.Text">
-    <value xml:space="preserve">Datei speichern</value>
-  </data>
-  <data name="ShowMoreFormatString.Text">
-    <value xml:space="preserve">Einträge &lt;b&gt;1&lt;/b&gt;-&lt;b&gt;{0}&lt;/b&gt; von &lt;b&gt;{1}&lt;/b&gt;</value>
-  </data>
-  <data name="Upload.Text">
-    <value xml:space="preserve">Datei hochladen</value>
-  </data>
-  <data name="UploadError.Text">
-    <value xml:space="preserve">Der Dateityp {1} ist in diesem Kontext nicht zugelassen. Gültige Dateitypen sind: {0}</value>
-  </data>
-  <data name="PasswordRulesBodyText.Text">
+  <data name="PasswordRulesBodyText.Text" xml:space="preserve">
     <value>Enthält mindestens {0} Zeichen, 1 Großbuchstaben, 1 Ziffer und {1}.</value>
   </data>
-  <data name="PasswordRulesHeadText.Text">
+  <data name="PasswordRulesHeadText.Text" xml:space="preserve">
     <value>Kennwortanforderung:</value>
   </data>
-  <data name="CriteriaValidationExpression.Text">
-    <value>Validierungsausdruck: {0}</value>
+  <data name="PasswordStrengthFair.Text" xml:space="preserve">
+    <value>Befriedigend</value>
+  </data>
+  <data name="PasswordStrengthMinLength.Text" xml:space="preserve">
+    <value>-Zeichen mindestens</value>
+  </data>
+  <data name="PasswordStrengthStrong.Text" xml:space="preserve">
+    <value>Gut</value>
+  </data>
+  <data name="PasswordStrengthWeak.Text" xml:space="preserve">
+    <value>Schlecht</value>
+  </data>
+  <data name="PortalRoot.Text" xml:space="preserve">
+    <value>Website-Basisverzeichnis</value>
+  </data>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Datei speichern</value>
+  </data>
+  <data name="ShowMoreFormatString.Text" xml:space="preserve">
+    <value>Einträge &lt;b&gt;1&lt;/b&gt;-&lt;b&gt;{0}&lt;/b&gt; von &lt;b&gt;{1}&lt;/b&gt;</value>
+  </data>
+  <data name="Upload.Text" xml:space="preserve">
+    <value>Datei hochladen</value>
+  </data>
+  <data name="UploadError.Text" xml:space="preserve">
+    <value>Der Dateityp {1} ist in diesem Kontext nicht zugelassen. Gültige Dateitypen sind: {0}</value>
   </data>
 </root>

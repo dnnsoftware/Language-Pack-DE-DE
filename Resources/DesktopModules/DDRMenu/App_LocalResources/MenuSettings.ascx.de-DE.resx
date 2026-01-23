@@ -12,14 +12,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Action">
-    <value xml:space="preserve">Inhalt hinzufügen</value>
+  <data name="AddContent.Action" xml:space="preserve">
+    <value>Inhalt hinzufügen</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Menü-Einstellungen</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Menü-Einstellungen</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;DDR-Menü&lt;/h&gt;
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;DDR-Menü&lt;/h&gt;
 &lt;p&gt;Die Dokumentation des DDR-Menu ist verfügbar im &lt;a href="http://wiki.dnnsoftware.com/"&gt;DNN Wiki&lt;/a&gt;.&lt;/p&gt;</value>
   </data>
 </root>

@@ -12,13 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CreatedBy.Text">
-    <value xml:space="preserve">erstellt durch {0} am {1}</value>
+  <data name="CreatedBy.Text" xml:space="preserve">
+    <value>Erstellt durch {0} am {1}</value>
   </data>
-  <data name="SystemUser.Text">
-    <value xml:space="preserve">System</value>
+  <data name="SystemUser.Text" xml:space="preserve">
+    <value>System</value>
   </data>
-  <data name="UpdatedBy.Text">
-    <value xml:space="preserve">zuletzt aktualisiert durch {0} am {1}</value>
+  <data name="UpdatedBy.Text" xml:space="preserve">
+    <value>Zuletzt aktualisiert durch {0} am {1}</value>
   </data>
 </root>

@@ -12,14 +12,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddTag.Text">
-    <value xml:space="preserve">Schlagwort hinzufügen</value>
+  <data name="AddTag.Text" xml:space="preserve">
+    <value>Schlagwort hinzufügen</value>
   </data>
-  <data name="Advanced.Text">
-    <value xml:space="preserve">erweitert</value>
+  <data name="Advanced.Text" xml:space="preserve">
+    <value>Erweitert</value>
   </data>
-  <data name="AdvancedSearchHint.Text">
-    <value xml:space="preserve">&lt;table class="dnnSearchResult-hint-tbl dnnTableDisplay"&gt;
+  <data name="AdvancedSearchHint.Text" xml:space="preserve">
+    <value>&lt;table class="dnnSearchResult-hint-tbl dnnTableDisplay"&gt;
     &lt;tbody&gt;
         &lt;tr&gt;
             &lt;th style="width: 150px;"&gt;&lt;span&gt;Typ&lt;/span&gt;
@@ -77,100 +77,100 @@
     &lt;/tbody&gt;
 &lt;/table&gt;</value>
   </data>
-  <data name="AllFeaturesSelected.Text">
-    <value xml:space="preserve">Alle</value>
+  <data name="AllFeaturesSelected.Text" xml:space="preserve">
+    <value>Alle</value>
   </data>
-  <data name="Author.Text">
-    <value xml:space="preserve">Autor:</value>
+  <data name="Author.Text" xml:space="preserve">
+    <value>Autor:</value>
   </data>
-  <data name="btnClear.Text">
-    <value xml:space="preserve">einfache Suche</value>
+  <data name="btnClear.Text" xml:space="preserve">
+    <value>Einfache Suche</value>
   </data>
-  <data name="btnSearch.Text">
-    <value xml:space="preserve">suchen</value>
+  <data name="btnSearch.Text" xml:space="preserve">
+    <value>Suchen</value>
   </data>
-  <data name="Comments.Text">
-    <value xml:space="preserve">Kommentare:</value>
+  <data name="Comments.Text" xml:space="preserve">
+    <value>Kommentare:</value>
   </data>
-  <data name="CurrentPageIndex.Text">
-    <value xml:space="preserve">Aktuelle Seite:</value>
+  <data name="CurrentPageIndex.Text" xml:space="preserve">
+    <value>Aktuelle Seite:</value>
   </data>
-  <data name="Date.Text">
-    <value xml:space="preserve">Datum</value>
+  <data name="Date.Text" xml:space="preserve">
+    <value>Datum</value>
   </data>
-  <data name="DefaultText.Text">
-    <value xml:space="preserve">Geben Sie den gesuchten Begriff ein</value>
+  <data name="DefaultText.Text" xml:space="preserve">
+    <value>Geben Sie den gesuchten Begriff ein</value>
   </data>
-  <data name="LastModified.Text">
-    <value xml:space="preserve">aktualisiert:</value>
+  <data name="LastModified.Text" xml:space="preserve">
+    <value>Aktualisiert:</value>
   </data>
-  <data name="lblAdvancedDates.Help">
-    <value xml:space="preserve">Begrenzen Sie die Suche auf Einträge, die innerhalb des angegebenen Zeitraums zuletzt bearbeitet wurden.</value>
+  <data name="lblAdvancedDates.Help" xml:space="preserve">
+    <value>Begrenzen Sie die Suche auf Einträge, die innerhalb des angegebenen Zeitraums zuletzt bearbeitet wurden.</value>
   </data>
-  <data name="lblAdvancedDates.Text">
-    <value xml:space="preserve">Letzte Änderung:</value>
+  <data name="lblAdvancedDates.Text" xml:space="preserve">
+    <value>Letzte Änderung:</value>
   </data>
-  <data name="lblAdvancedExactSearch.Help">
-    <value xml:space="preserve">Die Suchergebnisse müssen genau die angegebenen Suchworte enthalten.</value>
+  <data name="lblAdvancedExactSearch.Help" xml:space="preserve">
+    <value>Die Suchergebnisse müssen genau die angegebenen Suchworte enthalten.</value>
   </data>
-  <data name="lblAdvancedExactSearch.Text">
-    <value xml:space="preserve">genaue Suche:</value>
+  <data name="lblAdvancedExactSearch.Text" xml:space="preserve">
+    <value>Genaue Suche:</value>
   </data>
-  <data name="lblAdvancedScope.Help">
-    <value xml:space="preserve">Begrenzen Sie die Suche auf die angegebenen Quellen.</value>
+  <data name="lblAdvancedScope.Help" xml:space="preserve">
+    <value>Begrenzen Sie die Suche auf die angegebenen Quellen.</value>
   </data>
-  <data name="lblAdvancedScope.Text">
-    <value xml:space="preserve">Suchbereich:</value>
+  <data name="lblAdvancedScope.Text" xml:space="preserve">
+    <value>Suchbereich:</value>
   </data>
-  <data name="lblAdvancedTags.Help">
-    <value xml:space="preserve">Begrenzen Sie die Suche auf Einträge, denen die angegebenen Schlagworten zugeordnet sind.</value>
+  <data name="lblAdvancedTags.Help" xml:space="preserve">
+    <value>Begrenzen Sie die Suche auf Einträge, denen die angegebenen Schlagworten zugeordnet sind.</value>
   </data>
-  <data name="lblAdvancedTags.Text">
-    <value xml:space="preserve">Schlagworte:</value>
+  <data name="lblAdvancedTags.Text" xml:space="preserve">
+    <value>Schlagworte:</value>
   </data>
-  <data name="Likes.Text">
-    <value xml:space="preserve">Gefällt:</value>
+  <data name="Likes.Text" xml:space="preserve">
+    <value>Gefällt:</value>
   </data>
-  <data name="linkAdvancedTip.Text">
-    <value xml:space="preserve">Hinweise</value>
+  <data name="linkAdvancedTip.Text" xml:space="preserve">
+    <value>Hinweise</value>
   </data>
-  <data name="NoResults.Text">
-    <value xml:space="preserve">Es wurden keine Ergebnisse gefunden</value>
+  <data name="NoResults.Text" xml:space="preserve">
+    <value>Es wurden keine Ergebnisse gefunden</value>
   </data>
-  <data name="optionAll.Text">
-    <value xml:space="preserve">alle</value>
+  <data name="optionAll.Text" xml:space="preserve">
+    <value>Alle</value>
   </data>
-  <data name="optionDay.Text">
-    <value xml:space="preserve">1 Tag</value>
+  <data name="optionDay.Text" xml:space="preserve">
+    <value>1 Tag</value>
   </data>
-  <data name="optionMonth.Text">
-    <value xml:space="preserve">30 Tage</value>
+  <data name="optionMonth.Text" xml:space="preserve">
+    <value>30 Tage</value>
   </data>
-  <data name="optionQuarter.Text">
-    <value xml:space="preserve">90 Tage</value>
+  <data name="optionQuarter.Text" xml:space="preserve">
+    <value>90 Tage</value>
   </data>
-  <data name="optionWeek.Text">
-    <value xml:space="preserve">7 Tage</value>
+  <data name="optionWeek.Text" xml:space="preserve">
+    <value>7 Tage</value>
   </data>
-  <data name="optionYear.Text">
-    <value xml:space="preserve">1 Jahr</value>
+  <data name="optionYear.Text" xml:space="preserve">
+    <value>1 Jahr</value>
   </data>
-  <data name="Relevance.Text">
-    <value xml:space="preserve">Relevanz</value>
+  <data name="Relevance.Text" xml:space="preserve">
+    <value>Relevanz</value>
   </data>
-  <data name="ResultPerPage.Text">
-    <value xml:space="preserve">Ergebnisse je Seite:</value>
+  <data name="ResultPerPage.Text" xml:space="preserve">
+    <value>Ergebnisse je Seite:</value>
   </data>
-  <data name="ResultsCount.Text">
-    <value xml:space="preserve">Ungefähr {0} Ergebnisse</value>
+  <data name="ResultsCount.Text" xml:space="preserve">
+    <value>Ungefähr {0} Ergebnisse</value>
   </data>
-  <data name="Source.Text">
-    <value xml:space="preserve">Quelle:</value>
+  <data name="Source.Text" xml:space="preserve">
+    <value>Quelle:</value>
   </data>
-  <data name="Tags.Text">
-    <value xml:space="preserve">Schlagworte:</value>
+  <data name="Tags.Text" xml:space="preserve">
+    <value>Schlagworte:</value>
   </data>
-  <data name="Views.Text">
-    <value xml:space="preserve">Aufrufe:</value>
+  <data name="Views.Text" xml:space="preserve">
+    <value>Aufrufe:</value>
   </data>
 </root>

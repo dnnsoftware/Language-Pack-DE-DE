@@ -7,36 +7,36 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="StylesheetEditor.Text">
-    <value>Individuelle CSS-Datei</value>
+  <data name="CancelButton.Text" xml:space="preserve">
+    <value>Nein</value>
   </data>
-  <data name="SaveStyleSheet.Text">
-    <value>CSS-Datei speichern</value>
-  </data>
-  <data name="RestoreDefault.Text">
-    <value>Standard CSS-Datei wiederherstellen</value>
-  </data>
-  <data name="nav_CssEditor.Text">
-    <value>Individuelle CSS-Datei</value>
-  </data>
-  <data name="ConfirmRestore.Text">
+  <data name="ConfirmRestore.Text" xml:space="preserve">
     <value>Sind Sie sicher, dass Sie das Standard-Stylesheet wiederherstellen wollen? Alle Änderungen am aktuellen Stylesheet gehen dabei verloren.</value>
   </data>
-  <data name="RestoreButton.Text">
-    <value>ja</value>
+  <data name="nav_CssEditor.Text" xml:space="preserve">
+    <value>Individuelle CSS-Datei</value>
   </data>
-  <data name="CancelButton.Text">
-    <value>nein</value>
+  <data name="RestoreButton.Text" xml:space="preserve">
+    <value>Ja</value>
   </data>
-  <data name="StyleSheetSaved.Text">
-    <value>CSS-Stylesheet wurde gespeichert</value>
+  <data name="RestoreDefault.Text" xml:space="preserve">
+    <value>Standard CSS-Datei wiederherstellen</value>
   </data>
-  <data name="StyleSheetRestored.Text">
+  <data name="SaveStyleSheet.Text" xml:space="preserve">
+    <value>CSS-Datei speichern</value>
+  </data>
+  <data name="StylesheetEditor.Text" xml:space="preserve">
+    <value>Individuelle CSS-Datei</value>
+  </data>
+  <data name="StyleSheetRestored.Text" xml:space="preserve">
     <value>CSS-Stylesheet wurde wiederhergestellt.</value>
+  </data>
+  <data name="StyleSheetSaved.Text" xml:space="preserve">
+    <value>CSS-Stylesheet wurde gespeichert</value>
   </data>
 </root>

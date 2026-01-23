@@ -7,11 +7,38 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="All.Text" xml:space="preserve">
+    <value>Alle</value>
+  </data>
+  <data name="AllSites.Text" xml:space="preserve">
+    <value>Alle Websites</value>
+  </data>
+  <data name="Anonymous.Text" xml:space="preserve">
+    <value>Anonym</value>
+  </data>
+  <data name="btnCancel.Text" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="btnSave.Text" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="Day.Text" xml:space="preserve">
+    <value>Tag</value>
+  </data>
+  <data name="DayAgo.Text" xml:space="preserve">
+    <value>Vor {0} Tag</value>
+  </data>
+  <data name="Days.Text" xml:space="preserve">
+    <value>Tage</value>
+  </data>
+  <data name="DaysAgo.Text" xml:space="preserve">
+    <value>Vor {0} Tagen</value>
+  </data>
   <data name="ErrMissPermissions.Text" xml:space="preserve">
     <value>Sie sind nicht berechtigt, eine Datei hochzuladen.</value>
   </data>
@@ -21,104 +48,68 @@
   <data name="ErrUploadStream.Text" xml:space="preserve">
     <value>Das Bild konnte nicht gespeichert werden.</value>
   </data>
-  <data name="Root.Text" xml:space="preserve">
-    <value>Start</value>
+  <data name="FolderDoesNotExist.Error" xml:space="preserve">
+    <value>Der Ordner existiert nicht.</value>
   </data>
-  <data name="JustNow.Text" xml:space="preserve">
-    <value>vor wenigen Augenblicken</value>
-  </data>
-  <data name="Day.Text" xml:space="preserve">
-    <value>Tag</value>
-  </data>
-  <data name="DayAgo.Text" xml:space="preserve">
-    <value>vor {0} Tag</value>
-  </data>
-  <data name="Days.Text" xml:space="preserve">
-    <value>Tage</value>
-  </data>
-  <data name="DaysAgo.Text" xml:space="preserve">
-    <value>vor {0} Tagen</value>
+  <data name="GenericErrorMessage.Error" xml:space="preserve">
+    <value>Es ist ein unerwarteter Fehler aufgetreten, weitere Details finden Sie im Ereignisprotokoll der Website.</value>
   </data>
   <data name="Hour.Text" xml:space="preserve">
     <value>Stunde</value>
   </data>
   <data name="HourAgo.Text" xml:space="preserve">
-    <value>vor {0} Stunde</value>
+    <value>Vor {0} Stunde</value>
   </data>
   <data name="Hours.Text" xml:space="preserve">
     <value>Stunden</value>
   </data>
   <data name="HoursAgo.Text" xml:space="preserve">
-    <value>vor {0} Stunden</value>
+    <value>Vor {0} Stunden</value>
+  </data>
+  <data name="JustNow.Text" xml:space="preserve">
+    <value>Vor wenigen Augenblicken</value>
+  </data>
+  <data name="LongTimeAgo.Text" xml:space="preserve">
+    <value>Vor langer Zeit</value>
   </data>
   <data name="Minute.Text" xml:space="preserve">
     <value>Minute</value>
   </data>
   <data name="MinuteAgo.Text" xml:space="preserve">
-    <value>vor {0} Minute</value>
+    <value>Vor {0} Minute</value>
   </data>
   <data name="Minutes.Text" xml:space="preserve">
     <value>Minuten</value>
   </data>
   <data name="MinutesAgo.Text" xml:space="preserve">
-    <value>vor {0} Minuten</value>
+    <value>Vor {0} Minuten</value>
   </data>
   <data name="Month.Text" xml:space="preserve">
     <value>Monat</value>
   </data>
   <data name="MonthAgo.Text" xml:space="preserve">
-    <value>vor {0} Monat</value>
+    <value>Vor {0} Monat</value>
   </data>
   <data name="Months.Text" xml:space="preserve">
     <value>Monate</value>
   </data>
   <data name="MonthsAgo.Text" xml:space="preserve">
-    <value>vor {0} Monaten</value>
-  </data>
-  <data name="LongTimeAgo.Text" xml:space="preserve">
-    <value>vor langer Zeit</value>
+    <value>Vor {0} Monaten</value>
   </data>
   <data name="Never.Text" xml:space="preserve">
-    <value>nie</value>
+    <value>Nie</value>
   </data>
-  <data name="Second.Text" xml:space="preserve">
-    <value>Sekunde</value>
+  <data name="Promp_MainFlagIsRequired.Text" xml:space="preserve">
+    <value>'[0]' ist ein Pflichtfeld. Bitte verwenden Sie die Option --[1] oder fügen Sie es als erstes Argument nach dem Befehlsnamen.\n</value>
   </data>
-  <data name="SecondAgo.Text" xml:space="preserve">
-    <value>vor {0} Sekunde</value>
+  <data name="Promp_PositiveValueRequired.Text" xml:space="preserve">
+    <value>'[0]' muss größer als 0 sein.\n</value>
   </data>
-  <data name="Seconds.Text" xml:space="preserve">
-    <value>Sekunden</value>
+  <data name="Prompt_FlagIsRequired.Text" xml:space="preserve">
+    <value>'[0]' ist ein Pflichtfeld.\n</value>
   </data>
-  <data name="SecondsAgo.Text" xml:space="preserve">
-    <value>vor {0} Sekunden</value>
-  </data>
-  <data name="WeekAgo.Text" xml:space="preserve">
-    <value>vor {0} Woche</value>
-  </data>
-  <data name="WeeksAgo.Text" xml:space="preserve">
-    <value>vor {0} Wochen</value>
-  </data>
-  <data name="Year.Text" xml:space="preserve">
-    <value>Jahr</value>
-  </data>
-  <data name="YearAgo.Text" xml:space="preserve">
-    <value>vor {0} Jahr</value>
-  </data>
-  <data name="Years.Text" xml:space="preserve">
-    <value>Jahre</value>
-  </data>
-  <data name="YearsAgo.Text" xml:space="preserve">
-    <value>vor {0} Jahren</value>
-  </data>
-  <data name="UserHasNoPermissionToReadFile.Error" xml:space="preserve">
-    <value>Sie sind nicht berechtigt, diese Datei aufzurufen.</value>
-  </data>
-  <data name="UserHasNoPermissionToReadFolder.Error" xml:space="preserve">
-    <value>Sie sind nicht berechtigt, diesen Ordner aufzurufen.</value>
-  </data>
-  <data name="Anonymous.Text" xml:space="preserve">
-    <value>anonym</value>
+  <data name="Prompt_InvalidType.Text" xml:space="preserve">
+    <value>Der eingegebene Wert für '[0]' ist ungültig '[1]'.\n</value>
   </data>
   <data name="RegisterationFailed.Text" xml:space="preserve">
     <value>{0}</value>
@@ -126,40 +117,55 @@
   <data name="RegistrationUsernameAlreadyPresent.Text" xml:space="preserve">
     <value>Dieser Anmeldename wird bereits verwendet.</value>
   </data>
-  <data name="FolderDoesNotExist.Error" xml:space="preserve">
-    <value>Der ordner existiert nicht.</value>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Start</value>
   </data>
-  <data name="VisibleOnPage.Header" xml:space="preserve">
-    <value>Angezeigt auf Seite</value>
+  <data name="Second.Text" xml:space="preserve">
+    <value>Sekunde</value>
   </data>
-  <data name="btnCancel.Text" xml:space="preserve">
-    <value>abbrechen</value>
+  <data name="SecondAgo.Text" xml:space="preserve">
+    <value>Vor {0} Sekunde</value>
   </data>
-  <data name="btnSave.Text" xml:space="preserve">
-    <value>speichern</value>
+  <data name="Seconds.Text" xml:space="preserve">
+    <value>Sekunden</value>
+  </data>
+  <data name="SecondsAgo.Text" xml:space="preserve">
+    <value>Vor {0} Sekunden</value>
+  </data>
+  <data name="SwitchOff.Text" xml:space="preserve">
+    <value>Aus</value>
+  </data>
+  <data name="SwitchOn.Text" xml:space="preserve">
+    <value>An</value>
   </data>
   <data name="UnauthorizedRequest.Text" xml:space="preserve">
     <value>Die Erlaubnis für diese Anfrage wurde verweigert.</value>
   </data>
-  <data name="GenericErrorMessage.Error" xml:space="preserve">
-    <value>Es ist ein unerwarteter Fehler aufgetreten, weitere Details finden Sie im Ereignisprotokoll der Website.</value>
+  <data name="UserHasNoPermissionToReadFile.Error" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, diese Datei aufzurufen.</value>
   </data>
-  <data name="All.Text" xml:space="preserve">
-    <value>Alle</value>
+  <data name="UserHasNoPermissionToReadFolder.Error" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, diesen Ordner aufzurufen.</value>
   </data>
-  <data name="AllSites.Text">
-    <value>Alle Websites</value>
+  <data name="VisibleOnPage.Header" xml:space="preserve">
+    <value>Angezeigt auf Seite</value>
   </data>
-  <data name="Promp_MainFlagIsRequired.Text">
-    <value>'[0]' ist ein Pflichtfeld. Bitte verwenden Sie die Option --[1] oder fügen Sie es als erstes Argument nach dem Befehlsnamen.\n</value>
+  <data name="WeekAgo.Text" xml:space="preserve">
+    <value>Vor {0} Woche</value>
   </data>
-  <data name="Promp_PositiveValueRequired.Text">
-    <value>'[0]' muss größer als 0 sein.\n</value>
+  <data name="WeeksAgo.Text" xml:space="preserve">
+    <value>Vor {0} Wochen</value>
   </data>
-  <data name="Prompt_FlagIsRequired.Text">
-    <value>'[0]' ist ein Pflichtfeld.\n</value>
+  <data name="Year.Text" xml:space="preserve">
+    <value>Jahr</value>
   </data>
-  <data name="Prompt_InvalidType.Text">
-    <value>Der eingegebene Wert für '[0]' ist ungültig '[1]'.\n</value>
+  <data name="YearAgo.Text" xml:space="preserve">
+    <value>Vor {0} Jahr</value>
+  </data>
+  <data name="Years.Text" xml:space="preserve">
+    <value>Jahre</value>
+  </data>
+  <data name="YearsAgo.Text" xml:space="preserve">
+    <value>Vor {0} Jahren</value>
   </data>
 </root>

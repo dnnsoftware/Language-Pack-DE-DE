@@ -12,214 +12,214 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="alternateItemTemplateLabel.Help">
-    <value xml:space="preserve">Die alternierende Vorlage wird für geradzahlige Einträge verwendet, sofern eine angegeben ist. Andernfalls wird die Vorlage für ungeradzahlige Einträge mitverwendet</value>
+  <data name="alternateItemTemplateLabel.Help" xml:space="preserve">
+    <value>Die alternierende Vorlage wird für geradzahlige Einträge verwendet, sofern eine angegeben ist. Andernfalls wird die Vorlage für ungeradzahlige Einträge mitverwendet</value>
   </data>
-  <data name="alternateItemTemplateLabel.Text">
-    <value xml:space="preserve">alternierende Vorlage für Einträge</value>
+  <data name="alternateItemTemplateLabel.Text" xml:space="preserve">
+    <value>Alternierende Vorlage für Einträge</value>
   </data>
-  <data name="Ascending.Text">
-    <value xml:space="preserve">aufsteigend</value>
+  <data name="Ascending.Text" xml:space="preserve">
+    <value>Aufsteigend</value>
   </data>
-  <data name="Biography.Text">
-    <value xml:space="preserve">Biografie</value>
+  <data name="Biography.Text" xml:space="preserve">
+    <value>Biografie</value>
   </data>
-  <data name="Cell.Text">
-    <value xml:space="preserve">Mobiltelefon</value>
+  <data name="Cell.Text" xml:space="preserve">
+    <value>Mobiltelefon</value>
   </data>
-  <data name="City.Text">
-    <value xml:space="preserve">Ort</value>
+  <data name="City.Text" xml:space="preserve">
+    <value>Ort</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Mitgliederverzeichnis</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Mitgliederverzeichnis</value>
   </data>
-  <data name="Country.Text">
-    <value xml:space="preserve">Land</value>
+  <data name="Country.Text" xml:space="preserve">
+    <value>Land</value>
   </data>
-  <data name="DateCreated.Text">
-    <value xml:space="preserve">erstellt am</value>
+  <data name="DateCreated.Text" xml:space="preserve">
+    <value>Erstellt am</value>
   </data>
-  <data name="Descending.Text">
-    <value xml:space="preserve">absteigend</value>
+  <data name="Descending.Text" xml:space="preserve">
+    <value>Absteigend</value>
   </data>
-  <data name="disablePagerLabel.Help">
-    <value xml:space="preserve">Aktivieren Sie diese Option, um die Schaltfläche "mehr laden" zu deaktivieren. Sie können dann nur die erste Seite anzeigen.</value>
+  <data name="disablePagerLabel.Help" xml:space="preserve">
+    <value>Aktivieren Sie diese Option, um die Schaltfläche "mehr laden" zu deaktivieren. Sie können dann nur die erste Seite anzeigen.</value>
   </data>
-  <data name="disablePagerLabel.Text">
-    <value xml:space="preserve">Blättern deaktivieren:</value>
+  <data name="disablePagerLabel.Text" xml:space="preserve">
+    <value>Blättern deaktivieren:</value>
   </data>
-  <data name="DisplayName.Text">
-    <value xml:space="preserve">Anzeigename</value>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Anzeigename</value>
   </data>
-  <data name="DisplaySearch_Both.Text">
-    <value xml:space="preserve">einfache und erweiterte Suche</value>
+  <data name="DisplaySearch_Both.Text" xml:space="preserve">
+    <value>Einfache und erweiterte Suche</value>
   </data>
-  <data name="DisplaySearch_None.Text">
-    <value xml:space="preserve">keine</value>
+  <data name="DisplaySearch_None.Text" xml:space="preserve">
+    <value>Keine</value>
   </data>
-  <data name="DisplaySearch_Simple.Text">
-    <value xml:space="preserve">einfache Suche</value>
+  <data name="DisplaySearch_Simple.Text" xml:space="preserve">
+    <value>Einfache Suche</value>
   </data>
-  <data name="displaySearchLabel.Help">
-    <value xml:space="preserve">Legen Sie hier fest, wie die Suche angezeigt werden soll: "keine" versteckt alle Suchoptionen, "einfache Suche" zeigt ein einfaches Suchfeld während "einfache und erweiterte Suche" auch die erweiterten Optionen anzeigt.</value>
+  <data name="displaySearchLabel.Help" xml:space="preserve">
+    <value>Legen Sie hier fest, wie die Suche angezeigt werden soll: "keine" versteckt alle Suchoptionen, "einfache Suche" zeigt ein einfaches Suchfeld während "einfache und erweiterte Suche" auch die erweiterten Optionen anzeigt.</value>
   </data>
-  <data name="displaySearchLabel.Text">
-    <value xml:space="preserve">Suche anzeigen:</value>
+  <data name="displaySearchLabel.Text" xml:space="preserve">
+    <value>Suche anzeigen:</value>
   </data>
-  <data name="Email.Text">
-    <value xml:space="preserve">E-Mail</value>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-Mail</value>
   </data>
-  <data name="enablePopUpLabel.Help">
-    <value xml:space="preserve">Aktivieren Sie diese Option, um die Details eines Mitglieds als Popup anzuzeigen.</value>
+  <data name="enablePopUpLabel.Help" xml:space="preserve">
+    <value>Aktivieren Sie diese Option, um die Details eines Mitglieds als Popup anzuzeigen.</value>
   </data>
-  <data name="enablePopUpLabel.Text">
-    <value xml:space="preserve">PopUps aktivieren:</value>
+  <data name="enablePopUpLabel.Text" xml:space="preserve">
+    <value>PopUps aktivieren:</value>
   </data>
-  <data name="ExcludeHostUsersLabel.Help">
-    <value xml:space="preserve">Wenn diese Option aktiviert ist, werden Systemverwalter aus Suchergebnissen ausgeschlossen.</value>
+  <data name="ExcludeHostUsersLabel.Help" xml:space="preserve">
+    <value>Wenn diese Option aktiviert ist, werden Systemverwalter aus Suchergebnissen ausgeschlossen.</value>
   </data>
-  <data name="ExcludeHostUsersLabel.Text">
-    <value xml:space="preserve">Systemverwalter ausschließen:</value>
+  <data name="ExcludeHostUsersLabel.Text" xml:space="preserve">
+    <value>Systemverwalter ausschließen:</value>
   </data>
-  <data name="Fax.Text">
-    <value xml:space="preserve">Fax</value>
+  <data name="Fax.Text" xml:space="preserve">
+    <value>Fax</value>
   </data>
-  <data name="filterBySelectorLabel.Help">
-    <value xml:space="preserve">Sie können bei Bedarf die Liste der anzuzeigenden Benutzer vor-filtern.Wählen Sie hier die gewünschte Filterung aus und wählen Sie dann die entsprechende Gruppe, Beziehung oder Profileigenschaft und den Vergleichswert.</value>
+  <data name="filterBySelectorLabel.Help" xml:space="preserve">
+    <value>Sie können bei Bedarf die Liste der anzuzeigenden Benutzer vor-filtern.Wählen Sie hier die gewünschte Filterung aus und wählen Sie dann die entsprechende Gruppe, Beziehung oder Profileigenschaft und den Vergleichswert.</value>
   </data>
-  <data name="filterBySelectorLabel.Text">
-    <value xml:space="preserve">filtern nach:</value>
+  <data name="filterBySelectorLabel.Text" xml:space="preserve">
+    <value>Filtern nach:</value>
   </data>
-  <data name="Filters.Text">
-    <value xml:space="preserve">Filter und Sortierung</value>
+  <data name="Filters.Text" xml:space="preserve">
+    <value>Filter und Sortierung</value>
   </data>
-  <data name="FirstName.Text">
-    <value xml:space="preserve">Vorname</value>
+  <data name="FirstName.Text" xml:space="preserve">
+    <value>Vorname</value>
   </data>
-  <data name="Group.Text">
-    <value xml:space="preserve">Gruppe</value>
+  <data name="Group.Text" xml:space="preserve">
+    <value>Gruppe</value>
   </data>
-  <data name="IM.Text">
-    <value xml:space="preserve">Messenger</value>
+  <data name="IM.Text" xml:space="preserve">
+    <value>Messenger</value>
   </data>
-  <data name="itemTemplateLabel.Help">
-    <value xml:space="preserve">Die Eintragsvorlage wird verwendet, um die Daten eines Benutzers anzuzeigen.</value>
+  <data name="itemTemplateLabel.Help" xml:space="preserve">
+    <value>Die Eintragsvorlage wird verwendet, um die Daten eines Benutzers anzuzeigen.</value>
   </data>
-  <data name="itemTemplateLabel.Text">
-    <value xml:space="preserve">Vorlage für Eintrag:</value>
+  <data name="itemTemplateLabel.Text" xml:space="preserve">
+    <value>Vorlage für Eintrag:</value>
   </data>
-  <data name="LastName.Text">
-    <value xml:space="preserve">Nachname</value>
+  <data name="LastName.Text" xml:space="preserve">
+    <value>Nachname</value>
   </data>
-  <data name="MiddleName.Text">
-    <value xml:space="preserve">Zweiter Name</value>
+  <data name="MiddleName.Text" xml:space="preserve">
+    <value>Zweiter Name</value>
   </data>
-  <data name="None.Text">
-    <value xml:space="preserve">kein Filter</value>
+  <data name="None.Text" xml:space="preserve">
+    <value>Kein Filter</value>
   </data>
-  <data name="pageSize.Error">
-    <value xml:space="preserve">Die Seitenlänge muss zwischen 1 und 100 Einträgen liegen</value>
+  <data name="pageSize.Error" xml:space="preserve">
+    <value>Die Seitenlänge muss zwischen 1 und 100 Einträgen liegen</value>
   </data>
-  <data name="pageSizeLabel.Help">
-    <value xml:space="preserve">Legen Sie die Anzahl der Einträge je Seite (zwischen 1 und 100) fest.</value>
+  <data name="pageSizeLabel.Help" xml:space="preserve">
+    <value>Legen Sie die Anzahl der Einträge je Seite (zwischen 1 und 100) fest.</value>
   </data>
-  <data name="pageSizeLabel.Text">
-    <value xml:space="preserve">Seitenlänge:</value>
+  <data name="pageSizeLabel.Text" xml:space="preserve">
+    <value>Seitenlänge:</value>
   </data>
-  <data name="Paging.Text">
-    <value xml:space="preserve">Blättern-Einstellungen</value>
+  <data name="Paging.Text" xml:space="preserve">
+    <value>Blättern-Einstellungen</value>
   </data>
-  <data name="popUpTemplateLabel.Help">
-    <value xml:space="preserve">Die PopUp-Vorlage wird verwendet, um die Daten eines Benutzers als Popup anzuzeigen.</value>
+  <data name="popUpTemplateLabel.Help" xml:space="preserve">
+    <value>Die PopUp-Vorlage wird verwendet, um die Daten eines Benutzers als Popup anzuzeigen.</value>
   </data>
-  <data name="popUpTemplateLabel.Text">
-    <value xml:space="preserve">PopUp-Vorlage:</value>
+  <data name="popUpTemplateLabel.Text" xml:space="preserve">
+    <value>PopUp-Vorlage:</value>
   </data>
-  <data name="PostalCode.Text">
-    <value xml:space="preserve">Postleitzahl</value>
+  <data name="PostalCode.Text" xml:space="preserve">
+    <value>Postleitzahl</value>
   </data>
-  <data name="PreferredLocale.Text">
-    <value xml:space="preserve">Bevorzugte Sprache</value>
+  <data name="PreferredLocale.Text" xml:space="preserve">
+    <value>Bevorzugte Sprache</value>
   </data>
-  <data name="Prefix.Text">
-    <value xml:space="preserve">Titel</value>
+  <data name="Prefix.Text" xml:space="preserve">
+    <value>Titel</value>
   </data>
-  <data name="ProfileProperty.Text">
-    <value xml:space="preserve">Profileigenschaft</value>
+  <data name="ProfileProperty.Text" xml:space="preserve">
+    <value>Profileigenschaft</value>
   </data>
-  <data name="Region.Text">
-    <value xml:space="preserve">Region</value>
+  <data name="Region.Text" xml:space="preserve">
+    <value>Region</value>
   </data>
-  <data name="Relationship.Text">
-    <value xml:space="preserve">Beziehung</value>
+  <data name="Relationship.Text" xml:space="preserve">
+    <value>Beziehung</value>
   </data>
-  <data name="Search.Text">
-    <value xml:space="preserve">Sucheinstellungen</value>
+  <data name="Search.Text" xml:space="preserve">
+    <value>Sucheinstellungen</value>
   </data>
-  <data name="searchField1Label.Help">
-    <value xml:space="preserve">Wählen Sie hier das erste Feld, das in der erweiterten Suche angeboten werden soll.</value>
+  <data name="searchField1Label.Help" xml:space="preserve">
+    <value>Wählen Sie hier das erste Feld, das in der erweiterten Suche angeboten werden soll.</value>
   </data>
-  <data name="searchField1Label.Text">
-    <value xml:space="preserve">Feld 1 durchsuchen:</value>
+  <data name="searchField1Label.Text" xml:space="preserve">
+    <value>Feld 1 durchsuchen:</value>
   </data>
-  <data name="searchField2Label.Help">
-    <value xml:space="preserve">Wählen Sie hier das zweite Feld, das in der erweiterten Suche angeboten werden soll.</value>
+  <data name="searchField2Label.Help" xml:space="preserve">
+    <value>Wählen Sie hier das zweite Feld, das in der erweiterten Suche angeboten werden soll.</value>
   </data>
-  <data name="searchField2Label.Text">
-    <value xml:space="preserve">Feld 2 durchsuchen:</value>
+  <data name="searchField2Label.Text" xml:space="preserve">
+    <value>Feld 2 durchsuchen:</value>
   </data>
-  <data name="searchField3Label.Help">
-    <value xml:space="preserve">Wählen Sie hier das dritte Feld, das in der erweiterten Suche angeboten werden soll.</value>
+  <data name="searchField3Label.Help" xml:space="preserve">
+    <value>Wählen Sie hier das dritte Feld, das in der erweiterten Suche angeboten werden soll.</value>
   </data>
-  <data name="searchField3Label.Text">
-    <value xml:space="preserve">Feld 3 durchsuchen:</value>
+  <data name="searchField3Label.Text" xml:space="preserve">
+    <value>Feld 3 durchsuchen:</value>
   </data>
-  <data name="searchField4Label.Help">
-    <value xml:space="preserve">Wählen Sie hier das vierte Feld, das in der erweiterten Suche angeboten werden soll.</value>
+  <data name="searchField4Label.Help" xml:space="preserve">
+    <value>Wählen Sie hier das vierte Feld, das in der erweiterten Suche angeboten werden soll.</value>
   </data>
-  <data name="searchField4Label.Text">
-    <value xml:space="preserve">Feld 4 durchsuchen:</value>
+  <data name="searchField4Label.Text" xml:space="preserve">
+    <value>Feld 4 durchsuchen:</value>
   </data>
-  <data name="sortFieldListLabel.Help">
-    <value xml:space="preserve">Wählen Sie das Feld, nach dem die Benutzer sortiert werden sollen.</value>
+  <data name="sortFieldListLabel.Help" xml:space="preserve">
+    <value>Wählen Sie das Feld, nach dem die Benutzer sortiert werden sollen.</value>
   </data>
-  <data name="sortFieldListLabel.Text">
-    <value xml:space="preserve">Sortierfeld:</value>
+  <data name="sortFieldListLabel.Text" xml:space="preserve">
+    <value>Sortierfeld:</value>
   </data>
-  <data name="sortOrderListLabel.Help">
-    <value xml:space="preserve">Wählen Sie die Sortierrichtung für die Mitgliederliste.</value>
+  <data name="sortOrderListLabel.Help" xml:space="preserve">
+    <value>Wählen Sie die Sortierrichtung für die Mitgliederliste.</value>
   </data>
-  <data name="sortOrderListLabel.Text">
-    <value xml:space="preserve">Sortierung:</value>
+  <data name="sortOrderListLabel.Text" xml:space="preserve">
+    <value>Sortierung:</value>
   </data>
-  <data name="Street.Text">
-    <value xml:space="preserve">Straße</value>
+  <data name="Street.Text" xml:space="preserve">
+    <value>Straße</value>
   </data>
-  <data name="Suffix.Text">
-    <value xml:space="preserve">Zusatz</value>
+  <data name="Suffix.Text" xml:space="preserve">
+    <value>Zusatz</value>
   </data>
-  <data name="Telephone.Text">
-    <value xml:space="preserve">Telefon</value>
+  <data name="Telephone.Text" xml:space="preserve">
+    <value>Telefon</value>
   </data>
-  <data name="Templates.Text">
-    <value xml:space="preserve">Vorlagen</value>
+  <data name="Templates.Text" xml:space="preserve">
+    <value>Vorlagen</value>
   </data>
-  <data name="TimeZone.Text">
-    <value xml:space="preserve">Zeitzone</value>
+  <data name="TimeZone.Text" xml:space="preserve">
+    <value>Zeitzone</value>
   </data>
-  <data name="Unit.Text">
-    <value xml:space="preserve">Wohnung</value>
+  <data name="Unit.Text" xml:space="preserve">
+    <value>Wohnung</value>
   </data>
-  <data name="User.Text">
-    <value xml:space="preserve">Benutzer</value>
+  <data name="User.Text" xml:space="preserve">
+    <value>Benutzer</value>
   </data>
-  <data name="UserId.Text">
-    <value xml:space="preserve">Benutzer-ID</value>
+  <data name="UserId.Text" xml:space="preserve">
+    <value>Benutzer-ID</value>
   </data>
-  <data name="Username.Text">
-    <value xml:space="preserve">Anmeldename</value>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Anmeldename</value>
   </data>
-  <data name="Website.Text">
-    <value xml:space="preserve">Website</value>
+  <data name="Website.Text" xml:space="preserve">
+    <value>Website</value>
   </data>
 </root>

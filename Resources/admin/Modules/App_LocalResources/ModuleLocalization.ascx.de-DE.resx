@@ -12,40 +12,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BindConfirm.Text">
-    <value xml:space="preserve">Durch das Binden an die Standardsprache wird der Inhalt in den anderen Sprachen unwiderruflich gelöscht. Wollen Sie fortfahren?</value>
+  <data name="BindConfirm.Text" xml:space="preserve">
+    <value>Durch das Binden an die Standardsprache wird der Inhalt in den anderen Sprachen unwiderruflich gelöscht. Wollen Sie fortfahren?</value>
   </data>
-  <data name="bindModule.Text">
-    <value xml:space="preserve">Standardsprache referenzieren</value>
+  <data name="bindModule.Text" xml:space="preserve">
+    <value>Standardsprache referenzieren</value>
   </data>
-  <data name="Edit.Header">
-    <value xml:space="preserve">bearbeiten</value>
+  <data name="Edit.Header" xml:space="preserve">
+    <value>Bearbeiten</value>
   </data>
-  <data name="Language.Header">
-    <value xml:space="preserve">Sprache</value>
+  <data name="Language.Header" xml:space="preserve">
+    <value>Sprache</value>
   </data>
-  <data name="markModuleTranslated.Text">
-    <value xml:space="preserve">als 'übersetzt' markieren</value>
+  <data name="markModuleTranslated.Text" xml:space="preserve">
+    <value>Als 'übersetzt' markieren</value>
   </data>
-  <data name="markModuleUnTranslated.Text">
-    <value xml:space="preserve">als 'nicht übersetzt' markieren</value>
+  <data name="markModuleUnTranslated.Text" xml:space="preserve">
+    <value>Als 'nicht übersetzt' markieren</value>
   </data>
-  <data name="ModuleTitle.Header">
-    <value xml:space="preserve">Modultitel</value>
+  <data name="ModuleTitle.Header" xml:space="preserve">
+    <value>Modultitel</value>
   </data>
-  <data name="ModuleType.Header">
-    <value xml:space="preserve">Modul</value>
+  <data name="ModuleType.Header" xml:space="preserve">
+    <value>Modul</value>
   </data>
-  <data name="NA.Text">
-    <value xml:space="preserve">nicht verfügbar</value>
+  <data name="NA.Text" xml:space="preserve">
+    <value>Nicht verfügbar</value>
   </data>
-  <data name="Translated.Header">
-    <value xml:space="preserve">übersetzt:</value>
+  <data name="Translated.Header" xml:space="preserve">
+    <value>Übersetzt:</value>
   </data>
-  <data name="unbindModule.Text">
-    <value xml:space="preserve">Von der Standardsprache abkoppeln</value>
+  <data name="unbindModule.Text" xml:space="preserve">
+    <value>Von der Standardsprache abkoppeln</value>
   </data>
-  <data name="UnBound.Header">
-    <value xml:space="preserve">ist abgekoppelt:</value>
+  <data name="UnBound.Header" xml:space="preserve">
+    <value>Ist abgekoppelt:</value>
   </data>
 </root>
