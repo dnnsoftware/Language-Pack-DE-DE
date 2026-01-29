@@ -12,56 +12,56 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdExport.Text">
-    <value xml:space="preserve">exportieren</value>
+  <data name="cmdExport.Text" xml:space="preserve">
+    <value>Exportieren</value>
   </data>
-  <data name="ControlTitle_exporttab.Text">
-    <value xml:space="preserve">Seite exportieren</value>
+  <data name="ControlTitle_exporttab.Text" xml:space="preserve">
+    <value>Seite exportieren</value>
   </data>
-  <data name="Error.Text">
-    <value xml:space="preserve">Während des Exports ist ein Fehler aufgetreten.</value>
+  <data name="Error.Text" xml:space="preserve">
+    <value>Während des Exports ist ein Fehler aufgetreten.</value>
   </data>
-  <data name="ExportedMessage.Text">
-    <value xml:space="preserve">Die Seitenvorlage wurde in  &lt;b&gt;{0}&lt;/b&gt; erstellt.</value>
+  <data name="ExportedMessage.Text" xml:space="preserve">
+    <value>Die Seitenvorlage wurde in  &lt;b&gt;{0}&lt;/b&gt; erstellt.</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Seiten exportieren&lt;/h&gt;
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Seiten exportieren&lt;/h&gt;
 &lt;p&gt;Website-Verwalter und Seitenautoren könne hier den Inhalt einzelner Seiten in eine Vorlagendatei exportieren aus denen dann neue Seiten mit den gleichen Modulinhalten erstellt werden können.&lt;/p&gt;</value>
   </data>
-  <data name="plContent.Help">
-    <value xml:space="preserve">Aktivieren Sie diese Option, um dem Modulinhalt einzuschließen.</value>
+  <data name="plContent.Help" xml:space="preserve">
+    <value>Aktivieren Sie diese Option, um dem Modulinhalt einzuschließen.</value>
   </data>
-  <data name="plContent.Text">
-    <value xml:space="preserve">Inhalt aufnehmen:</value>
+  <data name="plContent.Text" xml:space="preserve">
+    <value>Inhalt aufnehmen:</value>
   </data>
-  <data name="plDescription.Help">
-    <value xml:space="preserve">Geben Sie hier eine Beschreibung der Vorlage ein.</value>
+  <data name="plDescription.Help" xml:space="preserve">
+    <value>Geben Sie hier eine Beschreibung der Vorlage ein.</value>
   </data>
-  <data name="plDescription.Text">
-    <value xml:space="preserve">Beschreibung:</value>
+  <data name="plDescription.Text" xml:space="preserve">
+    <value>Beschreibung:</value>
   </data>
-  <data name="plFile.Help">
-    <value xml:space="preserve">Geben Sie einen Namen für die Seitenvorlage an.</value>
+  <data name="plFile.Help" xml:space="preserve">
+    <value>Geben Sie einen Namen für die Seitenvorlage an.</value>
   </data>
-  <data name="plFile.Text">
-    <value xml:space="preserve">Vorlagenname:</value>
+  <data name="plFile.Text" xml:space="preserve">
+    <value>Vorlagenname:</value>
   </data>
-  <data name="plFolder.Help">
-    <value xml:space="preserve">Wählen Sie den Exportordner, indem die Vorlage gespeichert werden soll.</value>
+  <data name="plFolder.Help" xml:space="preserve">
+    <value>Wählen Sie den Exportordner, indem die Vorlage gespeichert werden soll.</value>
   </data>
-  <data name="plFolder.Text">
-    <value xml:space="preserve">Ordner:</value>
+  <data name="plFolder.Text" xml:space="preserve">
+    <value>Ordner:</value>
   </data>
-  <data name="Root.Text">
-    <value xml:space="preserve">Basis</value>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Basis</value>
   </data>
-  <data name="valDescription.ErrorMessage">
-    <value xml:space="preserve">Sie müssen eine Beschreibung für die Vorlage eingeben.</value>
+  <data name="valDescription.ErrorMessage" xml:space="preserve">
+    <value>Sie müssen eine Beschreibung für die Vorlage eingeben.</value>
   </data>
-  <data name="valFileName.ErrorMessage">
-    <value xml:space="preserve">Sie müssen einen Dateinamen für Ihre Vorlage angeben.</value>
+  <data name="valFileName.ErrorMessage" xml:space="preserve">
+    <value>Sie müssen einen Dateinamen für Ihre Vorlage angeben.</value>
   </data>
-  <data name="Validation.Text">
-    <value xml:space="preserve">Sie müssen einen Ordner und einen Vorlagennamen für den Export auswählen.</value>
+  <data name="Validation.Text" xml:space="preserve">
+    <value>Sie müssen einen Ordner und einen Vorlagennamen für den Export auswählen.</value>
   </data>
 </root>

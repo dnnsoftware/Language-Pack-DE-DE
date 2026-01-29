@@ -1,1 +1,1 @@
-# DNN Language Patch for (DE-DE)
+# DNN Language Pack for (DE-DE)

@@ -12,52 +12,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllowFiles.Help">
-    <value xml:space="preserve">Bitte legen Sie fest, ob Benutzer Dateianhänge an ihre Nachrichten anfügen können sollen..</value>
+  <data name="AllowFiles.Help" xml:space="preserve">
+    <value>Bitte legen Sie fest, ob Benutzer Dateianhänge an ihre Nachrichten anfügen können sollen..</value>
   </data>
-  <data name="AllowFiles.Text">
-    <value xml:space="preserve">Dateianhänge erlauben</value>
+  <data name="AllowFiles.Text" xml:space="preserve">
+    <value>Dateianhänge erlauben</value>
   </data>
-  <data name="AllowPhotos.Help">
-    <value xml:space="preserve">Bitte legen Sie fest, ob Benutzer Photos an ihre Nachrichten anfügen können sollen..</value>
+  <data name="AllowPhotos.Help" xml:space="preserve">
+    <value>Bitte legen Sie fest, ob Benutzer Photos an ihre Nachrichten anfügen können sollen..</value>
   </data>
-  <data name="AllowPhotos.Text">
-    <value xml:space="preserve">Bildanhänge erlauben</value>
+  <data name="AllowPhotos.Text" xml:space="preserve">
+    <value>Bildanhänge erlauben</value>
   </data>
-  <data name="AllowResize.Help">
-    <value xml:space="preserve">Legen Sie hier fest, ob hochgeladene Bilder verkleinert werden soll. Dies betrifft alle Bilder, deren längere Seite größer als 400 Px ist.</value>
+  <data name="AllowResize.Help" xml:space="preserve">
+    <value>Legen Sie hier fest, ob hochgeladene Bilder verkleinert werden soll. Dies betrifft alle Bilder, deren längere Seite größer als 400 Px ist.</value>
   </data>
-  <data name="AllowResize.Text">
-    <value xml:space="preserve">Bilder verkleinern</value>
+  <data name="AllowResize.Text" xml:space="preserve">
+    <value>Bilder verkleinern</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Journal-Einstellungen</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Journal-Einstellungen</value>
   </data>
-  <data name="DefaultPageSize.Help">
-    <value xml:space="preserve">Legen Sie die Anzahl der Journaleinträge je Seite fest.</value>
+  <data name="DefaultPageSize.Help" xml:space="preserve">
+    <value>Legen Sie die Anzahl der Journaleinträge je Seite fest.</value>
   </data>
-  <data name="DefaultPageSize.Text">
-    <value xml:space="preserve">Standard-Seitenlänge</value>
+  <data name="DefaultPageSize.Text" xml:space="preserve">
+    <value>Standard-Seitenlänge</value>
   </data>
-  <data name="EnableEditor.Help">
-    <value xml:space="preserve">Aktivieren Sie diese Option, um direkte Eingaben im Journal mithilfe des Editors zu erlauben.</value>
+  <data name="EnableEditor.Help" xml:space="preserve">
+    <value>Aktivieren Sie diese Option, um direkte Eingaben im Journal mithilfe des Editors zu erlauben.</value>
   </data>
-  <data name="EnableEditor.Text">
-    <value xml:space="preserve">Editor im Journal</value>
+  <data name="EnableEditor.Text" xml:space="preserve">
+    <value>Editor im Journal</value>
   </data>
-  <data name="JournalFilters.Help">
-    <value xml:space="preserve">Wählen Sie den anzuzeigenden Journaltyp.</value>
+  <data name="JournalFilters.Help" xml:space="preserve">
+    <value>Wählen Sie den anzuzeigenden Journaltyp.</value>
   </data>
-  <data name="JournalFilters.Text">
-    <value xml:space="preserve">Journal-Typen</value>
+  <data name="JournalFilters.Text" xml:space="preserve">
+    <value>Journal-Typen</value>
   </data>
-  <data name="MaxMessageLength.Help">
-    <value xml:space="preserve">Legen Sie fest, wie viele Zeichen eine Nachricht maximal umfassen darf.</value>
+  <data name="MaxMessageLength.Help" xml:space="preserve">
+    <value>Legen Sie fest, wie viele Zeichen eine Nachricht maximal umfassen darf.</value>
   </data>
-  <data name="MaxMessageLength.Text">
-    <value xml:space="preserve">Höchstzahl von Zeichen je Nachricht</value>
+  <data name="MaxMessageLength.Text" xml:space="preserve">
+    <value>Höchstzahl von Zeichen je Nachricht</value>
   </data>
-  <data name="MessageLength_Unlimited.Text">
-    <value xml:space="preserve">unbegrenzt</value>
+  <data name="MessageLength_Unlimited.Text" xml:space="preserve">
+    <value>Unbegrenzt</value>
   </data>
 </root>

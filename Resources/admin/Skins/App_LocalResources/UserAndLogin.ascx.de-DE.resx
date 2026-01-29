@@ -12,37 +12,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Account.Text">
-    <value xml:space="preserve">Benutzerkonto bearbeiten</value>
+  <data name="Account.Text" xml:space="preserve">
+    <value>Benutzerkonto bearbeiten</value>
   </data>
-  <data name="EditProfile.Text">
-    <value xml:space="preserve">Profil bearbeiten</value>
+  <data name="EditProfile.Text" xml:space="preserve">
+    <value>Profil bearbeiten</value>
   </data>
-  <data name="Login.Text">
-    <value xml:space="preserve">anmelden</value>
+  <data name="Login.Text" xml:space="preserve">
+    <value>Anmelden</value>
   </data>
-  <data name="Logout.Text">
-    <value xml:space="preserve">abmelden</value>
+  <data name="Logout.Text" xml:space="preserve">
+    <value>Abmelden</value>
   </data>
-  <data name="MessageCount.Text">
-    <value xml:space="preserve">{0} Mitteilungen</value>
+  <data name="MessageCount.Text" xml:space="preserve">
+    <value>{0} Mitteilungen</value>
   </data>
-  <data name="Messages.Text">
-    <value xml:space="preserve">Mitteilungen</value>
+  <data name="Messages.Text" xml:space="preserve">
+    <value>Mitteilungen</value>
   </data>
-  <data name="Notifications.Text">
-    <value xml:space="preserve">Benachrichtigungen</value>
+  <data name="Notifications.Text" xml:space="preserve">
+    <value>Benachrichtigungen</value>
   </data>
-  <data name="OneMessage.Text">
-    <value xml:space="preserve">1 Mitteilung</value>
+  <data name="OneMessage.Text" xml:space="preserve">
+    <value>1 Mitteilung</value>
   </data>
-  <data name="Profile.Text">
-    <value xml:space="preserve">Eigenes Profil</value>
+  <data name="Profile.Text" xml:space="preserve">
+    <value>Eigenes Profil</value>
   </data>
-  <data name="ProfilePicture.Text">
-    <value xml:space="preserve">Eigenes Profilbild</value>
+  <data name="ProfilePicture.Text" xml:space="preserve">
+    <value>Eigenes Profilbild</value>
   </data>
-  <data name="Register.Text">
-    <value xml:space="preserve">registrieren</value>
+  <data name="Register.Text" xml:space="preserve">
+    <value>Registrieren</value>
   </data>
 </root>

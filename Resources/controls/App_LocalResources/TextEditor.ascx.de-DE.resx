@@ -12,43 +12,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BasicTextBox.Text">
-    <value xml:space="preserve">Einfaches Textfeld</value>
+  <data name="BasicTextBox.Text" xml:space="preserve">
+    <value>Einfaches Textfeld</value>
   </data>
-  <data name="CompareListDefaultOption.Text">
-    <value xml:space="preserve">vergleichen</value>
+  <data name="CompareListDefaultOption.Text" xml:space="preserve">
+    <value>Vergleichen</value>
   </data>
-  <data name="EditorTitleLabel.Text">
-    <value xml:space="preserve">{0}-Editor</value>
+  <data name="EditorTitleLabel.Text" xml:space="preserve">
+    <value>{0}-Editor</value>
   </data>
-  <data name="Html.Text">
-    <value xml:space="preserve">HTML</value>
+  <data name="Html.Text" xml:space="preserve">
+    <value>HTML</value>
   </data>
-  <data name="plRender.Help">
-    <value xml:space="preserve">Wählen Sie den Modus, um HTML anzuzeigen.</value>
+  <data name="plRender.Help" xml:space="preserve">
+    <value>Wählen Sie den Modus, um HTML anzuzeigen.</value>
   </data>
-  <data name="plRender.Text">
-    <value xml:space="preserve">Darstellungsart:</value>
+  <data name="plRender.Text" xml:space="preserve">
+    <value>Darstellungsart:</value>
   </data>
-  <data name="plView.Help">
-    <value xml:space="preserve">Wählen Sie den zu verwendenden Editor.</value>
+  <data name="plView.Help" xml:space="preserve">
+    <value>Wählen Sie den zu verwendenden Editor.</value>
   </data>
-  <data name="plView.Text">
-    <value xml:space="preserve">Editor:</value>
+  <data name="plView.Text" xml:space="preserve">
+    <value>Editor:</value>
   </data>
-  <data name="Raw.Text">
-    <value xml:space="preserve">roh</value>
+  <data name="Raw.Text" xml:space="preserve">
+    <value>Roh</value>
   </data>
-  <data name="RichTextBox.Text">
-    <value xml:space="preserve">Komforteditor</value>
+  <data name="RichTextBox.Text" xml:space="preserve">
+    <value>Komforteditor</value>
   </data>
-  <data name="Text.Text">
-    <value xml:space="preserve">Text</value>
+  <data name="Text.Text" xml:space="preserve">
+    <value>Text</value>
   </data>
-  <data name="VersionLabel.Text">
-    <value xml:space="preserve">Version {0}</value>
+  <data name="VersionLabel.Text" xml:space="preserve">
+    <value>Version {0}</value>
   </data>
-  <data name="VersionListDefaultOption.Text">
-    <value xml:space="preserve">Version</value>
+  <data name="VersionListDefaultOption.Text" xml:space="preserve">
+    <value>Version</value>
   </data>
 </root>

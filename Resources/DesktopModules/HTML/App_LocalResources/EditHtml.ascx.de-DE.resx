@@ -12,173 +12,173 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Text">
+  <data name="AddContent.Text" xml:space="preserve">
     <value>Inhalt hinzufügen...</value>
   </data>
-  <data name="plActionOnSave.Help">
-    <value>Geben Sie eine Aktion an, die des Modul beim betätigen von "speichern" ausführen soll.</value>
-  </data>
-  <data name="DeleteVersion.Confirm">
-    <value>Sind Sie sicher, dass Sie die Version [VERSION] ([STATE]), die durch [USERNAME] am [DATECREATED] erstellt wurde, löschen wollen?</value>
-  </data>
-  <data name="cmdCancel.Text">
-    <value>abbrechen</value>
-  </data>
-  <data name="Date.Header">
-    <value>Datum</value>
-  </data>
-  <data name="ControlTitle_edit.Text">
-    <value>Inhalt bearbeiten</value>
-  </data>
-  <data name="Delete.Text">
-    <value>Diese Version löschen</value>
-  </data>
-  <data name="EditPreviewState.Text">
-    <value>Vorschau bearbeiten</value>
-  </data>
-  <data name="VersionsRemove.Text">
-    <value>löschen</value>
-  </data>
-  <data name="dshHistory.Text">
-    <value>Workflow-Details</value>
-  </data>
-  <data name="plPreviewWorkflowInUse.Text">
-    <value>Verwendeter Workflow</value>
-  </data>
-  <data name="plCurrentWorkflowInUse.Text">
-    <value>Verwendeter Workflow</value>
-  </data>
-  <data name="plCurrentWorkflowState.Text">
-    <value>Workflow-Status</value>
-  </data>
-  <data name="plPreviewWorkflowState.Text">
-    <value>Workflow-Status</value>
-  </data>
-  <data name="plPreviewVersion.Text">
-    <value>Version</value>
-  </data>
-  <data name="Version.Header">
-    <value>Version</value>
-  </data>
-  <data name="User.Header">
-    <value>Benutzer</value>
-  </data>
-  <data name="plCurrentWorkVersion.Text">
-    <value>Version</value>
-  </data>
-  <data name="True.Text">
-    <value>wahr</value>
-  </data>
-  <data name="lblPreviewWorkflowState.Text">
-    <value>Status</value>
-  </data>
-  <data name="State.Header">
-    <value>Status</value>
-  </data>
-  <data name="Edit.Text">
-    <value>Inhalt auf diese Version zurücksetzen</value>
-  </data>
-  <data name="cmdSave.Text">
-    <value>speichern</value>
-  </data>
-  <data name="plCurrentWorkflowState.Help">
-    <value>Status im verwendeten Workflow.</value>
-  </data>
-  <data name="VersionsRollback.Text">
-    <value>zurückrollen</value>
-  </data>
-  <data name="plPublish.Text">
-    <value>veröffentlichen</value>
-  </data>
-  <data name="Published.Text">
-    <value>veröffentlicht</value>
-  </data>
-  <data name="chkPublish.Text">
+  <data name="chkPublish.Text" xml:space="preserve">
     <value>Änderungen veröffentlichen:</value>
   </data>
-  <data name="Item.Text">
-    <value>Vorschau des Inhalts</value>
+  <data name="cmdCancel.Text" xml:space="preserve">
+    <value>Abbrechen</value>
   </data>
-  <data name="cmdPreview.Text">
+  <data name="cmdCancelSubmit.Text" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="cmdHideMasterContent.Text" xml:space="preserve">
+    <value>Standardsprache ausblenden</value>
+  </data>
+  <data name="cmdHistory.Text" xml:space="preserve">
+    <value>Versionshistorie</value>
+  </data>
+  <data name="cmdPreview.Text" xml:space="preserve">
     <value>Vorschau</value>
   </data>
-  <data name="VersionsPreview.Text">
-    <value>Vorschau</value>
+  <data name="cmdSave.Text" xml:space="preserve">
+    <value>Speichern</value>
   </data>
-  <data name="plPublish.Help">
-    <value>Sie sehen hier, ob der Inhalt bereit zur Veröffentlichung ist</value>
+  <data name="cmdShowMasterContent.Text" xml:space="preserve">
+    <value>Standardsprache anzeigen</value>
   </data>
-  <data name="dshCurrentContent.Text">
+  <data name="Content Staging.Text" xml:space="preserve">
+    <value>Inhalte freigeben</value>
+  </data>
+  <data name="ControlTitle_edit.Text" xml:space="preserve">
     <value>Inhalt bearbeiten</value>
   </data>
-  <data name="Direct Publish.Text">
-    <value>direkt veröffentlichen</value>
+  <data name="Date.Header" xml:space="preserve">
+    <value>Datum</value>
   </data>
-  <data name="plPreviewVersion.Help">
-    <value>Zeigt die Versionsnummer des Inhalts</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Diese Version löschen</value>
   </data>
-  <data name="plWorkflowState.Help">
-    <value>Zeigt den aktuellen Status des Inhalts</value>
+  <data name="DeleteVersion.Confirm" xml:space="preserve">
+    <value>Sind Sie sicher, dass Sie die Version [VERSION] ([STATE]), die durch [USERNAME] am [DATECREATED] erstellt wurde, löschen wollen?</value>
   </data>
-  <data name="Draft.Text">
+  <data name="Direct Publish.Text" xml:space="preserve">
+    <value>Direkt veröffentlichen</value>
+  </data>
+  <data name="Draft.Text" xml:space="preserve">
     <value>Entwurf</value>
   </data>
-  <data name="plCurrentWorkVersion.Help">
-    <value>Zeigt die Versionsnummer des Inhalts</value>
+  <data name="dshCurrentContent.Text" xml:space="preserve">
+    <value>Inhalt bearbeiten</value>
   </data>
-  <data name="False.Text">
-    <value>falsch</value>
+  <data name="dshHistory.Text" xml:space="preserve">
+    <value>Workflow-Details</value>
   </data>
-  <data name="dshMaster.Text">
+  <data name="dshMaster.Text" xml:space="preserve">
     <value>Version in Originalsprache</value>
   </data>
-  <data name="plMaxVersions.Text">
-    <value>Maximale Anzahl von Versionen</value>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Inhalt auf diese Version zurücksetzen</value>
   </data>
-  <data name="plCurrentWorkflowInUse.Help">
-    <value>Der vom Modul aktuell verwendete Workflow.</value>
+  <data name="EditPreviewState.Text" xml:space="preserve">
+    <value>Vorschau bearbeiten</value>
   </data>
-  <data name="plPreviewWorkflowInUse.Help">
-    <value>Der Name des Workflow-Konfiguration, die das Modul aktuell verwendet</value>
+  <data name="False.Text" xml:space="preserve">
+    <value>Falsch</value>
   </data>
-  <data name="plMaxVersions.Help">
-    <value>Die maximale Anzahl von Versionen, die in der Historie des Moduls aufbewahrt werden sollen.</value>
+  <data name="Item.Text" xml:space="preserve">
+    <value>Vorschau des Inhalts</value>
   </data>
-  <data name="plPreviewWorkflowState.Help">
-    <value>Der Workflow-Status des angezeigten Inhalts</value>
+  <data name="lblNoRecords.Text" xml:space="preserve">
+    <value>Es gibt keine Historie für diesen Inhalt. </value>
   </data>
-  <data name="NoVersions.Text">
-    <value>Es gibt keine Versionshistorie für diesen Inhalt.</value>
+  <data name="lblPreviewWorkflowState.Text" xml:space="preserve">
+    <value>Status</value>
   </data>
-  <data name="plActionOnSave.Text">
-    <value>beim Speichern</value>
+  <data name="liBasicText.Text" xml:space="preserve">
+    <value>Einfacher Textbereich</value>
   </data>
-  <data name="ModuleHelp.Text">
+  <data name="liRichText.Text" xml:space="preserve">
+    <value>Komforteditor</value>
+  </data>
+  <data name="ModuleHelp.Text" xml:space="preserve">
     <value>&lt;h1&gt;HTML-Modul&lt;/h&gt;
 &lt;p&gt;Mit dem HTML-Modul können Sie formatierten HTML-Text mit Bildern, Links und andren Medienelementen auf Ihren Seiten bereitstellen. Das Modul unterstützt Workflows mit direkter Veröffentlichung oder Freigabe und Versionierung.&lt;/p&gt;</value>
   </data>
-  <data name="cmdCancelSubmit.Text">
-    <value>abbrechen</value>
+  <data name="NoVersions.Text" xml:space="preserve">
+    <value>Es gibt keine Versionshistorie für diesen Inhalt.</value>
   </data>
-  <data name="cmdHideMasterContent.Text">
-    <value>Standardsprache ausblenden</value>
+  <data name="plActionOnSave.Help" xml:space="preserve">
+    <value>Geben Sie eine Aktion an, die des Modul beim betätigen von "speichern" ausführen soll.</value>
   </data>
-  <data name="cmdHistory.Text">
-    <value>Versionshistorie</value>
+  <data name="plActionOnSave.Text" xml:space="preserve">
+    <value>Beim Speichern</value>
   </data>
-  <data name="cmdShowMasterContent.Text">
-    <value>Standardsprache anzeigen</value>
+  <data name="plCurrentWorkflowInUse.Help" xml:space="preserve">
+    <value>Der vom Modul aktuell verwendete Workflow.</value>
   </data>
-  <data name="Content Staging.Text">
-    <value>Inhalte freigeben</value>
+  <data name="plCurrentWorkflowInUse.Text" xml:space="preserve">
+    <value>Verwendeter Workflow</value>
   </data>
-  <data name="lblNoRecords.Text">
-    <value>es gibt keine Historie für diesen Inhalt. </value>
+  <data name="plCurrentWorkflowState.Help" xml:space="preserve">
+    <value>Status im verwendeten Workflow.</value>
   </data>
-  <data name="liBasicText.Text">
-    <value>Einfacher Textbereich</value>
+  <data name="plCurrentWorkflowState.Text" xml:space="preserve">
+    <value>Workflow-Status</value>
   </data>
-  <data name="liRichText.Text">
-    <value>Komforteditor</value>
+  <data name="plCurrentWorkVersion.Help" xml:space="preserve">
+    <value>Zeigt die Versionsnummer des Inhalts</value>
+  </data>
+  <data name="plCurrentWorkVersion.Text" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="plMaxVersions.Help" xml:space="preserve">
+    <value>Die maximale Anzahl von Versionen, die in der Historie des Moduls aufbewahrt werden sollen.</value>
+  </data>
+  <data name="plMaxVersions.Text" xml:space="preserve">
+    <value>Maximale Anzahl von Versionen</value>
+  </data>
+  <data name="plPreviewVersion.Help" xml:space="preserve">
+    <value>Zeigt die Versionsnummer des Inhalts</value>
+  </data>
+  <data name="plPreviewVersion.Text" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="plPreviewWorkflowInUse.Help" xml:space="preserve">
+    <value>Der Name des Workflow-Konfiguration, die das Modul aktuell verwendet</value>
+  </data>
+  <data name="plPreviewWorkflowInUse.Text" xml:space="preserve">
+    <value>Verwendeter Workflow</value>
+  </data>
+  <data name="plPreviewWorkflowState.Help" xml:space="preserve">
+    <value>Der Workflow-Status des angezeigten Inhalts</value>
+  </data>
+  <data name="plPreviewWorkflowState.Text" xml:space="preserve">
+    <value>Workflow-Status</value>
+  </data>
+  <data name="plPublish.Help" xml:space="preserve">
+    <value>Sie sehen hier, ob der Inhalt bereit zur Veröffentlichung ist</value>
+  </data>
+  <data name="plPublish.Text" xml:space="preserve">
+    <value>Veröffentlichen</value>
+  </data>
+  <data name="plWorkflowState.Help" xml:space="preserve">
+    <value>Zeigt den aktuellen Status des Inhalts</value>
+  </data>
+  <data name="Published.Text" xml:space="preserve">
+    <value>Veröffentlicht</value>
+  </data>
+  <data name="State.Header" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="True.Text" xml:space="preserve">
+    <value>Wahr</value>
+  </data>
+  <data name="User.Header" xml:space="preserve">
+    <value>Benutzer</value>
+  </data>
+  <data name="Version.Header" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="VersionsPreview.Text" xml:space="preserve">
+    <value>Vorschau</value>
+  </data>
+  <data name="VersionsRemove.Text" xml:space="preserve">
+    <value>Löschen</value>
+  </data>
+  <data name="VersionsRollback.Text" xml:space="preserve">
+    <value>Zurückrollen</value>
   </data>
 </root>

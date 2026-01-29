@@ -12,70 +12,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Action">
-    <value xml:space="preserve">Profileigenschaft hinzufügen</value>
+  <data name="AddContent.Action" xml:space="preserve">
+    <value>Profileigenschaft hinzufügen</value>
   </data>
-  <data name="Category.Header">
-    <value xml:space="preserve">Kategorie</value>
+  <data name="Category.Header" xml:space="preserve">
+    <value>Kategorie</value>
   </data>
-  <data name="cmdApply.Text">
-    <value xml:space="preserve">Änderungen speichern</value>
+  <data name="cmdApply.Text" xml:space="preserve">
+    <value>Änderungen speichern</value>
   </data>
-  <data name="cmdRefresh.Text">
-    <value xml:space="preserve">Raster aktualisieren</value>
+  <data name="cmdRefresh.Text" xml:space="preserve">
+    <value>Raster aktualisieren</value>
   </data>
-  <data name="ControlTitle_manageprofile.Text">
-    <value xml:space="preserve">Profileigenschaften verwalten</value>
+  <data name="ControlTitle_manageprofile.Text" xml:space="preserve">
+    <value>Profileigenschaften verwalten</value>
   </data>
-  <data name="DataType.Header">
-    <value xml:space="preserve">Datentyp</value>
+  <data name="DataType.Header" xml:space="preserve">
+    <value>Datentyp</value>
   </data>
-  <data name="DefaultValue.Header">
-    <value xml:space="preserve">Standardwert</value>
+  <data name="DefaultValue.Header" xml:space="preserve">
+    <value>Standardwert</value>
   </data>
-  <data name="DefaultVisibility.Header">
-    <value xml:space="preserve">Standardsichtbarkeit</value>
+  <data name="DefaultVisibility.Header" xml:space="preserve">
+    <value>Standardsichtbarkeit</value>
   </data>
-  <data name="Delete.Text">
-    <value xml:space="preserve">löschen</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Löschen</value>
   </data>
-  <data name="Edit.Text">
-    <value xml:space="preserve">bearbeiten</value>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
   </data>
-  <data name="Length.Header">
-    <value xml:space="preserve">Länge</value>
+  <data name="Length.Header" xml:space="preserve">
+    <value>Länge</value>
   </data>
-  <data name="MoveDown.Text">
-    <value xml:space="preserve">nach unten</value>
+  <data name="MoveDown.Text" xml:space="preserve">
+    <value>Nach unten</value>
   </data>
-  <data name="MoveUp.Text">
-    <value xml:space="preserve">nach oben</value>
+  <data name="MoveUp.Text" xml:space="preserve">
+    <value>Nach oben</value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Name</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Name</value>
   </data>
-  <data name="ProfilePropertiesHelp.Text">
-    <value xml:space="preserve">Sie können die Reihenfolge der Profilfelder ändern und ob diese sichtbar und Pflichtfelder sind. Klicken Sie auf "Änderung speichern", um die Änderungen zu persistieren. Über den Stift neben jeder Eigenschaft können Sie weitere Details ändern.</value>
+  <data name="ProfilePropertiesHelp.Text" xml:space="preserve">
+    <value>Sie können die Reihenfolge der Profilfelder ändern und ob diese sichtbar und Pflichtfelder sind. Klicken Sie auf "Änderung speichern", um die Änderungen zu persistieren. Über den Stift neben jeder Eigenschaft können Sie weitere Details ändern.</value>
   </data>
-  <data name="Required.Header">
-    <value xml:space="preserve">Pflichtfeld</value>
+  <data name="Required.Header" xml:space="preserve">
+    <value>Pflichtfeld</value>
   </data>
-  <data name="ValidationExpression.Header">
-    <value xml:space="preserve">Überprüfungsausdruck</value>
+  <data name="ValidationExpression.Header" xml:space="preserve">
+    <value>Überprüfungsausdruck</value>
   </data>
-  <data name="Visible.Header">
-    <value xml:space="preserve">sichtbar</value>
-  </data>
-  <data name="Del.Header">
-    <value />
-  </data>
-  <data name="Dn.Header">
-    <value />
-  </data>
-  <data name="Edit.Header">
-    <value />
-  </data>
-  <data name="Up.Header">
-    <value />
+  <data name="Visible.Header" xml:space="preserve">
+    <value>Sichtbar</value>
   </data>
 </root>

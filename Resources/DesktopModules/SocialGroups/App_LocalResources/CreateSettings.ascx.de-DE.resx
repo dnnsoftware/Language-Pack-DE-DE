@@ -12,19 +12,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DefaultRoleGroup.Help">
-    <value xml:space="preserve">Geben Sie die Hauptgruppe an, in der hier angelegte neue Gruppen erstellt werden sollen. Diese sollte mit der Hauptgruppe für die Gruppenliste übereinstimmen.</value>
+  <data name="DefaultRoleGroup.Help" xml:space="preserve">
+    <value>Geben Sie die Hauptgruppe an, in der hier angelegte neue Gruppen erstellt werden sollen. Diese sollte mit der Hauptgruppe für die Gruppenliste übereinstimmen.</value>
   </data>
-  <data name="GroupListPage.Help">
-    <value xml:space="preserve">Wählen Sie die Seite, auf der die Liste der Gruppen angezeigt werden soll.</value>
+  <data name="GroupListPage.Help" xml:space="preserve">
+    <value>Wählen Sie die Seite, auf der die Liste der Gruppen angezeigt werden soll.</value>
   </data>
-  <data name="GroupModeration.Help">
-    <value xml:space="preserve">Wählen Sie diese Option, um Gruppen freigeben zu können, bevor sie öffentlich sichtbar sind.</value>
+  <data name="GroupModeration.Help" xml:space="preserve">
+    <value>Wählen Sie diese Option, um Gruppen freigeben zu können, bevor sie öffentlich sichtbar sind.</value>
   </data>
-  <data name="GroupModeration.Text">
-    <value xml:space="preserve">Gruppen warten auf Freigabe</value>
+  <data name="GroupModeration.Text" xml:space="preserve">
+    <value>Gruppen warten auf Freigabe</value>
   </data>
-  <data name="GroupViewPage.Help">
-    <value xml:space="preserve">Wählen Sie die Seite, auf der Benutzer die Details einer einzelnen Gruppe sehen können.</value>
+  <data name="GroupViewPage.Help" xml:space="preserve">
+    <value>Wählen Sie die Seite, auf der Benutzer die Details einer einzelnen Gruppe sehen können.</value>
   </data>
 </root>

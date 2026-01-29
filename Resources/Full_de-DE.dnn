@@ -1,0 +1,1015 @@
+﻿<dotnetnuke type="Package" version="5.0">
+  <packages>
+    <package name="Core_de-DE" type="CoreLanguagePack" version="10.02.01">
+      <friendlyName>Core Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for Core</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[Licensed to the .NET Foundation under one or more agreements.<br />
+<br />
+The .NET Foundation licenses this file to you under the MIT license.<br />
+<br />
+See the <a href="https://github.com/dnnsoftware/Dnn.Platform/blob/develop/LICENSE" target="_blank">LICENSE file in the project root</a> for more information.<br />
+<br />]]></license>
+      <components>
+        <component type="CoreLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>Core</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>Export.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>Import.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModuleLocalization.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModulePermissions.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModuleSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ViewSource.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Portal\App_LocalResources</path>
+              <name>Privacy.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Portal\App_LocalResources</path>
+              <name>Terms.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>AccessDenied.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>PasswordReset.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>SendPassword.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Copyright.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Language.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToFullSite.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToMobileSite.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToTabletSite.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Login.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Privacy.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Search.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Tags.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Terms.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Toast.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>TreeViewMenu.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>User.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>UserAndLogin.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Tabs\App_LocalResources</path>
+              <name>Export.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Tabs\App_LocalResources</path>
+              <name>Import.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Users\App_LocalResources</path>
+              <name>ViewProfile.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>Exceptions.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>FileUpload.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>GlobalResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>List_Country.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>Prompt.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>WebControls.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>Address.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>DualListControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>filepickeruploader.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>Help.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>LocaleSelectorControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>ModuleAuditControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>SkinControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>TextEditor.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>URLControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>UrlTrackingControl.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>User.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Authentication.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Login.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Logoff.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+              <name>AuthenticationEditor.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+              <name>EditExtension.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>ResultsSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>SearchableModules.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>SearchResults.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>DataConsent.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditGroups.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditProfileDefinition.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditRoles.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditUser.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>ManageUsers.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>MemberServices.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Membership.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Password.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Profile.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>ProfileDefinitions.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Register.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Roles.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>SecurityRoles.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>User.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Users.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>UserSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>ViewProfile.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+              <name>Login.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DDRMenu\App_LocalResources</path>
+              <name>MenuSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DDRMenu\App_LocalResources</path>
+              <name>MenuView.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>Edit.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>CreateSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>Edit.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>ListSettings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Install\App_LocalResources</path>
+              <name>Installwizard.aspx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Install\App_LocalResources</path>
+              <name>UpgradeWizard.aspx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Portals\_default</path>
+              <name>Blank Website.template.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Portals\_default</path>
+              <name>Default Website.template.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Providers\FolderProviders\AzureFolderProvider\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Console_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>DotNetNuke.Console Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for DotNetNuke.Console</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>DotNetNuke.Console</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\Admin\Console\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Console\App_LocalResources</path>
+              <name>ViewConsole.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.EditBar.UI_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>Dnn.EditBar.UI Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for Dnn.EditBar.UI</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>Dnn.EditBar.UI</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddExistingModule.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddModule.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\App_LocalResources</path>
+              <name>Common.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\App_LocalResources</path>
+              <name>EditBar.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\App_LocalResources</path>
+              <name>QuickAddModule.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\Resources\ContentEditorManager\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.PersonaBar.UI_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>Dnn.PersonaBar.UI Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for Dnn.PersonaBar.UI</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>Dnn.PersonaBar.UI</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>PersonaBar.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>Tabs.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.AdminLogs\App_LocalResources</path>
+              <name>AdminLogs.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.ConfigConsole\App_LocalResources</path>
+              <name>ConfigConsole.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Connectors\App_LocalResources</path>
+              <name>Connectors.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.CssEditor\App_LocalResources</path>
+              <name>CssEditor.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Extensions\App_LocalResources</path>
+              <name>Extensions.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Licensing\App_LocalResources</path>
+              <name>Licensing.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Pages\App_LocalResources</path>
+              <name>Pages.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Prompt\App_LocalResources</path>
+              <name>Prompt.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Recyclebin\App_LocalResources</path>
+              <name>Recyclebin.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Roles\App_LocalResources</path>
+              <name>Roles.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Security\App_LocalResources</path>
+              <name>Security.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Seo\App_LocalResources</path>
+              <name>Seo.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Servers\App_LocalResources</path>
+              <name>Servers.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.SiteGroups\App_LocalResources</path>
+              <name>SiteGroups.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.SiteImportExport\App_LocalResources</path>
+              <name>SiteImportExport.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Sites\App_LocalResources</path>
+              <name>Sites.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.SiteSettings\App_LocalResources</path>
+              <name>SiteSettings.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.SqlConsole\App_LocalResources</path>
+              <name>SqlConsole.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Styles\App_LocalResources</path>
+              <name>Styles.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.TaskScheduler\App_LocalResources</path>
+              <name>TaskScheduler.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Themes\App_LocalResources</path>
+              <name>Themes.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Users\App_LocalResources</path>
+              <name>Users.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Vocabularies\App_LocalResources</path>
+              <name>Vocabularies.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.AzureConnector_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>Dnn.AzureConnector Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for Dnn.AzureConnector</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>Dnn.AzureConnector</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\Connectors\Azure\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNN_HTML_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>DNN_HTML Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for DNN_HTML</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>DNN_HTML</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>EditHtml.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>HtmlModule.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>MyWork.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>Workflow.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.HtmlEditorManager_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>DotNetNuke.HtmlEditorManager Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for DotNetNuke.HtmlEditorManager</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>DotNetNuke.HtmlEditorManager</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\Admin\HtmlEditorManager\App_LocalResources</path>
+              <name>ProviderConfiguration.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNNCorp.RazorHost_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>DNNCorp.RazorHost Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for DNNCorp.RazorHost</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>DNNCorp.RazorHost</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>AddScript.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>EditScript.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>CreateModule.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>RazorHost.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="ResourceManager_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>ResourceManager Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for ResourceManager</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>ResourceManager</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\ResourceManager\App_LocalResources</path>
+              <name>EditFolderMapping.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\ResourceManager\App_LocalResources</path>
+              <name>ResourceManager.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\ResourceManager\App_LocalResources</path>
+              <name>Settings.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\ResourceManager\App_LocalResources</path>
+              <name>View.ascx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="SiteExportImport_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>SiteExportImport Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for SiteExportImport</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>SiteExportImport</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\SiteExportImport\App_LocalResources</path>
+              <name>ExportImport.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNN.Connectors.GoogleAnalytics4_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>DNN.Connectors.GoogleAnalytics4 Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for DNN.Connectors.GoogleAnalytics4</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>DNN.Connectors.GoogleAnalytics4</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\Connectors\GoogleAnalytics4\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNN.Connectors.GoogleAnalytics_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>DNN.Connectors.GoogleAnalytics Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for DNN.Connectors.GoogleAnalytics</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>DNN.Connectors.GoogleAnalytics</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\Connectors\GoogleAnalytics\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNN.Connectors.GoogleTagManager_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>DNN.Connectors.GoogleTagManager Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for DNN.Connectors.GoogleTagManager</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>DNN.Connectors.GoogleTagManager</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>DesktopModules\Connectors\GoogleTagManager\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="AspNetClientCapabilityProvider_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>AspNetClientCapabilityProvider Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for AspNetClientCapabilityProvider</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>AspNetClientCapabilityProvider</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>Providers\ClientCapabilityProviders\AspNetClientCapabilityProvider\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.ExchangeOnlineAuthProvider_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>Dnn.ExchangeOnlineAuthProvider Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for Dnn.ExchangeOnlineAuthProvider</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>Dnn.ExchangeOnlineAuthProvider</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>Providers\SmtpOAuthProviders\ExchangeOnline\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.GoogleMailAuthProvider_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>Dnn.GoogleMailAuthProvider Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for Dnn.GoogleMailAuthProvider</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>Dnn.GoogleMailAuthProvider</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>Providers\SmtpOAuthProviders\GoogleMail\App_LocalResources</path>
+              <name>SharedResources.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNNConnect.CKEditorProvider_de-DE" type="ExtensionLanguagePack" version="10.02.01">
+      <friendlyName>DNNConnect.CKEditorProvider Deutsch (Deutschland)</friendlyName>
+      <description>German (Germany) language pack for DNNConnect.CKEditorProvider</description>
+      <owner>
+        <name>DNN Platform</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunitiy.org</email>
+      </owner>
+      <license><![CDATA[]]></license>
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>de-DE</code>
+            <displayName>Deutsch (Deutschland)</displayName>
+            <package>DNNConnect.CKEditorProvider</package>
+            <basePath>
+            </basePath>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>Browser.aspx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>EditorConfigManager.ascx.de-DE.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>Options.aspx.de-DE.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+  </packages>
+</dotnetnuke>

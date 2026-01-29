@@ -12,26 +12,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Basisfunktionen</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Basisfunktionen</value>
   </data>
-  <data name="Hide.Text">
-    <value xml:space="preserve">Einfache Ansicht</value>
+  <data name="Hide.Text" xml:space="preserve">
+    <value>Einfache Ansicht</value>
   </data>
-  <data name="IconFile.Text">
-    <value xml:space="preserve">Kleine Symbole</value>
+  <data name="IconFile.Text" xml:space="preserve">
+    <value>Kleine Symbole</value>
   </data>
-  <data name="IconFileLarge.Text">
-    <value xml:space="preserve">Große Symbole</value>
+  <data name="IconFileLarge.Text" xml:space="preserve">
+    <value>Große Symbole</value>
   </data>
-  <data name="IconNone.Text">
-    <value xml:space="preserve">Ohne Symbole</value>
+  <data name="IconNone.Text" xml:space="preserve">
+    <value>Ohne Symbole</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Bedienpult&lt;/h&gt;
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Bedienpult&lt;/h&gt;
 &lt;p&gt;Mit diesem Modul können Sie die Untereinträge der aktuellen oder einer vorgegebenen Seite mit Symbol und Name auflisten lassen. Dabei kann die Größe der Symbole und die Anzeige der Details nach Wunsch unterschiedlich erfolgen.&lt;/p&gt;</value>
   </data>
-  <data name="Show.Text">
-    <value xml:space="preserve">Detailansicht</value>
+  <data name="Show.Text" xml:space="preserve">
+    <value>Detailansicht</value>
   </data>
 </root>

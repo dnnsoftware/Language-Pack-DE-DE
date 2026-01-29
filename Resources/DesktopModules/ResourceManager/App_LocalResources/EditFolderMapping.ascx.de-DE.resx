@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle.Text" xml:space="preserve">
+    <value>{0} Ordnertyp</value>
+  </data>
+  <data name="ControlTitle_editfoldermapping.Text" xml:space="preserve">
+    <value>Ordnerzuordnung bearbeiten</value>
+  </data>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Beschreibung</value>
+  </data>
+  <data name="DuplicateMappingName.Text" xml:space="preserve">
+    <value>Eine Zuordnung mit demselben Namen existiert bereits. Die Änderungen wurden nicht gespeichert.</value>
+  </data>
+  <data name="FolderProviderLabel.Help" xml:space="preserve">
+    <value>Wählen Sie den zu verwendenden Ordneranbieter aus.</value>
+  </data>
+  <data name="FolderProviderLabel.Text" xml:space="preserve">
+    <value>Ordneranbieter</value>
+  </data>
+  <data name="FolderProviderSettings.Text" xml:space="preserve">
+    <value>Ordneranbietereinstellungen</value>
+  </data>
+  <data name="FolderProviderValidator.ErrorMessage" xml:space="preserve">
+    <value>Ein Ordneranbieter ist erforderlich.</value>
+  </data>
+  <data name="GeneralSettings.Text" xml:space="preserve">
+    <value>Allgemeine Einstellungen</value>
+  </data>
+  <data name="NameLabel.Help" xml:space="preserve">
+    <value>Geben Sie den Namen dieser Ordnerzuordnung ein.</value>
+  </data>
+  <data name="NameLabel.Text" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="NameValidator.ErrorMessage" xml:space="preserve">
+    <value>Die Angabe des Namens ist erforderlich.</value>
+  </data>
+  <data name="RequiredFields.Text" xml:space="preserve">
+    <value>Kennzeichnet Pflichtfelder.</value>
+  </data>
+  <data name="SelectFolderProvider.Text" xml:space="preserve">
+    <value>- Wählen Sie einen Ordneranbieter aus -</value>
+  </data>
+  <data name="SyncWarning.Text" xml:space="preserve">
+    <value>Nach der Aktualisierung des Ordnertyps werden die Ordner dieses Typs synchronisiert. Dies kann je nach Anzahl der Ordner, die den Kriterien entsprechen, einige Zeit dauern.</value>
+  </data>
+  <data name="Update.Text" xml:space="preserve">
+    <value>Aktualisieren</value>
+  </data>
+</root>

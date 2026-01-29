@@ -12,34 +12,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="All.Text">
-    <value xml:space="preserve">Alle</value>
+  <data name="All.Text" xml:space="preserve">
+    <value>Alle</value>
   </data>
-  <data name="Crawler_tab.Text">
-    <value xml:space="preserve">Seiten</value>
+  <data name="Crawler_tab.Text" xml:space="preserve">
+    <value>Seiten</value>
   </data>
-  <data name="Crawler_user.Text">
-    <value xml:space="preserve">Benutzer</value>
+  <data name="Crawler_user.Text" xml:space="preserve">
+    <value>Benutzer</value>
   </data>
-  <data name="Module_Answers.Text">
-    <value xml:space="preserve">Antworten</value>
+  <data name="Module_Answers.Text" xml:space="preserve">
+    <value>Antworten</value>
   </data>
-  <data name="Module_Blogs.Text">
-    <value xml:space="preserve">Blogs</value>
+  <data name="Module_Blogs.Text" xml:space="preserve">
+    <value>Blogs</value>
   </data>
-  <data name="Module_Events.Text">
-    <value xml:space="preserve">Termine</value>
+  <data name="Module_Events.Text" xml:space="preserve">
+    <value>Termine</value>
   </data>
-  <data name="Module_Ideas.Text">
-    <value xml:space="preserve">Ideen</value>
-  </data>
-  <data name="Module_Journal.Text">
-    <value xml:space="preserve">Journal</value>
-  </data>
-  <data name="Module_Text/HTML.Text">
-    <value xml:space="preserve">Seiten</value>
-  </data>
-  <data name="Module_Group Directory.Text">
+  <data name="Module_Group Directory.Text" xml:space="preserve">
     <value>Gruppenverzeichnis</value>
+  </data>
+  <data name="Module_Ideas.Text" xml:space="preserve">
+    <value>Ideen</value>
+  </data>
+  <data name="Module_Journal.Text" xml:space="preserve">
+    <value>Journal</value>
+  </data>
+  <data name="Module_Text/HTML.Text" xml:space="preserve">
+    <value>Seiten</value>
   </data>
 </root>
