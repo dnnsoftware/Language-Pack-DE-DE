@@ -7,57 +7,57 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btn_Cancel.Text">
-    <value>abbrechen</value>
+  <data name="btn_Cancel.Text" xml:space="preserve">
+    <value>Abbrechen</value>
   </data>
-  <data name="btn_Checking.Text">
-    <value>prüfe ...</value>
+  <data name="btn_Checking.Text" xml:space="preserve">
+    <value>Prüfe ...</value>
   </data>
-  <data name="btn_Connect.Text">
-    <value>verbinden</value>
+  <data name="btn_Connect.Text" xml:space="preserve">
+    <value>Verbinden</value>
   </data>
-  <data name="btn_Edit.Text">
-    <value>bearbeiten</value>
+  <data name="btn_Edit.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
   </data>
-  <data name="btn_Save.Text">
-    <value>speichern</value>
+  <data name="btn_Save.Text" xml:space="preserve">
+    <value>Speichern</value>
   </data>
-  <data name="nav_Connectors.Text">
+  <data name="ErrConnectorNotFound.Text" xml:space="preserve">
+    <value>Connector nicht gefunden.</value>
+  </data>
+  <data name="nav_Connectors.Text" xml:space="preserve">
     <value>Konnektoren</value>
   </data>
-  <data name="Save.Text">
-    <value>speichern</value>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Speichern</value>
   </data>
-  <data name="title_Connections.Text">
+  <data name="title_Connections.Text" xml:space="preserve">
     <value>Verbindungen konfigurieren</value>
   </data>
-  <data name="txt_Saved.Text">
-    <value>Der Eintrag wurde gespeichert.</value>
+  <data name="txt_AddNew.Text" xml:space="preserve">
+    <value>Hinzufügen</value>
   </data>
-  <data name="txt_Deleted.Text">
-    <value>Der Eintrag wurde erfolgreich gelöscht.</value>
-  </data>
-  <data name="txt_AddNew.Text">
-    <value>hinzufügen</value>
-  </data>
-  <data name="txt_clickToEdit.Text">
+  <data name="txt_clickToEdit.Text" xml:space="preserve">
     <value>Hier klicken, um den Connector-Namen zu bearbeiten</value>
   </data>
-  <data name="txt_SetupConnections.Text">
-    <value>Konfigurieren Sie Ihre Verbindungen, um Inhalte und mehr einfach zu teilen.</value>
+  <data name="txt_Deleted.Text" xml:space="preserve">
+    <value>Der Eintrag wurde erfolgreich gelöscht.</value>
   </data>
-  <data name="txt_DisplayNameIsNotValid.Text">
-    <value>Der Name darf nur Ziffern und Buchstaben enthalten.</value>
-  </data>
-  <data name="txt_DisplayNameIsNotUnique.Text">
+  <data name="txt_DisplayNameIsNotUnique.Text" xml:space="preserve">
     <value>Der Name muss eindeutig sein.</value>
   </data>
-  <data name="ErrConnectorNotFound.Text">
-    <value>Connector nicht gefunden.</value>
+  <data name="txt_DisplayNameIsNotValid.Text" xml:space="preserve">
+    <value>Der Name darf nur Ziffern und Buchstaben enthalten.</value>
+  </data>
+  <data name="txt_Saved.Text" xml:space="preserve">
+    <value>Der Eintrag wurde gespeichert.</value>
+  </data>
+  <data name="txt_SetupConnections.Text" xml:space="preserve">
+    <value>Konfigurieren Sie Ihre Verbindungen, um Inhalte und mehr einfach zu teilen.</value>
   </data>
 </root>

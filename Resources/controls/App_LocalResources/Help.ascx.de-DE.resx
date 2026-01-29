@@ -12,17 +12,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdHelp.Text">
-    <value xml:space="preserve">Online-Hilfe anzeigen</value>
+  <data name="cmdHelp.Text" xml:space="preserve">
+    <value>Online-Hilfe anzeigen</value>
   </data>
-  <data name="ControlTitle_help.Text">
-    <value xml:space="preserve">Modulhilfe</value>
+  <data name="ControlTitle_help.Text" xml:space="preserve">
+    <value>Modulhilfe</value>
   </data>
-  <data name="lblHelp.Text">
-    <value xml:space="preserve">Für dieses Modul ist kein Hilfetext verfügbar.</value>
+  <data name="lblHelp.Text" xml:space="preserve">
+    <value>Für dieses Modul ist kein Hilfetext verfügbar.</value>
   </data>
-  <data name="lblInfo.Text">
-    <value xml:space="preserve">&lt;h1&gt;Modul-Information&lt;/h1&gt;
+  <data name="lblInfo.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Modul-Information&lt;/h1&gt;
 &lt;p&gt;Sie sehen hier die Details der zugeordneten Modulinstanz.&lt;br/&gt;&lt;br&gt;/&gt;
 &lt;b&gt;Organisation:&lt;/b&gt; [ORGANIZATION]&lt;br /&gt;
 &lt;b&gt;Besitzer:&lt;/b&gt; [OWNER]&lt;br /&gt;

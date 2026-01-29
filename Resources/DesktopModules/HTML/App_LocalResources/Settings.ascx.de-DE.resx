@@ -12,59 +12,59 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="plApplyTo.Text">
-    <value>Workflow anwenden auf:</value>
+  <data name="chkReplace.Text" xml:space="preserve">
+    <value>Existierende Einstellungen ersetzen</value>
   </data>
-  <data name="plWorkflow.Text">
-    <value>Workflow</value>
+  <data name="cmdWorkflow.Text" xml:space="preserve">
+    <value>Workflows verwalten</value>
   </data>
-  <data name="ModuleHelp.Text">
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Einstellungen des HTML-Moduls</value>
+  </data>
+  <data name="Module.Text" xml:space="preserve">
+    <value>Modul</value>
+  </data>
+  <data name="ModuleHelp.Text" xml:space="preserve">
     <value>&lt;h1&gt;Einstellung&lt;/h&gt;
 &lt;p&gt;Sie können hier Einstellungen für das Modul vornehmen.&lt;/p&gt;</value>
   </data>
-  <data name="plReplaceTokens.Text">
-    <value>Platzhalter ersetzen:</value>
-  </data>
-  <data name="chkReplace.Text">
-    <value>Existierende Einstellungen ersetzen</value>
-  </data>
-  <data name="plReplaceTokens.Help">
-    <value>Aktivieren Sie das erweiterte Ersetzen, um Platzhalter der Form "[Objekt:Eigenschaft|Format]" für die Objekte Seite, Modul, Website oder Benutzer mit den aktuellen Werten zu ersetzen.&lt;br/&gt;Hinweis: Inline-Bearbeiten und Modul-Caching werden deaktiviert, wenn Sie Platzhalter ersetzen aktivieren.</value>
-  </data>
-  <data name="ControlTitle_settings.Text">
-    <value>Einstellungen des HTML-Moduls</value>
-  </data>
-  <data name="cmdWorkflow.Text">
-    <value>Workflows verwalten</value>
-  </data>
-  <data name="Module.Text">
-    <value>Modul</value>
-  </data>
-  <data name="plWorkflow.Help">
-    <value>Wählen Sie einen Workflow zur Veröffentlichung des Inhalts</value>
-  </data>
-  <data name="Page.Text">
+  <data name="Page.Text" xml:space="preserve">
     <value>Seite</value>
   </data>
-  <data name="plApplyTo.Help">
+  <data name="plApplyTo.Help" xml:space="preserve">
     <value>Wählen Sie das Objekt, auf das sich der Workflow bezieht.</value>
   </data>
-  <data name="plDecorate.Help">
+  <data name="plApplyTo.Text" xml:space="preserve">
+    <value>Workflow anwenden auf:</value>
+  </data>
+  <data name="plDecorate.Help" xml:space="preserve">
     <value>Geben Sie hier an, ob die Form-Elemente (Textfelder, Kontrollkästchen, Auswahllisten) wie der Rest der Website angezeigt werden sollen.</value>
   </data>
-  <data name="plDecorate.Text">
+  <data name="plDecorate.Text" xml:space="preserve">
     <value>Darstellung der Form-Elemente:</value>
   </data>
-  <data name="plSearchDescLength.Help">
+  <data name="plReplaceTokens.Help" xml:space="preserve">
+    <value>Aktivieren Sie das erweiterte Ersetzen, um Platzhalter der Form "[Objekt:Eigenschaft|Format]" für die Objekte Seite, Modul, Website oder Benutzer mit den aktuellen Werten zu ersetzen.&lt;br/&gt;Hinweis: Inline-Bearbeiten und Modul-Caching werden deaktiviert, wenn Sie Platzhalter ersetzen aktivieren.</value>
+  </data>
+  <data name="plReplaceTokens.Text" xml:space="preserve">
+    <value>Platzhalter ersetzen:</value>
+  </data>
+  <data name="plSearchDescLength.Help" xml:space="preserve">
     <value>Legen Sie hier die maximale Länge der Beschreibung fest, die in der Website-Suche verwendet werden soll.</value>
   </data>
-  <data name="plSearchDescLength.Text">
+  <data name="plSearchDescLength.Text" xml:space="preserve">
     <value>Max. Beschreibungslänge in Website-Suche:</value>
   </data>
-  <data name="valSearchDescLength.ErrorMessage">
-    <value>Sie müssen die maximale Zeichenzahl für die Beschreibung angeben.</value>
+  <data name="plWorkflow.Help" xml:space="preserve">
+    <value>Wählen Sie einen Workflow zur Veröffentlichung des Inhalts</value>
   </data>
-  <data name="Site.Text">
+  <data name="plWorkflow.Text" xml:space="preserve">
+    <value>Workflow</value>
+  </data>
+  <data name="Site.Text" xml:space="preserve">
     <value>Website</value>
+  </data>
+  <data name="valSearchDescLength.ErrorMessage" xml:space="preserve">
+    <value>Sie müssen die maximale Zeichenzahl für die Beschreibung angeben.</value>
   </data>
 </root>

@@ -1,110 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
-    Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
-    
-    Example:
-    
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-                
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
-    
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-    
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -112,10 +7,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AcceptTerms.Required" xml:space="preserve">
     <value>Akzeptieren Sie die Lizenzbedingungen, um fortzufahren.</value>
@@ -133,6 +28,9 @@ Sie wenden Aktualisierungen zuerst auf eine Kopie Ihrer Website (und Datenbank) 
 &lt;li&gt;Sie haben für alle Erweiterungen von Drittanbietern geprüft, ob diese mit der neuen Version kompatibel sind und ggf. aktualisierte Versionen installiert.&lt;/li&gt;
 &lt;li&gt;Sie haben alle Dateien und die Datenbank gesichert, so dass Sie im Fall eines Upgrade-Fehlers den Ausgangszustand wiederherstellen können.&lt;/li&gt;&lt;/ul&gt;
 </value>
+  </data>
+  <data name="CheckingSecurity.Text" xml:space="preserve">
+    <value>Überprüfung der Sicherheitsaspekte dieser Installation</value>
   </data>
   <data name="CurrentVersion.Text" xml:space="preserve">
     <value>Aktuelle Version - {0}</value>
@@ -156,11 +54,20 @@ Sie wenden Aktualisierungen zuerst auf eine Kopie Ihrer Website (und Datenbank) 
   <data name="InvalidCredentials.Text" xml:space="preserve">
     <value>Benutzername und/oder Kennwort sind nicht bekannt</value>
   </data>
+  <data name="LoadingInstallationLog.Text" xml:space="preserve">
+    <value>Installationsprotokolle werden geladen, bitte warten...</value>
+  </data>
   <data name="Next.Text" xml:space="preserve">
     <value>Jetzt aktualisieren</value>
   </data>
+  <data name="NextStep.Text" xml:space="preserve">
+    <value>Nächste</value>
+  </data>
+  <data name="NoErrorsLogged.Text" xml:space="preserve">
+    <value>Es wurden keine Upgrade-Fehler protokolliert.</value>
+  </data>
   <data name="NoInstallationLog.Text" xml:space="preserve">
-    <value>es gibt kein Aktualisierungsprotokoll.</value>
+    <value>Es gibt kein Aktualisierungsprotokoll.</value>
   </data>
   <data name="Password.Help" xml:space="preserve">
     <value>Geben Sie das Kennword des Systemverwalters ein.</value>
@@ -168,20 +75,50 @@ Sie wenden Aktualisierungen zuerst auf eine Kopie Ihrer Website (und Datenbank) 
   <data name="Password.Text" xml:space="preserve">
     <value>Kennwort:</value>
   </data>
-  <data name="ImprovementsProgramTitle.Text" xml:space="preserve">
-    <value>Produktverbesserungsprogramm</value>
-  </data>
-  <data name="ImprovementProgramExplain.Text" xml:space="preserve">
-    <value>Das Produktverbesserungsprogramm ermöglicht uns, besser zu verstehen, wie wir DNN für Sie verbessern können. Die Daten helfen uns, die Nutzung zu analysieren und was für die Nutzer des Produkts wichtig ist. Alle Daten sind anonym und nur für den internen Gebrauch bestimmt. Erfahren Sie mehr über das &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Produktverbesserungsprogramm&lt;/a&gt;.</value>
-  </data>
-  <data name="ImprovementProgramLabel.Text" xml:space="preserve">
-    <value>Senden Sie anonyme Nutzungsinformationen an DNN</value>
-  </data>
   <data name="Retry.Text" xml:space="preserve">
-    <value>erneut versuchen</value>
+    <value>Erneut versuchen</value>
+  </data>
+  <data name="Security.Text" xml:space="preserve">
+    <value>Sicherheit</value>
   </data>
   <data name="SeeLogs.Text" xml:space="preserve">
     <value>Protokoll anzeigen</value>
+  </data>
+  <data name="TelerikInstalledAndUsedInfo.Text" xml:space="preserve">
+    <value>Ihre Installation verwendet Telerik in den folgenden Assemblies:</value>
+  </data>
+  <data name="TelerikInstalledAndUsedWarning.Text" xml:space="preserve">
+    <value>Es scheint, dass Sie Erweiterungen verwenden, die von Telerik abhängen. Wir können die oben genannten Abhängigkeiten leider nicht für Sie entfernen. Dieser Aktualisierungsprozess &lt;em&gt;entfernt&lt;/em&gt; jedoch die bekannten, anfälligen Telerik-Komponenten. Bitte erstellen Sie vor dem Fortfahren mit der Aktualisierung unbedingt eine Sicherungskopie Ihrer Website. Nach Abschluss der Aktualisierung kann es vorkommen, dass Ihre Website nicht mehr funktioniert. Durch manuelles Wiederherstellen der Datei &lt;code&gt;Telerik.Web.UI.dll&lt;/code&gt; können Sie den Betrieb möglicherweise wiederherstellen, bis Sie die betroffenen Erweiterungen deinstallieren können.</value>
+  </data>
+  <data name="TelerikInstalledBulletin.Text" xml:space="preserve">
+    <value>Im August 2021 wurde ein Sicherheitsbulletin veröffentlicht, das aufgrund schwerwiegender Sicherheitslücken die sofortige Entfernung dieser Komponente empfiehlt. Weitere Informationen finden Sie im &lt;a href="https://dnncommunity.org/security" target="_blank"&gt;DNN Security Center&lt;/a&gt; .</value>
+  </data>
+  <data name="TelerikInstalledButNotUsedInfo.Text" xml:space="preserve">
+    <value>Ihre Installation scheint keine dieser Komponenten zu verwenden. Die Telerik-Komponente wird automatisch deinstalliert. Bitte erstellen Sie vor dem Upgrade eine Sicherungskopie Ihrer Website.</value>
+  </data>
+  <data name="TelerikInstalledDetected.Text" xml:space="preserve">
+    <value>Wir haben die Telerik-Komponenten erkannt. Die erkannte Telerik-Version ist:</value>
+  </data>
+  <data name="TelerikInstalledHeading.Text" xml:space="preserve">
+    <value>Telerik-Installation erkannt</value>
+  </data>
+  <data name="TelerikInvalidAntiForgeryToken.Text" xml:space="preserve">
+    <value>Ungültiges Telerik-Anti-Forgery-Token.</value>
+  </data>
+  <data name="TelerikNotInstalledHeading.Text" xml:space="preserve">
+    <value>Sicherheitsprüfung: Erfolgreich</value>
+  </data>
+  <data name="TelerikNotInstalledInfo.Text" xml:space="preserve">
+    <value>Wir haben bestätigt, dass Ihre Website die anfällige Telerik-Komponente, die zuvor mit DNN ausgeliefert wurde, nicht mehr enthält.</value>
+  </data>
+  <data name="TelerikUninstallInfo.Text" xml:space="preserve">
+    <value>Bitte beachten Sie, dass &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal/index.html" target="_blank"&gt;diese Schritte&lt;/a&gt; automatisch für Sie ausgeführt werden, wenn Sie unten „Ja“ auswählen.</value>
+  </data>
+  <data name="TelerikUninstallOptionMissing.Text" xml:space="preserve">
+    <value>Die Deinstallationsoption von Telerik fehlt.</value>
+  </data>
+  <data name="TelerikVersionNotKnownToBeVulnerableInfo.Text" xml:space="preserve">
+    <value>Ihre Installation scheint eine neuere Version der Telerik-Komponenten zu verwenden als die zuvor ausgelieferte, als unsicher bekannte Version. Eine automatische Deinstallation erfolgt nicht. Bitte überprüfen Sie dennoch die &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal/index.html" target="_blank"&gt;Deinstallationsschritte&lt;/a&gt; , um sicherzustellen, dass alle anfälligen Komponenten entfernt oder ersetzt werden. Lesen Sie außerdem &lt;a href="https://www.telerik.com/products/aspnet-ajax/documentation/security/security-information#telerik-ajax-control-specific-security-guidelines"&gt;die Sicherheitshinweise von Telerik&lt;/a&gt; &lt;a&gt;, um sicherzustellen, dass Sie eine Version ohne bekannte Sicherheitslücken verwenden und diese korrekt konfiguriert ist.&lt;/a&gt;</value>
   </data>
   <data name="TimerMinutes.Text" xml:space="preserve">
     <value>Minuten</value>
@@ -195,6 +132,9 @@ Sie wenden Aktualisierungen zuerst auf eine Kopie Ihrer Website (und Datenbank) 
   <data name="UpgradeDone.Text" xml:space="preserve">
     <value>Die Aktualisierung ist abgeschlossen</value>
   </data>
+  <data name="UpgradeStarted.Text" xml:space="preserve">
+    <value>Aktualisierung gestartet um</value>
+  </data>
   <data name="UpgradingDatabase.Text" xml:space="preserve">
     <value>Die Datenbank wird aktualisiert</value>
   </data>
@@ -207,19 +147,16 @@ Sie wenden Aktualisierungen zuerst auf eine Kopie Ihrer Website (und Datenbank) 
   <data name="Version.Text" xml:space="preserve">
     <value>Update - Version {0}</value>
   </data>
+  <data name="VersionsMatch.Text" xml:space="preserve">
+    <value>Die Version von Anwendung und Datenbank stimmen überein, daher ist keine Aktualisierung erforderlich.</value>
+  </data>
+  <data name="VersionsMatchButIncrementalExists.Text" xml:space="preserve">
+    <value>Die Version von Anwendung und Datenbank stimmen überein, sie können aber eine inkrementelle Aktualisierung durchführen.</value>
+  </data>
   <data name="ViewWebsite.Text" xml:space="preserve">
     <value>Website anzeigen</value>
   </data>
   <data name="VisitWebsite.Text" xml:space="preserve">
     <value>Website aufrufen</value>
-  </data>
-  <data name="UpgradeStarted.Text">
-    <value>Aktualisierung gestartet um</value>
-  </data>
-  <data name="VersionsMatch.Text">
-    <value>Die Version von Anwendung und Datenbank stimmen überein, daher ist keine Aktualisierung erforderlich.</value>
-  </data>
-  <data name="VersionsMatchButIncrementalExists.Text">
-    <value>Die Version von Anwendung und Datenbank stimmen überein, sie können aber eine inkrementelle Aktualisierung durchführen.</value>
   </data>
 </root>

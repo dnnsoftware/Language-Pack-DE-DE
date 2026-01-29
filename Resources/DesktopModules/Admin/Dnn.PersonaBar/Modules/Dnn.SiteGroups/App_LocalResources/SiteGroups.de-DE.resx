@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Button" xml:space="preserve">
+    <value>Hinzufügen</value>
+  </data>
+  <data name="AuthenticationDomain.Help" xml:space="preserve">
+    <value>Optional kann die Stammdomäne für den Authentifizierungs-Cookie angegeben werden, wodurch Benutzer auch zwischen Subdomänen, die dieselbe Stammdomäne verwenden, angemeldet bleiben können.</value>
+  </data>
+  <data name="AuthenticationDomain.Label" xml:space="preserve">
+    <value>Authentifizierungsdomäne:</value>
+  </data>
+  <data name="Cancel.Button" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="ChooseASite.Label" xml:space="preserve">
+    <value>Wählen Sie einen Standort</value>
+  </data>
+  <data name="Delete.Button" xml:space="preserve">
+    <value>Löschen</value>
+  </data>
+  <data name="DeleteGroup.Confirm" xml:space="preserve">
+    <value>Möchten Sie diese Website-Gruppe wirklich löschen?</value>
+  </data>
+  <data name="Description.Help" xml:space="preserve">
+    <value>Beschreiben Sie Ihre Standortgruppe</value>
+  </data>
+  <data name="Description.Label" xml:space="preserve">
+    <value>Beschreibung:</value>
+  </data>
+  <data name="Edit.Button" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
+  <data name="EditModule_Assigned.Label" xml:space="preserve">
+    <value>Zugewiesen</value>
+  </data>
+  <data name="EditModule_Unassigned.Label" xml:space="preserve">
+    <value>Nicht zugewiesen</value>
+  </data>
+  <data name="GroupName.Header" xml:space="preserve">
+    <value>Gruppenname</value>
+  </data>
+  <data name="GroupName.Help" xml:space="preserve">
+    <value>Der Name dient der Identifizierung der Gruppe.</value>
+  </data>
+  <data name="GroupName.Label" xml:space="preserve">
+    <value>Gruppenname:</value>
+  </data>
+  <data name="GroupName.Required" xml:space="preserve">
+    <value>Ein Gruppenname ist erforderlich.</value>
+  </data>
+  <data name="MasterSite.Header" xml:space="preserve">
+    <value>Hauptseite</value>
+  </data>
+  <data name="MasterSite.Help" xml:space="preserve">
+    <value>Hauptseite für diese Gruppe</value>
+  </data>
+  <data name="MasterSite.Label" xml:space="preserve">
+    <value>Hauptseite:</value>
+  </data>
+  <data name="nav_SiteGroups.Text" xml:space="preserve">
+    <value>Website-Gruppen</value>
+  </data>
+  <data name="NewSiteGroup.Button" xml:space="preserve">
+    <value>Neue Standortgruppe</value>
+  </data>
+  <data name="NoData.Text" xml:space="preserve">
+    <value>Es sind noch keine Site-Gruppen definiert.</value>
+  </data>
+  <data name="Save.Button" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="SiteGroup.Label" xml:space="preserve">
+    <value>Standortgruppe:</value>
+  </data>
+  <data name="Sites.Label" xml:space="preserve">
+    <value>Websites:</value>
+  </data>
+</root>

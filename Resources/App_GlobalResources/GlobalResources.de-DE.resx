@@ -12,245 +12,68 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="//AboutUs.String">
-    <value xml:space="preserve">Über uns</value>
+  <data name="//AboutUs.String" xml:space="preserve">
+    <value>Über uns</value>
   </data>
-  <data name="//AboutUs//StyleGuide.String">
-    <value xml:space="preserve">Style-Guide</value>
+  <data name="//AboutUs//StyleGuide.String" xml:space="preserve">
+    <value>Style-Guide</value>
   </data>
-  <data name="//ActivityFeed.String">
-    <value xml:space="preserve">Aktivitäten</value>
+  <data name="//ActivityFeed.String" xml:space="preserve">
+    <value>Aktivitäten</value>
   </data>
-  <data name="//ActivityFeed//Friends.String">
-    <value xml:space="preserve">Freunde</value>
+  <data name="//ActivityFeed//Friends.String" xml:space="preserve">
+    <value>Freunde</value>
   </data>
-  <data name="//ActivityFeed//Messages.String">
-    <value xml:space="preserve">Nachrichten</value>
+  <data name="//ActivityFeed//Messages.String" xml:space="preserve">
+    <value>Nachrichten</value>
   </data>
-  <data name="//ActivityFeed//MyProfile.String">
-    <value xml:space="preserve">Eigenes Profil</value>
+  <data name="//ActivityFeed//MyProfile.String" xml:space="preserve">
+    <value>Eigenes Profil</value>
   </data>
-  <data name="//Admin.String">
-    <value xml:space="preserve">Administrator</value>
+  <data name="//Admin.String" xml:space="preserve">
+    <value>Administrator</value>
   </data>
-  <data name="//Admin//AdvancedSettings.String">
-    <value xml:space="preserve">Erweiterte Konfiguration</value>
+  <data name="//Admin//FileManagement.String" xml:space="preserve">
+    <value>Dateien verwalten</value>
   </data>
-  <data name="//Admin//AdvancedURLManagement.String">
-    <value xml:space="preserve">Erweiterte URL-Verwaltung</value>
+  <data name="//ContactUs.String" xml:space="preserve">
+    <value>Kontakt</value>
   </data>
-  <data name="//Admin//ContentStaging.String">
-    <value xml:space="preserve">Content-Staging</value>
+  <data name="//Home.String" xml:space="preserve">
+    <value>Start</value>
   </data>
-  <data name="//Admin//DevicePreviewManagement.String">
-    <value xml:space="preserve">Mobilvorschau einstellen</value>
+  <data name="//Host.String" xml:space="preserve">
+    <value>System</value>
   </data>
-  <data name="//Admin//Extensions.String">
-    <value xml:space="preserve">Erweiterungen</value>
+  <data name="//Host//FileManagement.String" xml:space="preserve">
+    <value>Dateien verwalten</value>
   </data>
-  <data name="//Admin//FileManagement.String">
-    <value xml:space="preserve">Dateien verwalten</value>
+  <data name="//Host//HTMLEditorManager.String" xml:space="preserve">
+    <value>HTML-Editor konfigurieren</value>
   </data>
-  <data name="//Admin//FileManager.String">
-    <value xml:space="preserve">Dateimanager</value>
+  <data name="//Modules.Text" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="//Admin//GoogleAnalytics.String">
-    <value xml:space="preserve">Google-Analytics</value>
+  <data name="//NewsPromotions.String" xml:space="preserve">
+    <value>Aktuelles &amp; Presse</value>
   </data>
-  <data name="//Admin//GoogleAnalyticsPro.String">
-    <value xml:space="preserve">Google-Analytics Pro</value>
+  <data name="//OurProducts.String" xml:space="preserve">
+    <value>Produkte</value>
   </data>
-  <data name="//Admin//Languages.String">
-    <value xml:space="preserve">Sprache</value>
+  <data name="//Pages.Text" xml:space="preserve">
+    <value>Seiten</value>
   </data>
-  <data name="//Admin//Lists.String">
-    <value xml:space="preserve">Listen</value>
+  <data name="//SearchResults.String" xml:space="preserve">
+    <value>Suchergebnisse</value>
   </data>
-  <data name="//Admin//LogViewer.String">
-    <value xml:space="preserve">Ereignisprotokoll</value>
+  <data name="//Tools.Text" xml:space="preserve">
+    <value>Werkzeuge</value>
   </data>
-  <data name="//Admin//Newsletters.String">
-    <value xml:space="preserve">Serien-E-Mails</value>
+  <data name="//UserProfile.String" xml:space="preserve">
+    <value>Benutzerprofil</value>
   </data>
-  <data name="//Admin//Pages.String">
-    <value xml:space="preserve">Seitenverwaltung</value>
-  </data>
-  <data name="//Admin//RecycleBin.String">
-    <value xml:space="preserve">Papierkorb</value>
-  </data>
-  <data name="//Admin//SearchAdmin.String">
-    <value xml:space="preserve">Sucheinstellungen</value>
-  </data>
-  <data name="//Admin//SearchEngineSiteMap.String">
-    <value xml:space="preserve">Sitemap für Suchmaschinen</value>
-  </data>
-  <data name="//Admin//SecurityRoles.String">
-    <value xml:space="preserve">Benutzergruppen</value>
-  </data>
-  <data name="//Admin//SharePointConnector.String">
-    <value xml:space="preserve">SharePoint-Integration</value>
-  </data>
-  <data name="//Admin//SiteRedirectionManagement.String">
-    <value xml:space="preserve">Website-Weiterleitungen verwalten</value>
-  </data>
-  <data name="//Admin//SiteSettings.String">
-    <value xml:space="preserve">Website-Einstellungen</value>
-  </data>
-  <data name="//Admin//SiteWizard.String">
-    <value xml:space="preserve">Website-Assistent</value>
-  </data>
-  <data name="//Admin//Skins.String">
-    <value xml:space="preserve">Seitenlayouts</value>
-  </data>
-  <data name="//Admin//Tabs.String">
-    <value xml:space="preserve">Seiten</value>
-  </data>
-  <data name="//Admin//Taxonomy.String">
-    <value xml:space="preserve">Taxonomie</value>
-  </data>
-  <data name="//Admin//UserAccounts.String">
-    <value xml:space="preserve">Benutzerkonten</value>
-  </data>
-  <data name="//Admin//UserSwitcher.String">
-    <value xml:space="preserve">Benutzerwechsel</value>
-  </data>
-  <data name="//Admin//Vendors.String">
-    <value xml:space="preserve">Bannerwerbung</value>
-  </data>
-  <data name="//ContactUs.String">
-    <value xml:space="preserve">Kontakt</value>
-  </data>
-  <data name="//Home.String">
-    <value xml:space="preserve">Start</value>
-  </data>
-  <data name="//Host.String">
-    <value xml:space="preserve">System</value>
-  </data>
-  <data name="//Host//ConfigurationManager.String">
-    <value xml:space="preserve">Konfigurationen bearbeiten</value>
-  </data>
-  <data name="//Host//Dashboard.String">
-    <value xml:space="preserve">Systeminfo</value>
-  </data>
-  <data name="//Host//DeviceDetectionManagement.String">
-    <value xml:space="preserve">Mobilgeräte-Erkennung</value>
-  </data>
-  <data name="//Host//Extensions.String">
-    <value xml:space="preserve">Erweiterungen</value>
-  </data>
-  <data name="//Host//FileManagement.String">
-    <value xml:space="preserve">Dateien verwalten</value>
-  </data>
-  <data name="//Host//HostSettings.String">
-    <value xml:space="preserve">Systemeinstellungen</value>
-  </data>
-  <data name="//Host//HTMLEditorManager.String">
-    <value xml:space="preserve">HTML-Editor konfigurieren</value>
-  </data>
-  <data name="//Host//Languages.String">
-    <value xml:space="preserve">Sprache</value>
-  </data>
-  <data name="//Host//Lists.String">
-    <value xml:space="preserve">Listen</value>
-  </data>
-  <data name="//Host//ModuleDefinitions.String">
-    <value xml:space="preserve">Installierte Module</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures.String">
-    <value xml:space="preserve">evoq Funktionen</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String">
-    <value xml:space="preserve">Lizenz aktivieren</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String">
-    <value xml:space="preserve">Erweiterte URL-Verwaltung</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ApplicationIntegrity.String">
-    <value xml:space="preserve">Anwendungsintegrität</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//HealthMonitoring.String">
-    <value xml:space="preserve">Stabilitätsüberwachung</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//KnowledgeBase.String">
-    <value xml:space="preserve">Fehlerdatenbank</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//LicenseManagement.String">
-    <value xml:space="preserve">Lizenzverwaltung</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ManageWebServers.String">
-    <value xml:space="preserve">Webserver verwalten</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//MySupportTickets.String">
-    <value xml:space="preserve">Eigene Service-Anfragen</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SearchCrawlerAdmin.String">
-    <value xml:space="preserve">Suchindizierung verwalten</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SecurityCenter.String">
-    <value xml:space="preserve">Sicherheitszentrum</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SharePointConnector.String">
-    <value xml:space="preserve">SharePoint-Integration</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SiteGroups.String">
-    <value xml:space="preserve">Website-Gruppen</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SoftwareandDocumentation.String">
-    <value xml:space="preserve">Software und Dokumentation</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SpecialOffers.String">
-    <value xml:space="preserve">Sonderangebote</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//TechnicalSupport.String">
-    <value xml:space="preserve">Kundendienst</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//UserSwitcher.String">
-    <value xml:space="preserve">Benutzerwechsel</value>
-  </data>
-  <data name="//Host//Schedule.String">
-    <value xml:space="preserve">Zeitplandienst</value>
-  </data>
-  <data name="//Host//SearchAdmin.String">
-    <value xml:space="preserve">Sucheinstellungen</value>
-  </data>
-  <data name="//Host//SiteManagement.String">
-    <value xml:space="preserve">Websites verwalten</value>
-  </data>
-  <data name="//Host//Skins.String">
-    <value xml:space="preserve">Seitenlayouts</value>
-  </data>
-  <data name="//Host//SQL.String">
-    <value xml:space="preserve">SQL ausführen</value>
-  </data>
-  <data name="//Host//SuperuserAccounts.String">
-    <value xml:space="preserve">Systemverwalter</value>
-  </data>
-  <data name="//Host//Vendors.String">
-    <value xml:space="preserve">Bannerwerbung</value>
-  </data>
-  <data name="//Modules.Text">
-    <value xml:space="preserve">Module</value>
-  </data>
-  <data name="//NewsPromotions.String">
-    <value xml:space="preserve">Aktuelles &amp; Presse</value>
-  </data>
-  <data name="//OurProducts.String">
-    <value xml:space="preserve">Produkte</value>
-  </data>
-  <data name="//Pages.Text">
-    <value xml:space="preserve">Seiten</value>
-  </data>
-  <data name="//SearchResults.String">
-    <value xml:space="preserve">Suchergebnisse</value>
-  </data>
-  <data name="//Tools.Text">
-    <value xml:space="preserve">Werkzeuge</value>
-  </data>
-  <data name="//UserProfile.String">
-    <value xml:space="preserve">Benutzerprofil</value>
-  </data>
-  <data name="403_3.Error">
-    <value xml:space="preserve">&lt;div style="height: 100%; width: 90%;"&gt;
+  <data name="403_3.Error" xml:space="preserve">
+    <value>&lt;div style="height: 100%; width: 90%;"&gt;
         &lt;h3&gt;Konfigurationsfehler&lt;/h3&gt;
         &lt;p&gt;{0}&lt;/p&gt;
         &lt;p&gt;Ihre Installation scheint ein Problem mit den Sicherheitseinstellungen (vermutlich fehlen Berechtigungen). Diese Anwendung verfügt über erweiterte Funktionen zum Hochladen von Dateien und Installation von Modulen, Layouts und anderen Erweiterungen. Diese Features erfordern spezielle Sicherheitseinstellungen, so dass die Anwendung innerhalb des Website-Verzeichnisses Dateien und Ordner erstellen, ändern und löschen kann..&lt;/p&gt;
@@ -265,8 +88,8 @@
         &lt;p&gt;&lt;img alt="Sicherheitseinstellungen für den Installationsordner" src="images/403-3.gif"&gt;&lt;/p&gt;
   &lt;/div&gt;</value>
   </data>
-  <data name="404.Error">
-    <value xml:space="preserve">&lt;div style="height: 100%; width: 90%;"&gt;
+  <data name="404.Error" xml:space="preserve">
+    <value>&lt;div style="height: 100%; width: 90%;"&gt;
         &lt;p style="color:red; font-weight:bold;"&gt;Der Domänenname {0} ist in der Datenbank nicht registriert.&lt;/p&gt;
 &lt;p&gt;DotNetNuke unterstützt die gemeinsame Nutzung einer Datenbank und Installation durch mehrere Websites.Hierzu muss die vom Browser angeforderte URL der entsprechenden Website zugeordnet werden. Die folgenden Schritte beschreiben diesen Prozess:&lt;/p&gt;
     &lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&gt;
@@ -302,92 +125,155 @@
     &lt;/ol&gt;
 &lt;/div&gt;</value>
   </data>
-  <data name="500.Error">
-    <value xml:space="preserve">{0}</value>
+  <data name="500.Error" xml:space="preserve">
+    <value>{0}</value>
   </data>
-  <data name="ActivatingLicense.Text">
-    <value xml:space="preserve">Lizenz aktivieren</value>
+  <data name="503.Error" xml:space="preserve">
+    <value>{0} - 503 Dienst nicht verfügbar</value>
   </data>
-  <data name="AddFollowerRequestBody.Text">
-    <value xml:space="preserve">{0} folgt Ihnen nun</value>
+  <data name="AddFollowerRequestBody.Text" xml:space="preserve">
+    <value>{0} folgt Ihnen nun</value>
   </data>
-  <data name="AddFollowerRequestSubject.Text">
-    <value xml:space="preserve">{0 folgt Ihnen</value>
+  <data name="AddFollowerRequestSubject.Text" xml:space="preserve">
+    <value>{0 folgt Ihnen</value>
   </data>
-  <data name="AddFriendRequestBody.Text">
-    <value xml:space="preserve">{0} möchte mit Ihnen befreundet sein</value>
+  <data name="AddFriendRequestBody.Text" xml:space="preserve">
+    <value>{0} möchte mit Ihnen befreundet sein</value>
   </data>
-  <data name="AddFriendRequestSubject.Text">
-    <value xml:space="preserve">{0} möchten mit Ihnen befreundet sein</value>
+  <data name="AddFriendRequestSubject.Text" xml:space="preserve">
+    <value>{0} möchten mit Ihnen befreundet sein</value>
   </data>
-  <data name="ApplicationUpgrades.Text">
-    <value xml:space="preserve">Aktualisierung der Anwendung</value>
+  <data name="Administrators.Role" xml:space="preserve">
+    <value>Administratoren</value>
   </data>
-  <data name="AspNetHostingPermission.Text">
-    <value xml:space="preserve">Diese Erweiterung erfordert Full Trust für die IIS Website.</value>
+  <data name="Administrators.RoleDescription" xml:space="preserve">
+    <value>Administratoren können auf alle Inhalte dieser Website zugreifen und diese ändern sowie alle Website-Einstellungen verwalten. Sie können den Benutzerzugriff auf die Website und andere Administratoren verwalten. Diese Benutzergruppe kann jedoch keine Systemänderungen vornehmen oder die erweiterten Verwaltungsaufgaben von Superusern ausführen.</value>
   </data>
-  <data name="Authentication.String">
-    <value xml:space="preserve">Authentifizierung</value>
+  <data name="All Users.Role" xml:space="preserve">
+    <value>Alle</value>
   </data>
-  <data name="BannerType.Banner.String">
-    <value xml:space="preserve">Banner</value>
+  <data name="All Users.RoleDescription" xml:space="preserve">
+    <value>Dies ist eine plattformverwaltete Rolle (d. h. Sie können dieser Rolle keine Benutzer hinzufügen oder daraus entfernen). Diese Rolle repräsentiert JEDEN Besucher der Website, unabhängig von seinem Anmelde-/Kontostatus.</value>
   </data>
-  <data name="BannerType.Block.String">
-    <value xml:space="preserve">Block</value>
+  <data name="ApplicationUpgrades.Text" xml:space="preserve">
+    <value>Aktualisierung der Anwendung</value>
   </data>
-  <data name="BannerType.Button.String">
-    <value xml:space="preserve">Schaltfläche</value>
+  <data name="AspNetHostingPermission.Text" xml:space="preserve">
+    <value>Diese Erweiterung erfordert Full Trust für die IIS Website.</value>
   </data>
-  <data name="BannerType.MicroButton.String">
-    <value xml:space="preserve">MicroButton</value>
+  <data name="Authentication.String" xml:space="preserve">
+    <value>Authentifizierung</value>
   </data>
-  <data name="BannerType.Script.String">
-    <value xml:space="preserve">Skript</value>
+  <data name="BannerType.Banner.String" xml:space="preserve">
+    <value>Banner</value>
   </data>
-  <data name="BannerType.Skyscraper.String">
-    <value xml:space="preserve">Skyscraper</value>
+  <data name="BannerType.Block.String" xml:space="preserve">
+    <value>Block</value>
   </data>
-  <data name="BannerType.Text.String">
-    <value xml:space="preserve">Text</value>
+  <data name="BannerType.Button.String" xml:space="preserve">
+    <value>Schaltfläche</value>
   </data>
-  <data name="Browse Folder.Permission">
-    <value xml:space="preserve">Dateien in Ordner suchen</value>
+  <data name="BannerType.MicroButton.String" xml:space="preserve">
+    <value>MicroButton</value>
   </data>
-  <data name="Can Deploy.Permission">
-    <value xml:space="preserve">Modul bereitstellen</value>
+  <data name="BannerType.Script.String" xml:space="preserve">
+    <value>Skript</value>
   </data>
-  <data name="ClearCache.Action">
-    <value xml:space="preserve">aktualisieren</value>
+  <data name="BannerType.Skyscraper.String" xml:space="preserve">
+    <value>Skyscraper</value>
   </data>
-  <data name="CustomUrlPathCleaned.Error">
-    <value xml:space="preserve">Die eingegebene Seiten-URL enthält Sonderzeichen, die in URLs nicht verwendet werden können und daher entfernt wurden. Klicken Sie erneut auf "aktualisieren", um die geänderte URL zu akzeptieren. &lt;br&gt;[Hinweis: Folgende Zeichen sind nicht erlaubt: &lt;&gt;\?:&amp;=+|%# ]</value>
+  <data name="BannerType.Text.String" xml:space="preserve">
+    <value>Text</value>
   </data>
-  <data name="DeleteModule.Action">
-    <value xml:space="preserve">löschen</value>
+  <data name="Browse Folder.Permission" xml:space="preserve">
+    <value>Dateien in Ordner suchen</value>
   </data>
-  <data name="DeLocalize.Action">
-    <value xml:space="preserve">de-lokalisieren</value>
+  <data name="Can Deploy.Permission" xml:space="preserve">
+    <value>Modul bereitstellen</value>
   </data>
-  <data name="DraggingHintText.Text">
-    <value xml:space="preserve">Bewegen Sie die Maus über den Zielbereich.</value>
+  <data name="cc_dismiss.Text" xml:space="preserve">
+    <value>Verstanden!</value>
   </data>
-  <data name="DragModuleHint.Text">
-    <value xml:space="preserve">Verschieben Sie dieses Modul an eine neue Position.</value>
+  <data name="cc_link.Text" xml:space="preserve">
+    <value>Mehr erfahren</value>
   </data>
-  <data name="DropModuleHint.Text">
-    <value xml:space="preserve">Heben Sie die linke Maustaste, um das Modul hier zu platzieren.</value>
+  <data name="cc_message.Text" xml:space="preserve">
+    <value>Diese Website verwendet Cookies, um Ihnen die bestmögliche Nutzung unserer Website zu gewährleisten.</value>
   </data>
-  <data name="DropModuleTarget.Text">
-    <value xml:space="preserve">Modul hier einfügen</value>
+  <data name="ClearCache.Action" xml:space="preserve">
+    <value>Aktualisieren</value>
   </data>
-  <data name="Edit Tab.Permission">
-    <value xml:space="preserve">Seite bearbeiten</value>
+  <data name="CompleteStateBody.Text" xml:space="preserve">
+    <value>Seite '{0}' befindet sich im Status '{1}' und wartet auf Überprüfung und Genehmigung.</value>
   </data>
-  <data name="Edit.Permission">
-    <value xml:space="preserve">Modul bearbeiten</value>
+  <data name="CompleteStateSubject.Text" xml:space="preserve">
+    <value>Seitenfreigabe</value>
   </data>
-  <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [Custom:0],
+  <data name="CompleteWorkflowBody.Text" xml:space="preserve">
+    <value>Seite '{0}' wurde veröffentlicht und ist jetzt online.</value>
+  </data>
+  <data name="CompleteWorkflowSubject.Text" xml:space="preserve">
+    <value>Seite veröffentlicht</value>
+  </data>
+  <data name="Content Editors.Role" xml:space="preserve">
+    <value>Inhaltsredakteure</value>
+  </data>
+  <data name="Content Editors.RoleDescription" xml:space="preserve">
+    <value>Inhaltsbearbeiter dürfen Inhalte auf dieser Website hinzufügen und ändern. Der genaue Funktionsumfang hängt von den auf dieser Website verwendeten Modulen ab.</value>
+  </data>
+  <data name="Content Managers.Role" xml:space="preserve">
+    <value>Content-Manager</value>
+  </data>
+  <data name="Content Managers.RoleDescription" xml:space="preserve">
+    <value>Content-Manager können festlegen, was auf der Website angezeigt wird. Sie können die von Redakteuren beigetragenen Inhalte bearbeiten und entscheiden, ob diese veröffentlicht werden oder nicht. Der genaue Funktionsumfang hängt von den auf dieser Website verwendeten Modulen ab.</value>
+  </data>
+  <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
+    <value>Die eingegebene Seiten-URL enthält Sonderzeichen, die in URLs nicht verwendet werden können und daher entfernt wurden. Klicken Sie erneut auf "aktualisieren", um die geänderte URL zu akzeptieren. &lt;br&gt;[Hinweis: Folgende Zeichen sind nicht erlaubt: &lt;&gt;\?:&amp;=+|%# ]</value>
+  </data>
+  <data name="DefaultStopwordGroup.Text" xml:space="preserve">
+    <value>Und,sind,aber,über,für,in,nicht,wie,dass,das,der,die,wir,ihr,sie,ihnen,ihren,seine,ihre,dort,dies,hier,war,was,wer,mit,durch</value>
+  </data>
+  <data name="DefaultSynonymGroup.Text" xml:space="preserve">
+    <value>Dnn,dotnetnuke</value>
+  </data>
+  <data name="DeleteModule.Action" xml:space="preserve">
+    <value>Löschen</value>
+  </data>
+  <data name="DeLocalize.Action" xml:space="preserve">
+    <value>Delokalisieren</value>
+  </data>
+  <data name="DiscardStateBody.Text" xml:space="preserve">
+    <value>Die Änderungen an Seite '{0}' wurden abgelehnt, und sie befindet sich nun im Status '{1}'.</value>
+  </data>
+  <data name="DiscardStateSubject.Text" xml:space="preserve">
+    <value>Seite abgelehnt</value>
+  </data>
+  <data name="DiscardWorkflowBody.Text" xml:space="preserve">
+    <value>Die Änderungen für Seite '{0}' wurden verworfen.</value>
+  </data>
+  <data name="DiscardWorkflowSubject.Text" xml:space="preserve">
+    <value>Seite verworfen</value>
+  </data>
+  <data name="DraggingHintText.Text" xml:space="preserve">
+    <value>Bewegen Sie die Maus über den Zielbereich.</value>
+  </data>
+  <data name="DragModuleHint.Text" xml:space="preserve">
+    <value>Verschieben Sie dieses Modul an eine neue Position.</value>
+  </data>
+  <data name="DropModuleHint.Text" xml:space="preserve">
+    <value>Heben Sie die linke Maustaste, um das Modul hier zu platzieren.</value>
+  </data>
+  <data name="DropModuleTarget.Text" xml:space="preserve">
+    <value>Modul hier einfügen</value>
+  </data>
+  <data name="Edit Tab.Permission" xml:space="preserve">
+    <value>Seite bearbeiten</value>
+  </data>
+  <data name="Edit.Permission" xml:space="preserve">
+    <value>Modul bearbeiten</value>
+  </data>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [Custom:0],
 
 Wir haben Ihr Partnerkonto für das Werbeprogramm unserer Website [Portal:PortalName] eingerichtet. 
 
@@ -398,11 +284,11 @@ Damit Sie von der Partnerschaft profitieren, verwenden Sie bitte die folgende UR
 Vielen Dank, 
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Werbepartner-Benachrichtigung</value>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Werbepartner-Benachrichtigung</value>
   </data>
-  <data name="EMAIL_BANNER_NOTIFICATION_BODY.Text">
-    <value xml:space="preserve">Banner: [Custom:0]
+  <data name="EMAIL_BANNER_NOTIFICATION_BODY.Text" xml:space="preserve">
+    <value>Banner: [Custom:0]
 Beschreibung: [Custom:1]
 Bild: [Custom:2]
 Preis/CPM: [Custom:3]
@@ -412,18 +298,18 @@ Enddatum: [Custom:6]
 Anzeigen: [Custom:7]
 Klicks: [Custom:8]</value>
   </data>
-  <data name="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text">
-    <value xml:space="preserve">[Custom:0]</value>
+  <data name="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text" xml:space="preserve">
+    <value>[Custom:0]</value>
   </data>
-  <data name="EMAIL_BODY_FORMAT.Text">
-    <value xml:space="preserve">Betreff: {0}
+  <data name="EMAIL_BODY_FORMAT.Text" xml:space="preserve">
+    <value>Betreff: {0}
     
 {1}
 
 Diese Nachricht wurde automatisch erstellt, bitte antworten Sie nicht.</value>
   </data>
-  <data name="EMAIL_BulkMailConf_Html_Body.Text">
-    <value xml:space="preserve">&lt;h1&gt;Sendebericht für Serien-E-Mail&lt;/h1&gt;
+  <data name="EMAIL_BulkMailConf_Html_Body.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Sendebericht für Serien-E-Mail&lt;/h1&gt;
     Versand gestartet um: [Custom:0]&lt;br /&gt;
     E-Mail-Empfänger: [Custom:1]&lt;br /&gt;
     E-Mail-Nachrichten: [Custom:2]&lt;br /&gt;
@@ -434,11 +320,11 @@ Diese Nachricht wurde automatisch erstellt, bitte antworten Sie nicht.</value>
            &lt;pre&gt;[Custom:5]&lt;/pre&gt;
     [Custom:6|&lt;hr /&gt;&lt;strong&gt;Empfänger:&lt;/strong&gt;&lt;br /&gt;{0}]</value>
   </data>
-  <data name="EMAIL_BulkMailConf_Subject.Text">
-    <value xml:space="preserve">Sendebericht für Serien-E-Mail '{0}'.</value>
+  <data name="EMAIL_BulkMailConf_Subject.Text" xml:space="preserve">
+    <value>Sendebericht für Serien-E-Mail '{0}'.</value>
   </data>
-  <data name="EMAIL_BulkMailConf_Text_Body.Text">
-    <value xml:space="preserve">Senden gestartet um:  [Custom:0]
+  <data name="EMAIL_BulkMailConf_Text_Body.Text" xml:space="preserve">
+    <value>Senden gestartet um:  [Custom:0]
 Zahl der Empfänger:   [Custom:1]
 Anzahl der E-Mails:   [Custom:2]
 Senden abgeschlossen: [Custom:3]
@@ -452,14 +338,14 @@ Senden abgeschlossen: [Custom:3]
 {0}]
     </value>
   </data>
-  <data name="EMAIL_BulkMailStart_Body.Text">
-    <value xml:space="preserve">Benutzer {1} hat die Serien-E-Mail '{0}' an {2} Empfänger verschickt. Bitte prüfen Sie den Sendebericht auf fehlgeschlagene Übermittlungen und den Posteingang des Absenders auf Antworten.</value>
+  <data name="EMAIL_BulkMailStart_Body.Text" xml:space="preserve">
+    <value>Benutzer {1} hat die Serien-E-Mail '{0}' an {2} Empfänger verschickt. Bitte prüfen Sie den Sendebericht auf fehlgeschlagene Übermittlungen und den Posteingang des Absenders auf Antworten.</value>
   </data>
-  <data name="EMAIL_BulkMailStart_Subject.Text">
-    <value xml:space="preserve">Serien-E-Mail '{0}' verschickt.</value>
+  <data name="EMAIL_BulkMailStart_Subject.Text" xml:space="preserve">
+    <value>Serien-E-Mail '{0}' verschickt.</value>
   </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text">
-    <value xml:space="preserve">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve">
+    <value>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
 &lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
 &lt;head&gt;
     &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
@@ -636,8 +522,8 @@ Senden abgeschlossen: [Custom:3]
 &lt;/body&gt;
 &lt;/html&gt;</value>
   </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text">
-    <value xml:space="preserve">&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
+  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve">
+    <value>&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
     &lt;tr&gt;
         &lt;td&gt;
             &lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
@@ -654,8 +540,8 @@ Senden abgeschlossen: [Custom:3]
     &lt;/tr&gt;
 &lt;/table&gt;&lt;/div&gt; </value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:Displayname],
+  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname],
 
 Sie haben einen Link zum Zurücksetzen Ihres Kennwort für unsere Website [Portal:PortalName] angefordert. 
 
@@ -671,11 +557,40 @@ Ihr Team von [Portal:PortalName]
 
 *Hinweis: Falls Sie keine Änderung Ihres Kennworts angefordert haben, ignorieren Sie bitte diese Nachricht.</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Kennwortänderung</value>
+  <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Kennwortänderung</value>
   </data>
-  <data name="EMAIL_PASSWORD_UPDATED_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:DisplayName],
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_BODY.Text" xml:space="preserve">
+    <value>
+Der folgende Benutzer hat bei [Portal:PortalName] ein Token zum Zurücksetzen des Passworts angefordert, die Genehmigung des Benutzerkontos steht jedoch noch aus. 
+
+Benutzername: [User:UserName] 
+Anzeigename: [User:DisplayName] 
+
+Nach Überprüfung des Benutzers und falls das Konto autorisiert ist, wird dem Benutzer erneut eine E-Mail zum Zurücksetzen des Passworts zugesendet.    </value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Passwort-Erinnerung für nicht genehmigten Benutzer [User:Username] angefordert</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:DisplayName],
+
+Sie haben den Token zum Zurücksetzen des Kennworts von[Portal:PortalName] angefordert, aber Ihr Konto wurde noch nicht bestätigt.
+
+Das Kennwort kann erst dann zurückgesetzt werden, wenn Ihr Konto bestätigt ist..
+
+
+Mit freundlichen Grüßen,
+Ihr Team von [Portal:PortalName]
+
+*Hinweis: wenn Sie den Token zum Zurücksetzen des Kennworts nicht angefordert haben, können Sie diese Nachricht ignorieren..
+    </value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
+    <value>Kennwort-Erinnerung für [Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:DisplayName],
 
 Ihr Kennwort für die Website [Portal:PortalName] wurde geändert.
 
@@ -684,11 +599,11 @@ Bitte wenden Sie sich an den Website-Verwalter unter [Portal:Email].
 Mit freundlichen Grüßen,
 Ihr Team von [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text">
-    <value xml:space="preserve">Kennwort für Website [Portal:PortalName] aktualisiert</value>
+  <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text" xml:space="preserve">
+    <value>Kennwort für Website [Portal:PortalName] aktualisiert</value>
   </data>
-  <data name="EMAIL_PORTAL_SIGNUP_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:Displayname],
+  <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname],
 
 Ihre Website wurde erfolgreich erstellt. Bitte lesen Sie die folgende Information aufmerksam durch und speichern Sie diese Nachricht an einem an einem sicheren Ort, damit Sie zukünftig bei Bedarf darauf zurückgreifen können.
 
@@ -703,22 +618,22 @@ Vielen Dank, wir freuen uns auf die Zusammenarbeit.
 
 [Host:HostTitle]</value>
   </data>
-  <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text">
-    <value xml:space="preserve">Website [Host:HostTitle] erstellen</value>
+  <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text" xml:space="preserve">
+    <value>Website [Host:HostTitle] erstellen</value>
   </data>
-  <data name="EMAIL_PROFILE_UPDATED_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:Displayname],
+  <data name="EMAIL_PROFILE_UPDATED_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname],
 
 Ihr Benutzerprofil auf unserer Website [Portal:PortalName] wurde erfolgreich aktualisiert.
 
 Mit freundlichen Grüßen,
 Ihr Team von [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_PROFILE_UPDATED_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzerprofil aktualisiert</value>
+  <data name="EMAIL_PROFILE_UPDATED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzerprofil aktualisiert</value>
   </data>
-  <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:Displayname],
+  <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname],
 
 Ihr Benutzerkonto für unsere Website [Portal:PortalName] wurde aktualisiert und um folgende Benutzergruppen erweitert: 
 
@@ -730,11 +645,11 @@ Ablaufdatum:  [Custom:3]
 Mit freundlichen Grüßen,
 Ihr Team von [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzerkonto aktualisiert</value>
+  <data name="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzerkonto aktualisiert</value>
   </data>
-  <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:Displayname],
+  <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname],
 
 Ihr Benutzerkonto für unsere Website [Portal:PortalName] wurde aktualisiert und Sie wurden aus folgenden Benutzergruppen abgemeldet:
 
@@ -745,11 +660,11 @@ Mit freundlichen Grüßen,
 
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzerkonto aktualisiert</value>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzerkonto aktualisiert</value>
   </data>
-  <data name="EMAIL_ROLE_UPDATE_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:Displayname],
+  <data name="EMAIL_ROLE_UPDATE_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname],
 
 Ihr Benutzerkonto für unsere Website [Portal:PortalName] wurde aktualisiert und Ihre Mitgliedschaft in folgenden Benutzergruppen aktualisiert:
 
@@ -761,40 +676,56 @@ gültig bis: [Custom:3]
 Mit freundlichen Grüßen,
 Ihr Team von [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzerkonto aktualisiert</value>
+  <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzerkonto aktualisiert</value>
   </data>
-  <data name="EMAIL_SMTP_TEST_SUBJECT.Text">
-    <value xml:space="preserve">[Host:HostTitle] Test der SMTP-Konfiguration</value>
+  <data name="EMAIL_SMTP_TEST_SUBJECT.Text" xml:space="preserve">
+    <value>[Host:HostTitle] Test der SMTP-Konfiguration</value>
   </data>
-  <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text">
-    <value xml:space="preserve">&lt;p&gt;&lt;a href="{0}"&gt;ebenfalls folgen&lt;/a&gt; | &lt;a href="{1}"&gt;Profil anzeigen&lt;/a&gt;&lt;/p&gt;</value>
+  <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" xml:space="preserve">
+    <value>&lt;p&gt;&lt;a href="{0}"&gt;ebenfalls folgen&lt;/a&gt; | &lt;a href="{1}"&gt;Profil anzeigen&lt;/a&gt;&lt;/p&gt;</value>
   </data>
-  <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text">
-    <value xml:space="preserve">&lt;p&gt;&lt;a href="{0}"&gt;annehmen&lt;/a&gt; | &lt;a href="{1}"&gt;Profil anzeigen&lt;/a&gt;&lt;/p&gt;</value>
+  <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text" xml:space="preserve">
+    <value>&lt;p&gt;&lt;a href="{0}"&gt;annehmen&lt;/a&gt; | &lt;a href="{1}"&gt;Profil anzeigen&lt;/a&gt;&lt;/p&gt;</value>
   </data>
-  <data name="EMAIL_SUBJECT_FORMAT.Text">
-    <value xml:space="preserve">Neue Nachricht von {0}</value>
+  <data name="EMAIL_SUBJECT_FORMAT.Text" xml:space="preserve">
+    <value>Neue Nachricht von {0}</value>
   </data>
-  <data name="EMAIL_USER_LOCKOUT_BODY.Text">
-    <value xml:space="preserve">Am [Date:Current] wurde versucht, sich mit einem gesperrten Benutzerkonto (Benutzername: [Custom:0]) anzumelden. Sie sollten diese Versuche im Auge behalten.
+  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:DisplayName],
+
+vielen Dank, dass Sie sich bei [Portal:PortalName] registriert haben. Ihr Konto wurde freigeschaltet und Sie können sich ab sofort auf der Website anmelden. 
+
+Website: [Portal:URL]
+Anmeldename: [User:UserName]
+
+Wir wünschen Ihnen auf unserer Website viel Freude.
+
+Ihr Team von [Portal:PortalName]
+    </value>
+  </data>
+  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve">
+    <value>Registrierung für [Portal:URL] freigeschaltet</value>
+  </data>
+  <data name="EMAIL_USER_LOCKOUT_BODY.Text" xml:space="preserve">
+    <value>Am [Date:Current] wurde versucht, sich mit einem gesperrten Benutzerkonto (Benutzername: [Custom:0]) anzumelden. Sie sollten diese Versuche im Auge behalten.
 
 Mit freundlichen Grüßen,
 Ihr Team von [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzerkonto gesperrt</value>
+  <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzerkonto gesperrt</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text">
-    <value xml:space="preserve">Datum: [Date:Current]
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
+    <value>Datum: [Date:Current]
 Anzeigename: [User:DisplayName]
 E-Mail: [User:Email]</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzer registriert</value>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzer registriert</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:Displayname], 
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname], 
 
 vielen Dank, daß Sie sich für die Website [Portal:PortalName] registriert haben. Bitte lesen Sie die folgenden Informationen sorgfältig durch und verwahren Sie diese Nachricht an einem sicheren Ort, damit Sie zukünftig bei Bedarf darauf zurückgreifen können. 
 
@@ -807,11 +738,11 @@ Vielen Dank, wir freuen uns auf die Zusammenarbeit...
 
 Ihr Team von [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzer registriert</value>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzer registriert</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:Displayname],
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname],
 
 wir freuen uns Ihnen mitzuteilen, dass Sie nun erfolgreich als Benutzer der Website  [Portal:PortalName] registriert sind. 
 
@@ -825,11 +756,11 @@ Vielen Dank, wir freuen uns auf die Zusammenarbeit.
 
 Ihr Team von [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzer registriert</value>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzer registriert</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:Displayname],
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname],
 
 wir freuen uns Ihnen mitzuteilen, dass Sie sich erfolgreich als Benutzer unserer Website [Portal:PortalName] registriert haben. 
 
@@ -845,11 +776,27 @@ Bitte besuchen Sie unsere Website, um unser gesamtes Angebote nutzen zu können.
 Vielen Dank, 
 Ihr Team von [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzer registriert</value>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzer registriert</value>
   </data>
-  <data name="EMAIL_USER_UNREGISTER_BODY.Text">
-    <value xml:space="preserve">Datum: [Date:Current]
+  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:Displayname],
+
+Ihr Konto für die Website [Portal:PortalName] wurde deaktiviert.
+
+Website-Adresse: [Portal:URL]
+Anmeldename: [User:UserName]
+
+Bei Fragen wenden Sie sich bitte an [Portal:Email].
+
+Mit freundlichen Grüßen,
+Ihr Team von [Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
+    <value>Ihr Benutzerkonto für [Portal:URL] wurde deaktiviert.</value>
+  </data>
+  <data name="EMAIL_USER_UNREGISTER_BODY.Text" xml:space="preserve">
+    <value>Datum: [Date:Current]
 Vorname: [Profile:FirstName]
 Nachname: [Profile:LastName]
 Wohnung: [Profile:Unit]
@@ -861,11 +808,11 @@ PLZ: [Profile:PostalCode]
 Telefon: [Profile:Telephone]
 E-Mail: [User:Email]</value>
   </data>
-  <data name="EMAIL_USER_UNREGISTER_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Benutzer ausgetragen</value>
+  <data name="EMAIL_USER_UNREGISTER_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Benutzer ausgetragen</value>
   </data>
-  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text">
-    <value xml:space="preserve">Sehr geehrte(r) [User:DisplayName],
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" xml:space="preserve">
+    <value>Sehr geehrte(r) [User:DisplayName],
 
 Sie haben Ihr Kennwort auf  [Portal:PortalName] geändert oder ändern lassen.
 
@@ -876,11 +823,11 @@ Benutzername:     [User:Username]
 Mit freundlichen Grüßen,
 Ihr Team von [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text">
-    <value xml:space="preserve">Kennwort für Website [Portal:PortalName] aktualisiert</value>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text" xml:space="preserve">
+    <value>Kennwort für Website [Portal:PortalName] aktualisiert</value>
   </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text">
-    <value xml:space="preserve">Datum: [Custom:0]
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
+    <value>Datum: [Custom:0]
 Anmeldename: [Custom:1]
 Vorname: [Custom:2]
 Nachname: [Custom:3]
@@ -896,40 +843,40 @@ Mobiltel: [Custom:12]
 E-Mail: [Custom:13]
 Website: [Custom:14]</value>
   </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Werbepartner registriert</value>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Werbepartner registriert</value>
   </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text">
-    <value xml:space="preserve">Werte(r) [Custom:0] [Custom:1],
+  <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text" xml:space="preserve">
+    <value>Werte(r) [Custom:0] [Custom:1],
  
 Ihre Firma hat sich erfolgreich in unserer Website [Portal:PortalName] als Werbepartner angemeldet. Wir bedanken uns für Ihr Interesse und freuen uns auf eine erfolgreiche Partnerschaft.
  
 Mit freundlichen Grüßen,
 Ihr Team von [Portal.PortalName]</value>
   </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Werbepartner registriert</value>
+  <data name="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Werbepartner registriert</value>
   </data>
-  <data name="EnglishName.Text">
-    <value xml:space="preserve">Englischer Name</value>
+  <data name="EnglishName.Text" xml:space="preserve">
+    <value>Englischer Name</value>
   </data>
-  <data name="Error.Text">
-    <value xml:space="preserve">Es ist ein Fehler aufgetreten.</value>
+  <data name="Error.Text" xml:space="preserve">
+    <value>Es ist ein Fehler aufgetreten.</value>
   </data>
-  <data name="ExecutingScript.Text">
-    <value xml:space="preserve">Skript wird ausgeführt</value>
+  <data name="ExecutingScript.Text" xml:space="preserve">
+    <value>Skript wird ausgeführt</value>
   </data>
-  <data name="ExportModule.Action">
-    <value xml:space="preserve">Inhalt exportieren</value>
+  <data name="ExportModule.Action" xml:space="preserve">
+    <value>Inhalt exportieren</value>
   </data>
-  <data name="GeneralUpgrades.Text">
-    <value xml:space="preserve">Allgemeine Aktualisierungen werden ausgeführt</value>
+  <data name="GeneralUpgrades.Text" xml:space="preserve">
+    <value>Allgemeine Aktualisierungen werden ausgeführt</value>
   </data>
-  <data name="ImportModule.Action">
-    <value xml:space="preserve">Inhalt importieren</value>
+  <data name="ImportModule.Action" xml:space="preserve">
+    <value>Inhalt importieren</value>
   </data>
-  <data name="License.Text">
-    <value xml:space="preserve">&lt;p&gt;DNN&amp;reg; - http://www.dnnsoftware.com&lt;br /&gt;
+  <data name="License.Text" xml:space="preserve">
+    <value>&lt;p&gt;DNN&amp;reg; - http://www.dnnsoftware.com&lt;br /&gt;
 Copyright (c) 2002-2018&lt;br/&gt;
     by DNN Corp.&lt;/p&gt;
     &lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
@@ -944,23 +891,23 @@ THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABI
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
     DEALINGS IN THE SOFTWARE.&lt;/p&gt;</value>
   </data>
-  <data name="Localize.Action">
-    <value xml:space="preserve">übersetzen</value>
+  <data name="Localize.Action" xml:space="preserve">
+    <value>Übersetzen</value>
   </data>
-  <data name="LogClicks.Text">
-    <value xml:space="preserve">Jeden Aufruf des Links mit protokollieren</value>
+  <data name="LogClicks.Text" xml:space="preserve">
+    <value>Jeden Aufruf des Links mit protokollieren</value>
   </data>
-  <data name="LogEnd.Text">
-    <value xml:space="preserve">Ende</value>
+  <data name="LogEnd.Text" xml:space="preserve">
+    <value>Ende</value>
   </data>
-  <data name="LogStart.Text">
-    <value xml:space="preserve">Start</value>
+  <data name="LogStart.Text" xml:space="preserve">
+    <value>Start</value>
   </data>
-  <data name="Manage.Text">
-    <value xml:space="preserve">verwalten</value>
+  <data name="Manage.Text" xml:space="preserve">
+    <value>Verwalten</value>
   </data>
-  <data name="MESSAGE_PORTAL_PRIVACY.Text">
-    <value xml:space="preserve">&lt;div align="left"&gt;
+  <data name="MESSAGE_PORTAL_PRIVACY.Text" xml:space="preserve">
+    <value>&lt;div align="left"&gt;
         &lt;p&gt;[Portal:PortalName] is committed to protecting your privacy and developing technology
         that gives you the most powerful and safe online experience. This Statement of Privacy
         applies to the [Portal:PortalName] Web site and governs data collection and usage.
@@ -1055,8 +1002,8 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         problem.&lt;/p&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="MESSAGE_PORTAL_TERMS.Text">
-    <value xml:space="preserve">&lt;div align="left"&gt;
+  <data name="MESSAGE_PORTAL_TERMS.Text" xml:space="preserve">
+    <value>&lt;div align="left"&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;AGREEMENT BETWEEN USER AND [Portal:PortalName]&lt;/span&gt;&lt;p&gt;
         &lt;p&gt;The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].&lt;/p&gt;
         &lt;p&gt;The [Portal:PortalName] Web Site is offered to you conditioned on your acceptance
@@ -1239,236 +1186,208 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         Infringement.&lt;/p&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text">
-    <value xml:space="preserve">Um Ihr Kennwort zu erfragen, müssen Sie Ihren Benutzernamen sowie die Frage und Antwort aus der Registrierung angeben.</value>
+  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve">
+    <value>Um Ihr Kennwort zu erfragen, müssen Sie Ihren Benutzernamen sowie die Frage und Antwort aus der Registrierung angeben.</value>
   </data>
-  <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text">
-    <value xml:space="preserve">Bitte verifizieren Sie die Änderung Ihrer E-Mail-Adresse durch Eingabe Ihres Kennworts.</value>
+  <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" xml:space="preserve">
+    <value>Bitte verifizieren Sie die Änderung Ihrer E-Mail-Adresse durch Eingabe Ihres Kennworts.</value>
   </data>
-  <data name="ModuleGenericActions.Action">
-    <value xml:space="preserve">Administrator</value>
+  <data name="ModuleGenericActions.Action" xml:space="preserve">
+    <value>Administrator</value>
   </data>
-  <data name="ModuleHelp.Action">
-    <value xml:space="preserve">Hilfe</value>
+  <data name="ModuleHelp.Action" xml:space="preserve">
+    <value>Hilfe</value>
   </data>
-  <data name="ModulePermissions.Action">
-    <value xml:space="preserve">Berechtigungen</value>
+  <data name="ModulePermissions.Action" xml:space="preserve">
+    <value>Berechtigungen</value>
   </data>
-  <data name="ModuleSettings.Action">
-    <value xml:space="preserve">Einstellungen</value>
+  <data name="ModuleSettings.Action" xml:space="preserve">
+    <value>Einstellungen</value>
   </data>
-  <data name="ModuleSpecificActions.Action">
-    <value xml:space="preserve">bearbeiten</value>
+  <data name="ModuleSpecificActions.Action" xml:space="preserve">
+    <value>Bearbeiten</value>
   </data>
-  <data name="MoveBottom.Action">
-    <value xml:space="preserve">ans Ende</value>
+  <data name="MoveBottom.Action" xml:space="preserve">
+    <value>Ans Ende</value>
   </data>
-  <data name="MoveDown.Action">
-    <value xml:space="preserve">nach unten</value>
+  <data name="MoveDown.Action" xml:space="preserve">
+    <value>Nach unten</value>
   </data>
-  <data name="MovePane.Action">
-    <value xml:space="preserve">an</value>
+  <data name="MovePane.Action" xml:space="preserve">
+    <value>An</value>
   </data>
-  <data name="MoveRoot.Action">
-    <value xml:space="preserve">verschieben</value>
+  <data name="MoveRoot.Action" xml:space="preserve">
+    <value>Verschieben</value>
   </data>
-  <data name="MoveTop.Action">
-    <value xml:space="preserve">an den Anfang</value>
+  <data name="MoveTop.Action" xml:space="preserve">
+    <value>An den Anfang</value>
   </data>
-  <data name="MoveToPane.Action">
-    <value xml:space="preserve">nach {0}</value>
+  <data name="MoveToPane.Action" xml:space="preserve">
+    <value>Nach {0}</value>
   </data>
-  <data name="MoveUp.Action">
-    <value xml:space="preserve">nach oben</value>
+  <data name="MoveUp.Action" xml:space="preserve">
+    <value>Nach oben</value>
   </data>
-  <data name="NativeName.Text">
-    <value xml:space="preserve">Ursprünglicher Name</value>
+  <data name="NativeName.Text" xml:space="preserve">
+    <value>Ursprünglicher Name</value>
   </data>
-  <data name="NeutralCulture.Text">
-    <value xml:space="preserve">Neutrale Sprache</value>
+  <data name="NeutralCulture.Text" xml:space="preserve">
+    <value>Neutrale Sprache</value>
   </data>
-  <data name="NoErrorsSending.Text">
-    <value xml:space="preserve">Beim Senden sind keine Fehler aufgetreten.</value>
+  <data name="NoErrorsSending.Text" xml:space="preserve">
+    <value>Beim Senden sind keine Fehler aufgetreten.</value>
   </data>
-  <data name="NoLoginControl.Text">
-    <value xml:space="preserve">Sie wurden auf diese Standard-Anmeldeseite weitergeleitet, weil die eingestellte Anmeldeseite der Website über kein gültiges Anmeldemodul verfügt oder deren die Berechtigungen nicht korrekt eingestellt sind.</value>
+  <data name="NoLoginControl.Text" xml:space="preserve">
+    <value>Sie wurden auf diese Standard-Anmeldeseite weitergeleitet, weil die eingestellte Anmeldeseite der Website über kein gültiges Anmeldemodul verfügt oder deren die Berechtigungen nicht korrekt eingestellt sind.</value>
   </data>
-  <data name="OnlineHelp.Action">
-    <value xml:space="preserve">Online-Hilfe</value>
-  </data>
-  <data name="PortalLinks.Text">
-    <value xml:space="preserve">Website-Verknüpfungen</value>
-  </data>
-  <data name="PrintModule.Action">
-    <value xml:space="preserve">drucken</value>
-  </data>
-  <data name="PurgeCacheUnsupported.Text">
-    <value xml:space="preserve">Dieser Caching-Provider benötigt die "Cache löschen"-Funktion nicht.</value>
-  </data>
-  <data name="ReflectionPermission.Text">
-    <value xml:space="preserve">Diese Erweiterung erfordert Berechtigung für Reflection.</value>
-  </data>
-  <data name="Relationship_Added.Text">
-    <value xml:space="preserve">Beziehung {0} hinzugefügt</value>
-  </data>
-  <data name="Relationship_Deleted.Text">
-    <value xml:space="preserve">Beziehung {0} gelöscht: ID {1}</value>
-  </data>
-  <data name="Relationship_Updated.Text">
-    <value xml:space="preserve">Beziehung {0} aktualisiert</value>
-  </data>
-  <data name="RelationshipType_Added.Text">
-    <value xml:space="preserve">Beziehungstyp {0} hinzugefügt</value>
-  </data>
-  <data name="RelationshipType_Deleted.Text">
-    <value xml:space="preserve">Beziehungstyp {0} gelöscht: ID {1}</value>
-  </data>
-  <data name="RelationshipType_Updated.Text">
-    <value xml:space="preserve">Beziehungstyp {0} aktualisiert</value>
-  </data>
-  <data name="Return.Text">
-    <value xml:space="preserve">zurück zur Website</value>
-  </data>
-  <data name="SearchCrawler Admin.String">
-    <value xml:space="preserve">Suchindizierung verwalten</value>
-  </data>
-  <data name="SkinLoadError.Text">
-    <value xml:space="preserve">Das Seitenlayout konnte nicht geladen werden: {0}. Fehler: {1}&lt;br/&gt;</value>
-  </data>
-  <data name="SyndicateModule.Action">
-    <value xml:space="preserve">syndizieren</value>
-  </data>
-  <data name="TokenReplaceRestrictedProperty.Text">
-    <value xml:space="preserve">Fehler beim Zugriff auf {0}:{1}]: Zugriff auf {1} ist verboten für Datenquelle {0}.</value>
-  </data>
-  <data name="TokenReplaceUnknownObject.Text">
-    <value xml:space="preserve">Fehler beim Zugriff auf {0}:{1}]: {0} ist ein unbekanntes Objekt.</value>
-  </data>
-  <data name="TokenReplaceUnknownProperty.Text">
-    <value xml:space="preserve">Fehler beim Zugriff auf {0}:{1}]: {1} ist eine unbekannte Datenquelle für {0}.</value>
-  </data>
-  <data name="TrackClicks.Text">
-    <value xml:space="preserve">Linkaufrufe mitzählen</value>
-  </data>
-  <data name="Translate.Action">
-    <value xml:space="preserve">als 'übersetzt' markieren</value>
-  </data>
-  <data name="UnhandledError.Text">
-    <value xml:space="preserve">Ein nicht behandelter Fehler ist aufgetreten</value>
-  </data>
-  <data name="UnTranslate.Action">
-    <value xml:space="preserve">als 'nicht übersetzt' markieren</value>
-  </data>
-  <data name="UrlPathNotUnique.Error">
-    <value xml:space="preserve">Die angegebene URL ist nicht verfügbar, Aktivieren Sie "speichern", um die modifizierte URL zu akzeptieren.</value>
-  </data>
-  <data name="UserRelationship_Added.Text">
-    <value xml:space="preserve">Benutzer-Beziehung it ID {0} von UserID {1} nach UserID {2} erstellt</value>
-  </data>
-  <data name="UserRelationship_Deleted.Text">
-    <value xml:space="preserve">Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} gelöscht</value>
-  </data>
-  <data name="UserRelationship_Updated.Text">
-    <value xml:space="preserve">Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} aktualisiert</value>
-  </data>
-  <data name="UserRelationshipPreference_Added.Text">
-    <value xml:space="preserve">bevorzugte Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} erstellt</value>
-  </data>
-  <data name="UserRelationshipPreference_Deleted.Text">
-    <value xml:space="preserve">bevorzugte Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} gelöscht</value>
-  </data>
-  <data name="UserRelationshipPreference_Updated.Text">
-    <value xml:space="preserve">bevorzugte Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} aktualisiert</value>
-  </data>
-  <data name="View Folder.Permission">
-    <value xml:space="preserve">Dateien im Ordner öffnen</value>
-  </data>
-  <data name="View Tab.Permission">
-    <value xml:space="preserve">Seite anzeigen</value>
-  </data>
-  <data name="View.Permission">
-    <value xml:space="preserve">Modul anzeigen</value>
-  </data>
-  <data name="ViewSource.Action">
-    <value xml:space="preserve">Modul programmieren (Quellcode anzeigen)</value>
-  </data>
-  <data name="WebPermission.Text">
-    <value xml:space="preserve">Diese Erweiterung erfordert Web-Berechtigung.</value>
-  </data>
-  <data name="Write to Folder.Permission">
-    <value xml:space="preserve">Schreibe in Ordner</value>
-  </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text">
-    <value>Sehr geehrte(r) [User:DisplayName],
-
-Sie haben den Token zum Zurücksetzen des Kennworts von[Portal:PortalName] angefordert, aber Ihr Konto wurde noch nicht bestätigt.
-
-Das Kennwort kann erst dann zurückgesetzt werden, wenn Ihr Konto bestätigt ist..
-
-
-Mit freundlichen Grüßen,
-Ihr Team von [Portal:PortalName]
-
-*Hinweis: wenn Sie den Token zum Zurücksetzen des Kennworts nicht angefordert haben, können Sie diese Nachricht ignorieren..
-    </value>
-  </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text">
-    <value>Kennwort-Erinnerung für [Portal:PortalName]</value>
-  </data>
-  <data name="MESSAGE_LOGIN_INSTRUCTIONS.Text">
-    <value />
-  </data>
-  <data name="MESSAGE_REGISTRATION_INSTRUCTIONS.Text">
-    <value />
-  </data>
-  <data name="503.Error">
-    <value>{0} - 503 Dienst nicht verfügbar</value>
-  </data>
-  <data name="NoSitesForThisInstallation.Error">
+  <data name="NoSitesForThisInstallation.Error" xml:space="preserve">
     <value>Es gibt zur Zeit keine Website in dieser Installation.</value>
   </data>
-  <data name="SiteAccessedWhileInstallationWasInProgress.Error">
+  <data name="OnlineHelp.Action" xml:space="preserve">
+    <value>Online-Hilfe</value>
+  </data>
+  <data name="PortalLinks.Text" xml:space="preserve">
+    <value>Website-Verknüpfungen</value>
+  </data>
+  <data name="PrintModule.Action" xml:space="preserve">
+    <value>Drucken</value>
+  </data>
+  <data name="PurgeCacheUnsupported.Text" xml:space="preserve">
+    <value>Dieser Caching-Provider benötigt die "Cache löschen"-Funktion nicht.</value>
+  </data>
+  <data name="ReflectionPermission.Text" xml:space="preserve">
+    <value>Diese Erweiterung erfordert Berechtigung für Reflection.</value>
+  </data>
+  <data name="Registered Users.Role" xml:space="preserve">
+    <value>Registrierte Benutzer</value>
+  </data>
+  <data name="Registered Users.RoleDescription" xml:space="preserve">
+    <value>Alle Benutzer, die ein Konto auf dieser Seite haben und (falls die Verifizierung aktiviert wurde) verifiziert wurden.</value>
+  </data>
+  <data name="Relationship_Added.Text" xml:space="preserve">
+    <value>Beziehung {0} hinzugefügt</value>
+  </data>
+  <data name="Relationship_Deleted.Text" xml:space="preserve">
+    <value>Beziehung {0} gelöscht: ID {1}</value>
+  </data>
+  <data name="Relationship_Updated.Text" xml:space="preserve">
+    <value>Beziehung {0} aktualisiert</value>
+  </data>
+  <data name="RelationshipType_Added.Text" xml:space="preserve">
+    <value>Beziehungstyp {0} hinzugefügt</value>
+  </data>
+  <data name="RelationshipType_Deleted.Text" xml:space="preserve">
+    <value>Beziehungstyp {0} gelöscht: ID {1}</value>
+  </data>
+  <data name="RelationshipType_Updated.Text" xml:space="preserve">
+    <value>Beziehungstyp {0} aktualisiert</value>
+  </data>
+  <data name="Return.Text" xml:space="preserve">
+    <value>Zurück zur Website</value>
+  </data>
+  <data name="SearchCrawler Admin.String" xml:space="preserve">
+    <value>Suchindizierung verwalten</value>
+  </data>
+  <data name="SiteAccessedWhileInstallationWasInProgress.Error" xml:space="preserve">
     <value>Auf die Website wurde zugegriffen, während die Installation oder eine Aktualisierung durchgeführt wurde.</value>
   </data>
-  <data name="ThereIsAInstallationCurrentlyInProgress.Error">
+  <data name="SkinLoadError.Text" xml:space="preserve">
+    <value>Das Seitenlayout konnte nicht geladen werden: {0}. Fehler: {1}&lt;br/&gt;</value>
+  </data>
+  <data name="StartWorkflowBody.Text" xml:space="preserve">
+    <value>Seite '{0}' befindet sich im Status '{1}' und wartet auf die Übermittlung.</value>
+  </data>
+  <data name="StartWorkflowSubject.Text" xml:space="preserve">
+    <value>Seite eingereicht</value>
+  </data>
+  <data name="Subscribers.Role" xml:space="preserve">
+    <value>Abonnenten</value>
+  </data>
+  <data name="Subscribers.RoleDescription" xml:space="preserve">
+    <value>Abonnenten erlauben, von dieser Website per E-Mail kontaktiert zu werden. Nutzer können diese Einwilligung jederzeit widerrufen und somit die Kontrolle darüber behalten.</value>
+  </data>
+  <data name="Superuser.Role" xml:space="preserve">
+    <value>SuperUser</value>
+  </data>
+  <data name="Superuser.RoleDescription" xml:space="preserve">
+    <value>Superuser (manchmal auch Host-Benutzer genannt) haben Host-Zugriff auf die Website. Das bedeutet, sie können auf alle Inhalte aller Websites dieser Installation zugreifen und diese ändern. Dazu gehört auch das Hinzufügen und Entfernen von Administratoren und anderen Superusern. Sie können außerdem Systemaufgaben ausführen, wie z. B. das Leeren des Caches, das Neustarten der Anwendung, die Verwaltung von Konfigurationsdateien und die Konfiguration globaler Einstellungen.</value>
+  </data>
+  <data name="SyndicateModule.Action" xml:space="preserve">
+    <value>Syndizieren</value>
+  </data>
+  <data name="ThereIsAInstallationCurrentlyInProgress.Error" xml:space="preserve">
     <value>Es wird gerade eine Installation durchgeführt, bitte besuchen Sie unsere Website etwas später.</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_BODY.Text">
-    <value>Sehr geehrte(r) [User:DisplayName],
-
-vielen Dank, dass Sie sich bei [Portal:PortalName] registriert haben. Ihr Konto wurde freigeschaltet und Sie können sich ab sofort auf der Website anmelden. 
-
-Website: [Portal:URL]
-Anmeldename: [User:UserName]
-
-Wir wünschen Ihnen auf unserer Website viel Freude.
-
-Ihr Team von [Portal:PortalName]
-    </value>
+  <data name="TokenReplaceRestrictedProperty.Text" xml:space="preserve">
+    <value>Fehler beim Zugriff auf {0}:{1}]: Zugriff auf {1} ist verboten für Datenquelle {0}.</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text">
-    <value>Registrierung für [Portal:URL] freigeschaltet</value>
+  <data name="TokenReplaceUnknownObject.Text" xml:space="preserve">
+    <value>Fehler beim Zugriff auf {0}:{1}]: {0} ist ein unbekanntes Objekt.</value>
   </data>
-  <data name="DefaultStopwordGroup.Text">
-    <value>und,sind,aber,über,für,in,nicht,wie,dass,das,der,die,wir,ihr,sie,ihnen,ihren,seine,ihre,dort,dies,hier,war,was,wer,mit,durch</value>
+  <data name="TokenReplaceUnknownProperty.Text" xml:space="preserve">
+    <value>Fehler beim Zugriff auf {0}:{1}]: {1} ist eine unbekannte Datenquelle für {0}.</value>
   </data>
-  <data name="DefaultSynonymGroup.Text">
-    <value>dnn,dotnetnuke</value>
+  <data name="TrackClicks.Text" xml:space="preserve">
+    <value>Linkaufrufe mitzählen</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text">
-    <value>Sehr geehrte(r) [User:Displayname],
-
-Ihr Konto für die Website [Portal:PortalName] wurde deaktiviert.
-
-Website-Adresse: [Portal:URL]
-Anmeldename: [User:UserName]
-
-Bei Fragen wenden Sie sich bitte an [Portal:Email].
-
-Mit freundlichen Grüßen,
-Ihr Team von [Portal:PortalName]</value>
+  <data name="Translate.Action" xml:space="preserve">
+    <value>Als 'übersetzt' markieren</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text">
-    <value>Ihr Benutzerkonto für [Portal:URL] wurde deaktiviert.</value>
+  <data name="Unauthenticated Users.Role" xml:space="preserve">
+    <value>Nicht authentifizierte Benutzer</value>
+  </data>
+  <data name="Unauthenticated Users.RoleDescription" xml:space="preserve">
+    <value>Dies ist eine plattformverwaltete Rolle (d. h. Sie können dieser Rolle keine Benutzer zuweisen). Sie dient zur Kennzeichnung von Benutzern, die nicht angemeldet sind.</value>
+  </data>
+  <data name="UnhandledError.Text" xml:space="preserve">
+    <value>Ein nicht behandelter Fehler ist aufgetreten</value>
+  </data>
+  <data name="UnTranslate.Action" xml:space="preserve">
+    <value>Als 'nicht übersetzt' markieren</value>
+  </data>
+  <data name="Unverified Users.Role" xml:space="preserve">
+    <value>Nicht verifizierte Nutzer</value>
+  </data>
+  <data name="Unverified Users.RoleDescription" xml:space="preserve">
+    <value>Wenn diese Website eine Kontoverifizierung verwendet, gehört jeder registrierte Benutzer zunächst dieser Rolle an und ist kein „registrierter Benutzer“. Sobald die Verifizierung abgeschlossen ist (je nach Einstellung entweder durch Klicken auf einen E-Mail-Link oder durch einen Administrator), verliert der Benutzer seine Zugehörigkeit zu dieser Rolle und wird zu einem regulären „registrierten Benutzer“.</value>
+  </data>
+  <data name="UrlPathNotUnique.Error" xml:space="preserve">
+    <value>Die angegebene URL ist nicht verfügbar, Aktivieren Sie "speichern", um die modifizierte URL zu akzeptieren.</value>
+  </data>
+  <data name="UserRelationship_Added.Text" xml:space="preserve">
+    <value>Benutzer-Beziehung it ID {0} von UserID {1} nach UserID {2} erstellt</value>
+  </data>
+  <data name="UserRelationship_Deleted.Text" xml:space="preserve">
+    <value>Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} gelöscht</value>
+  </data>
+  <data name="UserRelationship_Updated.Text" xml:space="preserve">
+    <value>Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} aktualisiert</value>
+  </data>
+  <data name="UserRelationshipPreference_Added.Text" xml:space="preserve">
+    <value>Bevorzugte Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} erstellt</value>
+  </data>
+  <data name="UserRelationshipPreference_Deleted.Text" xml:space="preserve">
+    <value>Bevorzugte Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} gelöscht</value>
+  </data>
+  <data name="UserRelationshipPreference_Updated.Text" xml:space="preserve">
+    <value>Bevorzugte Benutzer-Beziehung mit ID {0} von UserID {1} nach UserID {2} aktualisiert</value>
+  </data>
+  <data name="View Folder.Permission" xml:space="preserve">
+    <value>Dateien im Ordner öffnen</value>
+  </data>
+  <data name="View Tab.Permission" xml:space="preserve">
+    <value>Seite anzeigen</value>
+  </data>
+  <data name="View.Permission" xml:space="preserve">
+    <value>Modul anzeigen</value>
+  </data>
+  <data name="ViewSource.Action" xml:space="preserve">
+    <value>Modul programmieren (Quellcode anzeigen)</value>
+  </data>
+  <data name="WebPermission.Text" xml:space="preserve">
+    <value>Diese Erweiterung erfordert Web-Berechtigung.</value>
+  </data>
+  <data name="Write to Folder.Permission" xml:space="preserve">
+    <value>Schreibe in Ordner</value>
   </data>
 </root>

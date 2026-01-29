@@ -12,85 +12,85 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Text">
-    <value xml:space="preserve">Neue URL hinzufügen</value>
+  <data name="Add.Text" xml:space="preserve">
+    <value>Neue URL hinzufügen</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Wählen Sie eine bestehende Datei.</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Wählen Sie eine bestehende Datei.</value>
   </data>
-  <data name="Delete.Text">
-    <value xml:space="preserve">Ausgewählte URL aus der Liste löschen&lt;br/&gt;</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Ausgewählte URL aus der Liste löschen&lt;br/&gt;</value>
   </data>
-  <data name="File.Text">
-    <value xml:space="preserve">Dateiname:&lt;br/&gt;</value>
+  <data name="File.Text" xml:space="preserve">
+    <value>Dateiname:&lt;br/&gt;</value>
   </data>
-  <data name="FileType.Text">
-    <value xml:space="preserve">Datei (eine Datei in Ihrer Website)</value>
+  <data name="FileType.Text" xml:space="preserve">
+    <value>Datei (eine Datei in Ihrer Website)</value>
   </data>
-  <data name="Folder.Text">
-    <value xml:space="preserve">Dateipfad&lt;br/&gt;</value>
+  <data name="Folder.Text" xml:space="preserve">
+    <value>Dateipfad&lt;br/&gt;</value>
   </data>
-  <data name="Image.Text">
-    <value xml:space="preserve">Bild:&lt;br/&gt;</value>
+  <data name="Image.Text" xml:space="preserve">
+    <value>Bild:&lt;br/&gt;</value>
   </data>
-  <data name="ImageType.Text">
-    <value xml:space="preserve">Systembild</value>
+  <data name="ImageType.Text" xml:space="preserve">
+    <value>Systembild</value>
   </data>
-  <data name="Log.Text">
-    <value xml:space="preserve">Benutzer, Datum und Uhrzeit jedes Link-Klicks speichern&lt;br/&gt;</value>
+  <data name="Log.Text" xml:space="preserve">
+    <value>Benutzer, Datum und Uhrzeit jedes Link-Klicks speichern&lt;br/&gt;</value>
   </data>
-  <data name="NewWindow.Text">
-    <value xml:space="preserve">Link im neuen Browser-Fenster öffnen&lt;br/&gt;</value>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>Link im neuen Browser-Fenster öffnen&lt;br/&gt;</value>
   </data>
-  <data name="NoneType.Text">
-    <value xml:space="preserve">kein</value>
+  <data name="NoneType.Text" xml:space="preserve">
+    <value>Kein</value>
   </data>
-  <data name="NoPermission.Text">
-    <value xml:space="preserve">Sie haben keine Berechtigung, Dateien der Website anzuzeigen.</value>
+  <data name="NoPermission.Text" xml:space="preserve">
+    <value>Sie haben keine Berechtigung, Dateien der Website anzuzeigen.</value>
   </data>
-  <data name="NoUser.Text">
-    <value xml:space="preserve">Der angegebene Benutzername ist in dieser Website nicht bekannt.</value>
+  <data name="NoUser.Text" xml:space="preserve">
+    <value>Der angegebene Benutzername ist in dieser Website nicht bekannt.</value>
   </data>
-  <data name="NoWritePermission.Text">
-    <value xml:space="preserve">Sie haben keine Berechtigung, Dateien auf die Website hochzuladen.</value>
+  <data name="NoWritePermission.Text" xml:space="preserve">
+    <value>Sie haben keine Berechtigung, Dateien auf die Website hochzuladen.</value>
   </data>
-  <data name="Root.Text">
-    <value xml:space="preserve">Basis</value>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Basis</value>
   </data>
-  <data name="Save.Text">
-    <value xml:space="preserve">Ausgewählte Datei hochladen</value>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Ausgewählte Datei hochladen</value>
   </data>
-  <data name="Select.Text">
-    <value xml:space="preserve">Wählen Sie eine bestehende URL</value>
+  <data name="Select.Text" xml:space="preserve">
+    <value>Wählen Sie eine bestehende URL</value>
   </data>
-  <data name="Tab.Text">
-    <value xml:space="preserve">Seite:</value>
+  <data name="Tab.Text" xml:space="preserve">
+    <value>Seite:</value>
   </data>
-  <data name="TabType.Text">
-    <value xml:space="preserve">Seite (eine Seite Ihre Website)</value>
+  <data name="TabType.Text" xml:space="preserve">
+    <value>Seite (eine Seite Ihre Website)</value>
   </data>
-  <data name="Track.Text">
-    <value xml:space="preserve">Anzahl der der Klicks auf diesen Link verfolgen.&lt;br/&gt;</value>
+  <data name="Track.Text" xml:space="preserve">
+    <value>Anzahl der der Klicks auf diesen Link verfolgen.&lt;br/&gt;</value>
   </data>
-  <data name="Type.Text">
-    <value xml:space="preserve">Linktyp:</value>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Linktyp:</value>
   </data>
-  <data name="Upload.Text">
-    <value xml:space="preserve">Datei hochladen</value>
+  <data name="Upload.Text" xml:space="preserve">
+    <value>Datei hochladen</value>
   </data>
-  <data name="UploadError.Text">
-    <value xml:space="preserve">Der Dateityp {1} ist in diesem Kontext nicht zugelassen. Gültige Dateitypen sind: {0}</value>
+  <data name="UploadError.Text" xml:space="preserve">
+    <value>Der Dateityp {1} ist in diesem Kontext nicht zugelassen. Gültige Dateitypen sind: {0}</value>
   </data>
-  <data name="URL.Text">
-    <value xml:space="preserve">Ort: (geben Sie die Adresse des Links ein)&lt;br/&gt;</value>
+  <data name="URL.Text" xml:space="preserve">
+    <value>Ort: (geben Sie die Adresse des Links ein)&lt;br/&gt;</value>
   </data>
-  <data name="URLType.Text">
-    <value xml:space="preserve">URL (Link zu einer externen Adresse)</value>
+  <data name="URLType.Text" xml:space="preserve">
+    <value>URL (Link zu einer externen Adresse)</value>
   </data>
-  <data name="User.Text">
-    <value xml:space="preserve">Geben Sie den Anmeldenamen eines Mitglieds Ihrer Website an:&lt;br/&gt;</value>
+  <data name="User.Text" xml:space="preserve">
+    <value>Geben Sie den Anmeldenamen eines Mitglieds Ihrer Website an:&lt;br/&gt;</value>
   </data>
-  <data name="UserType.Text">
-    <value xml:space="preserve">Benutzer (ein Mitglied Ihrer Website)</value>
+  <data name="UserType.Text" xml:space="preserve">
+    <value>Benutzer (ein Mitglied Ihrer Website)</value>
   </data>
 </root>

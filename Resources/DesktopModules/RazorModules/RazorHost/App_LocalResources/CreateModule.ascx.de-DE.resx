@@ -12,23 +12,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdCreate.Text">
-    <value xml:space="preserve">Modul erstellen</value>
+  <data name="cmdCreate.Text" xml:space="preserve">
+    <value>Modul erstellen</value>
   </data>
-  <data name="ControlTitle_createmodule.Text">
-    <value xml:space="preserve">Modul erstellen</value>
+  <data name="ControlTitle_createmodule.Text" xml:space="preserve">
+    <value>Modul erstellen</value>
   </data>
-  <data name="FolderExists.Text">
-    <value xml:space="preserve">Der ausgewählte Ordner existiert bereit, bitte wählen Sie einen anderen Namen</value>
+  <data name="FolderExists.Text" xml:space="preserve">
+    <value>Der ausgewählte Ordner existiert bereit, bitte wählen Sie einen anderen Namen</value>
   </data>
-  <data name="ImportControl.ErrorMessage">
-    <value xml:space="preserve">Beim Importieren des Modul-Steuerelements ist ein Fehler aufgetreten, bitte entnehmen Sie die Details dem Ereignisprotokoll.</value>
+  <data name="ImportControl.ErrorMessage" xml:space="preserve">
+    <value>Beim Importieren des Modul-Steuerelements ist ein Fehler aufgetreten, bitte entnehmen Sie die Details dem Ereignisprotokoll.</value>
   </data>
-  <data name="ManifestCreationError.Text">
-    <value xml:space="preserve">Beim Erstellen der Steuerdatei ist ein Fehler aufgetreten. Prüfen Sie das Ereignisprotokoll.</value>
+  <data name="ManifestCreationError.Text" xml:space="preserve">
+    <value>Beim Erstellen der Steuerdatei ist ein Fehler aufgetreten. Prüfen Sie das Ereignisprotokoll.</value>
   </data>
-  <data name="ManifestText.Text">
-    <value xml:space="preserve">&lt;dotnetnuke type="Package" version="5.0"&gt;
+  <data name="ManifestText.Text" xml:space="preserve">
+    <value>&lt;dotnetnuke type="Package" version="5.0"&gt;
  &lt;packages&gt;
     &lt;package name="{0}" type="Module" version="01.00.00"&gt;
      &lt;friendlyName&gt;{0}&lt;/friendlyName&gt;
@@ -88,61 +88,61 @@
  &lt;/packages&gt;
 &lt;/dotnetnuke&gt;</value>
   </data>
-  <data name="ModuleControlCreationError.Text">
-    <value xml:space="preserve">Beim Erstellen des Modul-Steuerelements ist ein Fehler aufgetreten. Prüfen Sie das Ereignisprotokoll.</value>
+  <data name="ModuleControlCreationError.Text" xml:space="preserve">
+    <value>Beim Erstellen des Modul-Steuerelements ist ein Fehler aufgetreten. Prüfen Sie das Ereignisprotokoll.</value>
   </data>
-  <data name="ModuleControlText.Text">
-    <value xml:space="preserve">&lt;%@ Control AutoEventWireup="false" Inherits="DotNetNuke.Web.Razor.RazorModuleBase" %&gt;</value>
+  <data name="ModuleControlText.Text" xml:space="preserve">
+    <value>&lt;%@ Control AutoEventWireup="false" Inherits="DotNetNuke.Web.Razor.RazorModuleBase" %&gt;</value>
   </data>
-  <data name="plAddPage.Help">
-    <value xml:space="preserve">Aktivieren Sie diese Option, um eine Testseite für Ihr neues Modul automatisch erstellen zu lassen.</value>
+  <data name="plAddPage.Help" xml:space="preserve">
+    <value>Aktivieren Sie diese Option, um eine Testseite für Ihr neues Modul automatisch erstellen zu lassen.</value>
   </data>
-  <data name="plAddPage.Text">
-    <value xml:space="preserve">Testseite erstellen?</value>
+  <data name="plAddPage.Text" xml:space="preserve">
+    <value>Testseite erstellen?</value>
   </data>
-  <data name="plDescription.Help">
-    <value xml:space="preserve">Sie können eine Beschreibung für Ihr Modul angeben.</value>
+  <data name="plDescription.Help" xml:space="preserve">
+    <value>Sie können eine Beschreibung für Ihr Modul angeben.</value>
   </data>
-  <data name="plDescription.Text">
-    <value xml:space="preserve">Beschreibung:</value>
+  <data name="plDescription.Text" xml:space="preserve">
+    <value>Beschreibung:</value>
   </data>
-  <data name="plFolder.Help">
-    <value xml:space="preserve">Geben Sie den Ordnernamen für das neue Modul ein. Dieser Order wird als Unterordner von "DesktopModules/RazorModules" erstellt.</value>
+  <data name="plFolder.Help" xml:space="preserve">
+    <value>Geben Sie den Ordnernamen für das neue Modul ein. Dieser Order wird als Unterordner von "DesktopModules/RazorModules" erstellt.</value>
   </data>
-  <data name="plFolder.Text">
-    <value xml:space="preserve">Ordner:</value>
+  <data name="plFolder.Text" xml:space="preserve">
+    <value>Ordner:</value>
   </data>
-  <data name="plName.Help">
-    <value xml:space="preserve">Geben Sie einen Anzeigenamen für ihr Modul ein.</value>
+  <data name="plName.Help" xml:space="preserve">
+    <value>Geben Sie einen Anzeigenamen für ihr Modul ein.</value>
   </data>
-  <data name="plName.Text">
-    <value xml:space="preserve">Modulname:</value>
+  <data name="plName.Text" xml:space="preserve">
+    <value>Modulname:</value>
   </data>
-  <data name="plSource.Text">
-    <value xml:space="preserve">Skript-Quelldatei:</value>
+  <data name="plSource.Text" xml:space="preserve">
+    <value>Skript-Quelldatei:</value>
   </data>
-  <data name="ScriptCopyError.Text">
-    <value xml:space="preserve">Beim Kopieren der Skriptdatei in den Zielordner ist ein unerwarteter Fehler aufgetreten. Prüfen Sie das Ereignisprotokoll.</value>
+  <data name="ScriptCopyError.Text" xml:space="preserve">
+    <value>Beim Kopieren der Skriptdatei in den Zielordner ist ein unerwarteter Fehler aufgetreten. Prüfen Sie das Ereignisprotokoll.</value>
   </data>
-  <data name="scriptsLabel.Help">
-    <value xml:space="preserve">Wählen Sie aus der Liste das Skript, das Sie bearbeiten möchten.</value>
+  <data name="scriptsLabel.Help" xml:space="preserve">
+    <value>Wählen Sie aus der Liste das Skript, das Sie bearbeiten möchten.</value>
   </data>
-  <data name="scriptsLabel.Text">
-    <value xml:space="preserve">Skript wählen:</value>
+  <data name="scriptsLabel.Text" xml:space="preserve">
+    <value>Skript wählen:</value>
   </data>
-  <data name="SourceControl.Text">
-    <value xml:space="preserve">Modul-Steuerelement - {0}</value>
+  <data name="SourceControl.Text" xml:space="preserve">
+    <value>Modul-Steuerelement - {0}</value>
   </data>
-  <data name="SourceFile.Text">
-    <value xml:space="preserve">Quellskript-Datei - {0}</value>
+  <data name="SourceFile.Text" xml:space="preserve">
+    <value>Quellskript-Datei - {0}</value>
   </data>
-  <data name="TabExists.Text">
-    <value xml:space="preserve">Der Seitenname existiert bereits für dieses Modul. Das Modul wurde erstellt, aber die Testseite könnte nicht angelegt werden.</value>
+  <data name="TabExists.Text" xml:space="preserve">
+    <value>Der Seitenname existiert bereits für dieses Modul. Das Modul wurde erstellt, aber die Testseite könnte nicht angelegt werden.</value>
   </data>
-  <data name="valFolder.Text">
-    <value xml:space="preserve">Sie müssen den Ordner angeben.&lt;br/&gt;</value>
+  <data name="valFolder.Text" xml:space="preserve">
+    <value>Sie müssen den Ordner angeben.&lt;br/&gt;</value>
   </data>
-  <data name="valName.Text">
-    <value xml:space="preserve">Der Name ist ein Pflichtfeld&lt;br/&gt;</value>
+  <data name="valName.Text" xml:space="preserve">
+    <value>Der Name ist ein Pflichtfeld&lt;br/&gt;</value>
   </data>
 </root>

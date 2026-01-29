@@ -7,49 +7,28 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="nav_Analytics.Text" xml:space="preserve">
-    <value>Analytics</value>
+  <data name="btn_CloseDialog.Text" xml:space="preserve">
+    <value>Ok</value>
   </data>
-  <data name="nav_Dashboard.Text" xml:space="preserve">
-    <value>Bedienzentrale</value>
+  <data name="btn_LoadMore.Text" xml:space="preserve">
+    <value>Weitere laden</value>
   </data>
-  <data name="nav_Logout.Text" xml:space="preserve">
-    <value>abmelden</value>
+  <data name="Critical.Text" xml:space="preserve">
+    <value>Kritisch</value>
   </data>
-  <data name="nav_Settings.Text" xml:space="preserve">
-    <value>Einstellungen</value>
+  <data name="DisableEditBar.Help" xml:space="preserve">
+    <value>Diese DNN-Installation verwendet eine alternative Bearbeitungsleiste. </value>
   </data>
-  <data name="nav_Tasks.Text" xml:space="preserve">
-    <value>Aufgaben</value>
+  <data name="DisableEditBar.Text" xml:space="preserve">
+    <value>Die Bearbeitungsleiste ist deaktiviert. </value>
   </data>
-  <data name="nav_Edit.Text" xml:space="preserve">
-    <value>bearbeiten</value>
-  </data>
-  <data name="nav_Manage.Text" xml:space="preserve">
-    <value>verwalten</value>
-  </data>
-  <data name="nav_Content.Text" xml:space="preserve">
-    <value>Inhalt</value>
-  </data>
-  <data name="nav_Tools.Text" xml:space="preserve">
-    <value>Extras</value>
-  </data>
-  <data name="nav_Accounts.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="nav_DocCenter.Text" xml:space="preserve">
-    <value>Dokumente</value>
-  </data>
-  <data name="nav_Help.Text" xml:space="preserve">
-    <value>Hilfe</value>
-  </data>
-  <data name="nav_Site.Text" xml:space="preserve">
-    <value>Website aufrufen</value>
+  <data name="Documentation.Text" xml:space="preserve">
+    <value>Dokumentation</value>
   </data>
   <data name="err_BetweenMinMax.Text" xml:space="preserve">
     <value>Der Wert muss innerhalb der bestehenden Grenzen liegen.</value>
@@ -90,8 +69,68 @@
   <data name="err_RoleAssignedToUser.Text" xml:space="preserve">
     <value>Der Benutzer ist bereits Mitglieder dieser Gruppe.</value>
   </data>
+  <data name="Framework.Text" xml:space="preserve">
+    <value>.Net Framework</value>
+  </data>
+  <data name="LatestVersion.Text" xml:space="preserve">
+    <value>Neueste Version</value>
+  </data>
+  <data name="LicenseKey.Text" xml:space="preserve">
+    <value>Lizenzschlüssel</value>
+  </data>
+  <data name="LockEditMode.Help" xml:space="preserve">
+    <value>Das Bearbeiten-Symbol erscheint blau, wenn es arretiert ist und der Modus beim Seitenwechsel erhalten bleibt.</value>
+  </data>
+  <data name="LockEditMode.Text" xml:space="preserve">
+    <value>Klicken Sie hier, um den Bearbeiten--Modus zu arretieren.</value>
+  </data>
+  <data name="nav_Analytics.Text" xml:space="preserve">
+    <value>Analytics</value>
+  </data>
+  <data name="nav_Content.Text" xml:space="preserve">
+    <value>Inhalt</value>
+  </data>
+  <data name="nav_Dashboard.Text" xml:space="preserve">
+    <value>Bedienzentrale</value>
+  </data>
+  <data name="nav_DocCenter.Text" xml:space="preserve">
+    <value>Dokumente</value>
+  </data>
+  <data name="nav_Edit.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
+  <data name="nav_GlobalAssets.Text" xml:space="preserve">
+    <value>System-Dateien</value>
+  </data>
+  <data name="nav_Help.Text" xml:space="preserve">
+    <value>Hilfe</value>
+  </data>
   <data name="nav_Home.Text" xml:space="preserve">
     <value>Start</value>
+  </data>
+  <data name="nav_Logout.Text" xml:space="preserve">
+    <value>Abmelden</value>
+  </data>
+  <data name="nav_Manage.Text" xml:space="preserve">
+    <value>Verwalten</value>
+  </data>
+  <data name="nav_Settings.Text" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="nav_Site.Text" xml:space="preserve">
+    <value>Website aufrufen</value>
+  </data>
+  <data name="nav_SiteAssets.Text" xml:space="preserve">
+    <value>Website-Dateien</value>
+  </data>
+  <data name="nav_Tasks.Text" xml:space="preserve">
+    <value>Aufgaben</value>
+  </data>
+  <data name="nav_Tools.Text" xml:space="preserve">
+    <value>Extras</value>
+  </data>
+  <data name="NormalUpdate.Text" xml:space="preserve">
+    <value>[ Update verfügbar ]</value>
   </data>
   <data name="permissiongrid.Actions.Text" xml:space="preserve">
     <value>Aktionen</value>
@@ -103,16 +142,16 @@
     <value>Benutzer hinzufügen</value>
   </data>
   <data name="permissiongrid.Add.Text" xml:space="preserve">
-    <value>erstellen</value>
+    <value>Erstellen</value>
   </data>
   <data name="permissiongrid.AllRoles.Text" xml:space="preserve">
     <value>&amp;lt;Alle Gruppen&amp;gt;</value>
   </data>
   <data name="permissiongrid.Copy.Text" xml:space="preserve">
-    <value>kopieren</value>
+    <value>Kopieren</value>
   </data>
   <data name="permissiongrid.Delete.Text" xml:space="preserve">
-    <value>löschen</value>
+    <value>Löschen</value>
   </data>
   <data name="permissiongrid.Display Name.Text" xml:space="preserve">
     <value>Anzeigename:</value>
@@ -121,13 +160,13 @@
     <value>Inhalt bearbeiten</value>
   </data>
   <data name="permissiongrid.Edit Tab.Text" xml:space="preserve">
-    <value>alle Rechte</value>
+    <value>Alle Rechte</value>
   </data>
   <data name="permissiongrid.Edit.Text" xml:space="preserve">
-    <value>alle Rechte</value>
+    <value>Alle Rechte</value>
   </data>
   <data name="permissiongrid.Export.Text" xml:space="preserve">
-    <value>exportieren</value>
+    <value>Exportieren</value>
   </data>
   <data name="permissiongrid.Filter By Group.Text" xml:space="preserve">
     <value>Nach Gruppe filtern</value>
@@ -136,13 +175,13 @@
     <value>&amp;lt;allgemeine Gruppen&amp;gt;</value>
   </data>
   <data name="permissiongrid.Import.Text" xml:space="preserve">
-    <value>importieren</value>
+    <value>Importieren</value>
   </data>
   <data name="permissiongrid.Manage Settings.Text" xml:space="preserve">
     <value>Einstellungen vornehmen</value>
   </data>
   <data name="permissiongrid.Navigate.Text" xml:space="preserve">
-    <value>aufrufen</value>
+    <value>Aufrufen</value>
   </data>
   <data name="permissiongrid.Select Role.Text" xml:space="preserve">
     <value>Gruppe wählen</value>
@@ -157,13 +196,10 @@
     <value>Anzeige</value>
   </data>
   <data name="permissiongrid.View.Text" xml:space="preserve">
-    <value>anzeigen</value>
+    <value>Anzeigen</value>
   </data>
-  <data name="nav_SiteAssets.Text" xml:space="preserve">
-    <value>Website-Dateien</value>
-  </data>
-  <data name="nav_GlobalAssets.Text" xml:space="preserve">
-    <value>System-Dateien</value>
+  <data name="ServerName.Text" xml:space="preserve">
+    <value>Server-Name</value>
   </data>
   <data name="title_Tasks.Text" xml:space="preserve">
     <value>Aufgaben</value>
@@ -171,43 +207,13 @@
   <data name="txt_ViewIndex.Text" xml:space="preserve">
     <value>Eintrag {0} of {1}</value>
   </data>
-  <data name="btn_LoadMore.Text" xml:space="preserve">
-    <value>Weitere laden</value>
-  </data>
-  <data name="btn_CloseDialog.Text">
-    <value>ok</value>
-  </data>
-  <data name="CriticalUpdate.Text">
-    <value>[ Kritisches Update ]</value>
-  </data>
-  <data name="Documentation.Text">
-    <value>Dokumentation</value>
-  </data>
-  <data name="Framework.Text">
-    <value>.Net Framework</value>
-  </data>
-  <data name="LicenseKey.Text">
-    <value>Lizenzschlüssel</value>
-  </data>
-  <data name="NormalUpdate.Text">
-    <value>[ Update verfügbar ]</value>
-  </data>
-  <data name="ServerName.Text">
-    <value>Server-Name</value>
-  </data>
-  <data name="UpgradeLicense.Text">
-    <value>[ Zu Evoq wechseln ]</value>
-  </data>
-  <data name="LockEditMode.Help">
-    <value>Das Bearbeiten-Symbol erscheint blau, wenn es arretiert ist und der Modus beim Seitenwechsel erhalten bleibt.</value>
-  </data>
-  <data name="LockEditMode.Text">
-    <value>Klicken Sie hier, um den Bearbeiten--Modus zu arretieren.</value>
-  </data>
-  <data name="UnlockEditMode.Help">
+  <data name="UnlockEditMode.Help" xml:space="preserve">
     <value>Wenn der Bearbeiten-Modus nicht arretiert ist, wird dieser beim Seitenwechsel verlassen.</value>
   </data>
-  <data name="UnlockEditMode.Text">
+  <data name="UnlockEditMode.Text" xml:space="preserve">
     <value>Klicken Sie hier, um die Arretierung aufzuheben.</value>
+  </data>
+  <data name="Update.Text" xml:space="preserve">
+    <value>Aktualisieren</value>
   </data>
 </root>

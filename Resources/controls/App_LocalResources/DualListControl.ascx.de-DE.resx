@@ -12,22 +12,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Text">
-    <value xml:space="preserve">gewählten verfügbaren Eintrag auswählen</value>
+  <data name="Add.Text" xml:space="preserve">
+    <value>Gewählten verfügbaren Eintrag auswählen</value>
   </data>
-  <data name="AddAll.Text">
-    <value xml:space="preserve">Alle verfügbaren Einträge zuordnen</value>
+  <data name="AddAll.Text" xml:space="preserve">
+    <value>Alle verfügbaren Einträge zuordnen</value>
   </data>
-  <data name="Assigned.Text">
-    <value xml:space="preserve">zugeordnet</value>
+  <data name="Assigned.Text" xml:space="preserve">
+    <value>Zugeordnet</value>
   </data>
-  <data name="Available.Text">
-    <value xml:space="preserve">verfügbar</value>
+  <data name="Available.Text" xml:space="preserve">
+    <value>Verfügbar</value>
   </data>
-  <data name="Remove.Text">
-    <value xml:space="preserve">Ausgewählten zugeordneten Eintrag entfernen</value>
+  <data name="Remove.Text" xml:space="preserve">
+    <value>Ausgewählten zugeordneten Eintrag entfernen</value>
   </data>
-  <data name="RemoveAll.Text">
-    <value xml:space="preserve">alle zugeordneten Einträge entfernen</value>
+  <data name="RemoveAll.Text" xml:space="preserve">
+    <value>Alle zugeordneten Einträge entfernen</value>
   </data>
 </root>
